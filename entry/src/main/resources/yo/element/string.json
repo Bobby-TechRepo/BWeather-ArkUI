@@ -1,0 +1,1300 @@
+{
+  "string": [
+    {
+      "name": "appTitle",
+      "value": "BWeather"
+    },
+    {
+      "name": "navForecast",
+      "value": "Àsọtẹ́lẹ̀"
+    },
+    {
+      "name": "navLocations",
+      "value": "Àwọn ibì"
+    },
+    {
+      "name": "navSettings",
+      "value": "Ètò"
+    },
+    {
+      "name": "addCity",
+      "value": "Ṣàfikún ìlú"
+    },
+    {
+      "name": "searchHint",
+      "value": "Wá àwọn ìlú"
+    },
+    {
+      "name": "clearSearch",
+      "value": "Pa ìwádìí rẹ́"
+    },
+    {
+      "name": "close",
+      "value": "Pa dé"
+    },
+    {
+      "name": "retry",
+      "value": "Gbìyànjú lẹ́ẹ̀kan sí i"
+    },
+    {
+      "name": "keepTyping",
+      "value": "Máa tẹ̀ síwájú…"
+    },
+    {
+      "name": "searchFailed",
+      "value": "Ìwádìí kùnà. Ṣàyẹ̀wò ìsopọ̀ íntánẹ́ẹ̀tì rẹ kí o sì gbìyànjú lẹ́ẹ̀kan sí i."
+    },
+    {
+      "name": "noPlacesMatch",
+      "value": "Kò sí ibì kankan tó bá \"%1$s\" mu."
+    },
+    {
+      "name": "welcomeTitle",
+      "value": "Káàbọ̀ sí BWeather"
+    },
+    {
+      "name": "welcomeSubtitle",
+      "value": "Àsọtẹ́lẹ̀ ojú-ọjọ́ fún ibi tí o wà àti àwọn ibi tí o nífẹ̀ẹ́ sí."
+    },
+    {
+      "name": "useMyLocation",
+      "value": "Lo ibi tí mo wà"
+    },
+    {
+      "name": "findingYou",
+      "value": "À ń wá ibi tí o wà…"
+    },
+    {
+      "name": "openSettings",
+      "value": "Ṣí ètò"
+    },
+    {
+      "name": "continueWith",
+      "value": "Tẹ̀ síwájú pẹ̀lú %1$s"
+    },
+    {
+      "name": "approximateFromNetwork",
+      "value": "Ìṣirò, láti inú nẹ́tíwọ̀ọ̀kì rẹ"
+    },
+    {
+      "name": "searchForCity",
+      "value": "Wá ìlú kan"
+    },
+    {
+      "name": "locationPrivacyNote",
+      "value": "A máa ń lo ibi tí o wà fún gbígba àsọtẹ́lẹ̀ nìkan."
+    },
+    {
+      "name": "locationServiceDisabled",
+      "value": "Iṣẹ́ ìdámọ̀ ibi wà ní pípa."
+    },
+    {
+      "name": "locationPermissionDenied",
+      "value": "A kò fún wa ní àṣẹ láti mọ ibi tí o wà."
+    },
+    {
+      "name": "locationPermissionBlocked",
+      "value": "Àṣẹ ibi tí o wà ti di dídínà. O lè fàyè gbà á nínú Ètò."
+    },
+    {
+      "name": "locationUnavailable",
+      "value": "A kò lè rí ibi tí o wà báyìí."
+    },
+    {
+      "name": "approximateBanner",
+      "value": "À ń fi ibi ìṣirò hàn láti inú nẹ́tíwọ̀ọ̀kì rẹ."
+    },
+    {
+      "name": "usePrecise",
+      "value": "Lo èyí tó péye"
+    },
+    {
+      "name": "noPlacesTitle",
+      "value": "Kò tíì sí ibì kankan"
+    },
+    {
+      "name": "noPlacesBody",
+      "value": "Lo ibi tí o wà tàbí ṣàfikún ìlú láti rí àsọtẹ́lẹ̀ rẹ̀."
+    },
+    {
+      "name": "noSavedPlaces",
+      "value": "Kò tíì sí ibi tí a fi pamọ́. Tẹ + láti ṣàfikún ìlú."
+    },
+    {
+      "name": "yourLocation",
+      "value": "Ibi tí o wà"
+    },
+    {
+      "name": "approximateLocation",
+      "value": "Ibi ìṣirò"
+    },
+    {
+      "name": "removeCity",
+      "value": "Yọ %1$s kúrò"
+    },
+    {
+      "name": "reorderHint",
+      "value": "Tẹ ìlú kan mọ́lẹ̀ kí o sì fà á láti tún ètò ṣe."
+    },
+    {
+      "name": "forecastLoadFailed",
+      "value": "A kò lè gbé àsọtẹ́lẹ̀ fún %1$s wá."
+    },
+    {
+      "name": "forecastUnavailable",
+      "value": "A kò lè gbé àsọtẹ́lẹ̀ wá"
+    },
+    {
+      "name": "forecastErrorNetwork",
+      "value": "A kò lè dé ọ̀dọ̀ iṣẹ́ ojú-ọjọ́. Ṣàyẹ̀wò ìsopọ̀ rẹ kí o sì gbìyànjú lẹ́ẹ̀kan sí i."
+    },
+    {
+      "name": "forecastErrorData",
+      "value": "Iṣẹ́ ojú-ọjọ́ fi dátà tí a kò lè kà ránṣẹ́. Jọ̀wọ́ gbìyànjú lẹ́yìn náà."
+    },
+    {
+      "name": "couldNotRefresh",
+      "value": "A kò lè sọ ọ́ dọ̀tun"
+    },
+    {
+      "name": "updatedAgo",
+      "value": "A sọ ọ́ dọ̀tun ní %1$s"
+    },
+    {
+      "name": "ageJustNow",
+      "value": "ní báyìí báyìí"
+    },
+    {
+      "name": "ageMinutes",
+      "value": "ìṣẹ́jú %1$s sẹ́yìn"
+    },
+    {
+      "name": "ageHours",
+      "value": "wákàtí %1$s sẹ́yìn"
+    },
+    {
+      "name": "ageDays_zero",
+      "value": "ọjọ́ %1$s sẹ́yìn"
+    },
+    {
+      "name": "ageDays_one",
+      "value": "ọjọ́ 1 sẹ́yìn"
+    },
+    {
+      "name": "ageDays_other",
+      "value": "ọjọ́ %1$s sẹ́yìn"
+    },
+    {
+      "name": "feelsLike",
+      "value": "Ó rí bí %1$s"
+    },
+    {
+      "name": "rainChance",
+      "value": "Àǹfààní òjò"
+    },
+    {
+      "name": "windWithDirection",
+      "value": "Afẹ́fẹ́ %1$s"
+    },
+    {
+      "name": "humidity",
+      "value": "Ọ̀rinrin"
+    },
+    {
+      "name": "daily",
+      "value": "Ojoojúmọ́"
+    },
+    {
+      "name": "hourly",
+      "value": "Wákàtí-wákàtí"
+    },
+    {
+      "name": "today",
+      "value": "Òní"
+    },
+    {
+      "name": "now",
+      "value": "Báyìí"
+    },
+    {
+      "name": "windDirection",
+      "value": "Ìdarí afẹ́fẹ́"
+    },
+    {
+      "name": "windGusts",
+      "value": "Ìjì afẹ́fẹ́"
+    },
+    {
+      "name": "rainToday",
+      "value": "Òjò òní"
+    },
+    {
+      "name": "pressure",
+      "value": "Ìtẹ̀ afẹ́fẹ́"
+    },
+    {
+      "name": "cloudCover",
+      "value": "Ìbòji ìkùukùu"
+    },
+    {
+      "name": "dewPoint",
+      "value": "Ìwọ̀n ìrì"
+    },
+    {
+      "name": "sunrise",
+      "value": "Ìyọ oòrùn"
+    },
+    {
+      "name": "sunset",
+      "value": "Ìwọ̀ oòrùn"
+    },
+    {
+      "name": "semanticsCurrent",
+      "value": "Dígírì %1$s, %2$s"
+    },
+    {
+      "name": "semanticsDay",
+      "value": "%1$s: %2$s, láti %3$s sí %4$s"
+    },
+    {
+      "name": "semanticsRainChance",
+      "value": "Àǹfààní òjò %1$s%%"
+    },
+    {
+      "name": "compassPoints",
+      "value": "N,NNE,NE,ENE,E,ESE,SE,SSE,S,SSW,SW,WSW,W,WNW,NW,NNW"
+    },
+    {
+      "name": "settingsGeneral",
+      "value": "Gbogbogbò"
+    },
+    {
+      "name": "settingsTheme",
+      "value": "Àwọ̀"
+    },
+    {
+      "name": "themeAuto",
+      "value": "Aládàáṣe"
+    },
+    {
+      "name": "themeAutoHint",
+      "value": "Ìmọ́lẹ̀ láti ìlà oòrùn dé ìwọ̀ oòrùn, òkùnkùn ní alẹ́"
+    },
+    {
+      "name": "themeLight",
+      "value": "Ìmọ́lẹ̀"
+    },
+    {
+      "name": "themeDark",
+      "value": "Òkùnkùn"
+    },
+    {
+      "name": "settingsLanguage",
+      "value": "Èdè"
+    },
+    {
+      "name": "languageSystem",
+      "value": "Ti ẹ̀rọ"
+    },
+    {
+      "name": "settingsTemperature",
+      "value": "Ìgbóná"
+    },
+    {
+      "name": "unitCelsius",
+      "value": "Celsius (°C)"
+    },
+    {
+      "name": "unitFahrenheit",
+      "value": "Fahrenheit (°F)"
+    },
+    {
+      "name": "settingsWindSpeed",
+      "value": "Ìyára afẹ́fẹ́"
+    },
+    {
+      "name": "unitKmh",
+      "value": "Kìlómítà ní wákàtí (km/h)"
+    },
+    {
+      "name": "unitMph",
+      "value": "Máìlì ní wákàtí (mph)"
+    },
+    {
+      "name": "unitMs",
+      "value": "Mítà ní ìṣẹ́jú-àáyá (m/s)"
+    },
+    {
+      "name": "unitKnots",
+      "value": "Knots (kn)"
+    },
+    {
+      "name": "settingsPrecipitation",
+      "value": "Òjò"
+    },
+    {
+      "name": "unitMm",
+      "value": "Mìlímítà (mm)"
+    },
+    {
+      "name": "unitInch",
+      "value": "Ínṣì (in)"
+    },
+    {
+      "name": "settingsAbout",
+      "value": "Nípa"
+    },
+    {
+      "name": "aboutApp",
+      "value": "Nípa BWeather"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "Ìlànà ìpamọ́"
+    },
+    {
+      "name": "termsOfUse",
+      "value": "Àwọn òfin lílò"
+    },
+    {
+      "name": "version",
+      "value": "Ẹ̀dà %1$s"
+    },
+    {
+      "name": "aboutDescription",
+      "value": "BWeather ń fi ojú-ọjọ́ lọ́wọ́lọ́wọ́ àti àsọtẹ́lẹ̀ hàn fún ibi tí o wà àti àwọn ibi tí o fi pamọ́. Nobel ló ń ṣe é tí ó sì ń tọ́jú rẹ̀ fún Bsoft Limited."
+    },
+    {
+      "name": "aboutDataSources",
+      "value": "Orísun dátà"
+    },
+    {
+      "name": "aboutOpenMeteo",
+      "value": "Ojú-ọjọ́ àti ìwádìí ibi: Open-Meteo (open-meteo.com), lábẹ́ ìwé-àṣẹ CC BY 4.0."
+    },
+    {
+      "name": "aboutOsm",
+      "value": "Orúkọ ibi: © àwọn olùkópa OpenStreetMap (Nominatim), ODbL."
+    },
+    {
+      "name": "aboutIpapi",
+      "value": "Ibi ìṣirò: ipapi.co."
+    },
+    {
+      "name": "aboutIcons",
+      "value": "Àwòrán ojú-ọjọ́: Meteocons láti ọwọ́ Bas Milius (MIT)."
+    },
+    {
+      "name": "privacyIntro",
+      "value": "BWeather kò ní àkáǹtì, kò ní ìpolówó, kò sì ń tọpinpin lílò. Ojú-ìwé yìí ṣàlàyé dátà tó ń kúrò lórí ẹ̀rọ rẹ àti ìdí rẹ̀."
+    },
+    {
+      "name": "privacyLocationTitle",
+      "value": "Ibi tí o wà"
+    },
+    {
+      "name": "privacyLocationBody",
+      "value": "Bí o bá fàyè gbà á, àpù náà máa ka ibi tí ẹ̀rọ rẹ wà. A máa ń fi ìpoidojú ránṣẹ́ sí Open-Meteo láti gba àsọtẹ́lẹ̀, àti sí OpenStreetMap Nominatim láti gba orúkọ ibẹ̀. A kò fi wọ́n ránṣẹ́ sí ibòmíràn."
+    },
+    {
+      "name": "privacyApproximateTitle",
+      "value": "Ibi ìṣirò"
+    },
+    {
+      "name": "privacyApproximateBody",
+      "value": "Nígbà tí ibi tó péye kò bá sí, àpù náà máa béèrè ibi ìṣirò ní ìpele ìlú lọ́wọ́ ipapi.co. ipapi.co máa rí àdírẹ́sì IP rẹ láti dáhùn ìbéèrè yìí."
+    },
+    {
+      "name": "privacySearchTitle",
+      "value": "Ìwádìí ìlú"
+    },
+    {
+      "name": "privacySearchBody",
+      "value": "Ọ̀rọ̀ tí o tẹ̀ sínú ìwádìí ìlú ni a ń fi ránṣẹ́ sí iṣẹ́ geocoding ti Open-Meteo láti wá àwọn ibi tó bá a mu."
+    },
+    {
+      "name": "privacyStorageTitle",
+      "value": "Dátà tí a fi pamọ́ sórí ẹ̀rọ rẹ"
+    },
+    {
+      "name": "privacyStorageBody",
+      "value": "Àwọn ìlú tí o fi pamọ́, àsọtẹ́lẹ̀ tuntun àti ètò rẹ wà lórí ẹ̀rọ yìí nìkan. Yíyọ àpù náà kúrò máa pa wọ́n rẹ́."
+    },
+    {
+      "name": "privacyContactTitle",
+      "value": "Ìkànsí"
+    },
+    {
+      "name": "privacyContactBody",
+      "value": "Ṣé o ní ìbéèrè nípa ìpamọ́? Kàn sí Bsoft Limited nípasẹ̀ ojú-ìwé àpù náà ní ilé ìtajà."
+    },
+    {
+      "name": "termsIntro",
+      "value": "Nípa lílo BWeather, o gbà sí àwọn òfin wọ̀nyí."
+    },
+    {
+      "name": "termsAccuracyTitle",
+      "value": "Ìpéye àsọtẹ́lẹ̀"
+    },
+    {
+      "name": "termsAccuracyBody",
+      "value": "Àsọtẹ́lẹ̀ jẹ́ ìṣirò, ó sì lè ṣàṣìṣe. Má ṣe gbára lé BWeather fún ìpinnu tó kan ààbò; tẹ̀lé ìkìlọ̀ àṣẹ láti ọ̀dọ̀ àjọ ojú-ọjọ́ orílẹ̀-èdè rẹ."
+    },
+    {
+      "name": "termsServiceTitle",
+      "value": "Iṣẹ́ náà"
+    },
+    {
+      "name": "termsServiceBody",
+      "value": "A pèsè BWeather \"bí ó ti rí\", láìsí ìdánilójú kankan. Àwọn ẹ̀yà lè yí padà, iṣẹ́ náà sì lè má sí nígbà mìíràn."
+    },
+    {
+      "name": "termsThirdPartyTitle",
+      "value": "Dátà ẹlòmíràn"
+    },
+    {
+      "name": "termsThirdPartyBody",
+      "value": "Dátà ojú-ọjọ́ wá láti Open-Meteo, orúkọ ibi sì wá láti OpenStreetMap. Òfin àti ìwé-àṣẹ tiwọn ló kan dátà náà."
+    },
+    {
+      "name": "legalLastUpdated",
+      "value": "Ìgbà ìkẹyìn tí a ṣe àtúnṣe: %1$s"
+    },
+    {
+      "name": "wmo0",
+      "value": "Ojú ọ̀run mọ́"
+    },
+    {
+      "name": "wmo1",
+      "value": "Ó mọ́ jùlọ"
+    },
+    {
+      "name": "wmo2",
+      "value": "Ìkùukùu díẹ̀"
+    },
+    {
+      "name": "wmo3",
+      "value": "Ìkùukùu bò ó"
+    },
+    {
+      "name": "wmo45",
+      "value": "Kùrukùru"
+    },
+    {
+      "name": "wmo48",
+      "value": "Kùrukùru oníyìnyín"
+    },
+    {
+      "name": "wmo51",
+      "value": "Òjò wínníwínní díẹ̀"
+    },
+    {
+      "name": "wmo53",
+      "value": "Òjò wínníwínní"
+    },
+    {
+      "name": "wmo55",
+      "value": "Òjò wínníwínní púpọ̀"
+    },
+    {
+      "name": "wmo56",
+      "value": "Òjò wínníwínní dídì díẹ̀"
+    },
+    {
+      "name": "wmo57",
+      "value": "Òjò wínníwínní dídì púpọ̀"
+    },
+    {
+      "name": "wmo61",
+      "value": "Òjò díẹ̀"
+    },
+    {
+      "name": "wmo63",
+      "value": "Òjò àárín"
+    },
+    {
+      "name": "wmo65",
+      "value": "Òjò líle"
+    },
+    {
+      "name": "wmo66",
+      "value": "Òjò dídì díẹ̀"
+    },
+    {
+      "name": "wmo67",
+      "value": "Òjò dídì líle"
+    },
+    {
+      "name": "wmo71",
+      "value": "Yìnyín díẹ̀"
+    },
+    {
+      "name": "wmo73",
+      "value": "Yìnyín àárín"
+    },
+    {
+      "name": "wmo75",
+      "value": "Yìnyín púpọ̀"
+    },
+    {
+      "name": "wmo77",
+      "value": "Wóró yìnyín"
+    },
+    {
+      "name": "wmo80",
+      "value": "Ọ̀wààrà òjò díẹ̀"
+    },
+    {
+      "name": "wmo81",
+      "value": "Ọ̀wààrà òjò àárín"
+    },
+    {
+      "name": "wmo82",
+      "value": "Ọ̀wààrà òjò líle gan-an"
+    },
+    {
+      "name": "wmo85",
+      "value": "Ọ̀wààrà yìnyín díẹ̀"
+    },
+    {
+      "name": "wmo86",
+      "value": "Ọ̀wààrà yìnyín púpọ̀"
+    },
+    {
+      "name": "wmo95",
+      "value": "Ààrá àti mànàmáná"
+    },
+    {
+      "name": "wmo96",
+      "value": "Ààrá pẹ̀lú yìnyín díẹ̀"
+    },
+    {
+      "name": "wmo99",
+      "value": "Ààrá pẹ̀lú yìnyín púpọ̀"
+    },
+    {
+      "name": "wmoUnknown",
+      "value": "Ojú-ọjọ́ tí a kò mọ̀"
+    },
+    {
+      "name": "pageNotFound",
+      "value": "A kò rí ojú-ìwé náà"
+    },
+    {
+      "name": "airQuality",
+      "value": "Dídára afẹ́fẹ́"
+    },
+    {
+      "name": "airQualityIndex",
+      "value": "US AQI %1$s"
+    },
+    {
+      "name": "aqiGood",
+      "value": "Dára"
+    },
+    {
+      "name": "aqiModerate",
+      "value": "Àárín"
+    },
+    {
+      "name": "aqiSensitive",
+      "value": "Kò dára fún àwọn tó ní ìpalára"
+    },
+    {
+      "name": "aqiUnhealthy",
+      "value": "Kò dára fún ìlera"
+    },
+    {
+      "name": "aqiVeryUnhealthy",
+      "value": "Kò dára rárá fún ìlera"
+    },
+    {
+      "name": "aqiHazardous",
+      "value": "Léwu"
+    },
+    {
+      "name": "pm25",
+      "value": "PM2.5"
+    },
+    {
+      "name": "pm10",
+      "value": "PM10"
+    },
+    {
+      "name": "dust",
+      "value": "Eruku"
+    },
+    {
+      "name": "uvIndex",
+      "value": "Ìwọ̀n UV"
+    },
+    {
+      "name": "uvLow",
+      "value": "kéré"
+    },
+    {
+      "name": "uvModerate",
+      "value": "àárín"
+    },
+    {
+      "name": "uvHigh",
+      "value": "ga"
+    },
+    {
+      "name": "uvVeryHigh",
+      "value": "ga gan-an"
+    },
+    {
+      "name": "uvExtreme",
+      "value": "ga jù"
+    },
+    {
+      "name": "pollen",
+      "value": "Eruku òdòdó"
+    },
+    {
+      "name": "pollenAlder",
+      "value": "Alder"
+    },
+    {
+      "name": "pollenBirch",
+      "value": "Birch"
+    },
+    {
+      "name": "pollenGrass",
+      "value": "Koríko"
+    },
+    {
+      "name": "pollenMugwort",
+      "value": "Mugwort"
+    },
+    {
+      "name": "pollenOlive",
+      "value": "Ólífì"
+    },
+    {
+      "name": "pollenRagweed",
+      "value": "Ragweed"
+    },
+    {
+      "name": "harmattanDustHint",
+      "value": "Eruku pọ̀ (ọyẹ́): ronú láti wọ ìbòmú ní òde."
+    },
+    {
+      "name": "chart",
+      "value": "Àwòrán ìyàtọ̀"
+    },
+    {
+      "name": "chartLegendTemperature",
+      "value": "Ìgbóná"
+    },
+    {
+      "name": "chartLegendRain",
+      "value": "Àǹfààní òjò"
+    },
+    {
+      "name": "settingsNotifications",
+      "value": "Ìwífún"
+    },
+    {
+      "name": "notifyMorningBrief",
+      "value": "Àkópọ̀ òwúrọ̀"
+    },
+    {
+      "name": "notifyMorningBriefDetail",
+      "value": "Àsọtẹ́lẹ̀ òní fún ibi tí o wà ní gbogbo òwúrọ̀."
+    },
+    {
+      "name": "notifyBriefTime",
+      "value": "Àkókò"
+    },
+    {
+      "name": "notifyRain",
+      "value": "Ìkìlọ̀ òjò"
+    },
+    {
+      "name": "notifyRainDetail",
+      "value": "Nígbà tí òjò lè rọ̀ láàrin wákàtí 2 tó ń bọ̀."
+    },
+    {
+      "name": "notifySevere",
+      "value": "Ojú-ọjọ́ líle"
+    },
+    {
+      "name": "notifySevereDetail",
+      "value": "Ààrá, afẹ́fẹ́ líle gan-an tàbí ooru tó pọ̀ jù."
+    },
+    {
+      "name": "notifyPermissionDenied",
+      "value": "Ìwífún BWeather wà ní pípa nínú ètò ẹ̀rọ rẹ."
+    },
+    {
+      "name": "notifyUnsupported",
+      "value": "Ìwífún wà nínú àpù Android."
+    },
+    {
+      "name": "notifyBackgroundNote",
+      "value": "A máa ń ṣàyẹ̀wò ìkìlọ̀ ní ẹ̀ẹ̀kan ní wákàtí kọ̀ọ̀kan, nítorí náà wọ́n lè pẹ́ díẹ̀."
+    },
+    {
+      "name": "notifyChannelForecast",
+      "value": "Àsọtẹ́lẹ̀"
+    },
+    {
+      "name": "notifyChannelAlerts",
+      "value": "Ìkìlọ̀ ojú-ọjọ́"
+    },
+    {
+      "name": "briefTitle",
+      "value": "Òní ní %1$s"
+    },
+    {
+      "name": "briefBody",
+      "value": "%1$s, láti %2$s sí %3$s. Àǹfààní òjò %4$s%%."
+    },
+    {
+      "name": "rainAlertTitle",
+      "value": "A retí òjò ní %1$s"
+    },
+    {
+      "name": "rainAlertBody",
+      "value": "Àǹfààní òjò %1$s%% ní àyíká %2$s."
+    },
+    {
+      "name": "severeThunderTitle",
+      "value": "Ààrá nítòsí %1$s"
+    },
+    {
+      "name": "severeThunderBody",
+      "value": "A retí ààrá ní àyíká %1$s. Dúró nínú ilé bí o bá lè ṣe é."
+    },
+    {
+      "name": "severeWindTitle",
+      "value": "Afẹ́fẹ́ líle ní %1$s"
+    },
+    {
+      "name": "severeWindBody",
+      "value": "A retí ìjì afẹ́fẹ́ tó tó %1$s lónìí."
+    },
+    {
+      "name": "severeHeatTitle",
+      "value": "Ooru gbígbóná ní %1$s"
+    },
+    {
+      "name": "severeHeatBody",
+      "value": "Yóò rí bí %1$s lónìí. Mu omi kí o sì yẹra fún oòrùn ọ̀sán."
+    },
+    {
+      "name": "aboutCams",
+      "value": "Dídára afẹ́fẹ́: a ṣe é pẹ̀lú ìwífún láti Copernicus Atmosphere Monitoring Service (nípasẹ̀ Open-Meteo)."
+    },
+    {
+      "name": "widgetRange",
+      "value": "Gíga %1$s · Kékeré %2$s"
+    },
+    {
+      "name": "widgetUpdated",
+      "value": "A sọ ọ́ dọ̀tun %1$s"
+    },
+    {
+      "name": "tipsTitle",
+      "value": "Ìmọ̀ràn òní"
+    },
+    {
+      "name": "tipUmbrella",
+      "value": "Mú agboòrùn: àǹfààní òjò %1$s%%, ó ṣeé ṣe jùlọ ní àyíká %2$s."
+    },
+    {
+      "name": "tipClothesHot",
+      "value": "Wọ aṣọ fífúyẹ́ tí afẹ́fẹ́ ń wọ̀."
+    },
+    {
+      "name": "tipClothesWarm",
+      "value": "Ojú-ọjọ́ T-shirt ni."
+    },
+    {
+      "name": "tipClothesMild",
+      "value": "Mú jákẹ́ẹ̀tì fífúyẹ́ dání."
+    },
+    {
+      "name": "tipClothesCool",
+      "value": "Wọ jákẹ́ẹ̀tì tó ń mú ara gbóná."
+    },
+    {
+      "name": "tipClothesCold",
+      "value": "Bo ara rẹ dáadáa: òtútù wà níta."
+    },
+    {
+      "name": "tipSunscreen",
+      "value": "UV %1$s lónìí: lo ìpara ààbò oòrùn àti fìlà láàrin 10:00 sí 16:00."
+    },
+    {
+      "name": "tipHydrate",
+      "value": "Yóò rí bí %1$s. Mu omi púpọ̀."
+    },
+    {
+      "name": "tipLaundryGood",
+      "value": "Ọjọ́ tó dára láti sá aṣọ síta."
+    },
+    {
+      "name": "tipLaundryBad",
+      "value": "Kì í ṣe ọjọ́ tó dára láti sá aṣọ síta."
+    },
+    {
+      "name": "tipBestOutdoorTime",
+      "value": "Àkókò tó dára jùlọ láti wà níta: ní àyíká %1$s."
+    },
+    {
+      "name": "tipAirQuality",
+      "value": "Afẹ́fẹ́ kò dára: dín iṣẹ́ gígùn tàbí eré ìdárayá líle níta kù."
+    },
+    {
+      "name": "tipMosquitoes",
+      "value": "Ìrọ̀lẹ́ gbígbóná àti ọ̀rinrin: ẹ̀fọn lè pọ̀, lo oògùn ẹ̀fọn tàbí àwọ̀n."
+    },
+    {
+      "name": "tipDriveFog",
+      "value": "Wakọ̀ pẹ̀lú ìṣọ́ra: a retí kùrukùru ní àyíká %1$s."
+    },
+    {
+      "name": "tipDriveRain",
+      "value": "Wakọ̀ pẹ̀lú ìṣọ́ra: a retí òjò líle ní àyíká %1$s."
+    },
+    {
+      "name": "refresh",
+      "value": "Sọ dọ̀tun"
+    },
+    {
+      "name": "settingsDisplay",
+      "value": "Ìfihàn àti dátà"
+    },
+    {
+      "name": "settingsAnimatedBackground",
+      "value": "Ẹ̀yìn tó ń rìn"
+    },
+    {
+      "name": "settingsAnimatedBackgroundDetail",
+      "value": "Ojú ọ̀run tó ń rìn lẹ́yìn àsọtẹ́lẹ̀. Ó máa dúró jẹ́ẹ́ bí ẹ̀rọ rẹ bá ti dín ìṣípòpadà kù."
+    },
+    {
+      "name": "settingsMinuteRain",
+      "value": "Òjò ìṣẹ́jú-ìṣẹ́jú"
+    },
+    {
+      "name": "settingsMinuteRainDetail",
+      "value": "Òjò wákàtí 2 tó ń bọ̀ ní ìṣẹ́jú 15-15. Ó ń lo dátà díẹ̀ sí i."
+    },
+    {
+      "name": "settingsCrashReports",
+      "value": "Fi ìròyìn ìjamba àpù ránṣẹ́"
+    },
+    {
+      "name": "settingsCrashReportsDetail",
+      "value": "Àlàyé àṣìṣe láìsí orúkọ tó ń ṣèrànwọ́ láti tún àṣìṣe ṣe. Kò sí ibi tí o wà tàbí dátà ara ẹni."
+    },
+    {
+      "name": "nextTwoHours",
+      "value": "Wákàtí 2 tó ń bọ̀"
+    },
+    {
+      "name": "rainStartingIn",
+      "value": "Òjò yóò bẹ̀rẹ̀ ní nǹkan bí ìṣẹ́jú %1$s"
+    },
+    {
+      "name": "rainStoppingIn",
+      "value": "Òjò yóò dá ní nǹkan bí ìṣẹ́jú %1$s"
+    },
+    {
+      "name": "rainContinuing",
+      "value": "Òjò fún ó kéré tán wákàtí 2 tó ń bọ̀"
+    },
+    {
+      "name": "noRainSoon",
+      "value": "A kò retí òjò láàrin wákàtí 2 tó ń bọ̀"
+    },
+    {
+      "name": "tempAboutNormal",
+      "value": "Bí ó ti máa ń rí lónìí"
+    },
+    {
+      "name": "tempWarmerThanUsual",
+      "value": "Ó gbóná ju ti tẹ́lẹ̀ lọ ní %1$s°"
+    },
+    {
+      "name": "tempCoolerThanUsual",
+      "value": "Ó tutù ju ti tẹ́lẹ̀ lọ ní %1$s°"
+    },
+    {
+      "name": "tempNormalsSource",
+      "value": "Ìgbóná gíga òní tí a fi wé ìpíndọ́gba ìgbóná gíga ọjọ́ yìí, %1$s–%2$s."
+    },
+    {
+      "name": "radar",
+      "value": "Radar òjò"
+    },
+    {
+      "name": "radarUnavailable",
+      "value": "Radar kò sí báyìí."
+    },
+    {
+      "name": "radarNoCoverage",
+      "value": "Radar ń fi wákàtí 2 tó kọjá hàn. Àwọn agbègbè kan kò ní ìbòji tó pé."
+    },
+    {
+      "name": "play",
+      "value": "Bẹ̀rẹ̀"
+    },
+    {
+      "name": "pause",
+      "value": "Dánudúró"
+    },
+    {
+      "name": "aboutRainViewer",
+      "value": "Radar: dátà ojú-ọjọ́ láti RainViewer; máàpù © àwọn olùkópa OpenStreetMap."
+    },
+    {
+      "name": "privacyRadarTitle",
+      "value": "Máàpù radar"
+    },
+    {
+      "name": "privacyRadarBody",
+      "value": "Ṣíṣí radar máa gba àwọn ègé máàpù láti OpenStreetMap àti àwòrán radar láti RainViewer fún agbègbè tí o ń wò. Bí ojú-òpó wẹ́ẹ̀bù èyíkéyìí, wọ́n máa rí àdírẹ́sì IP rẹ."
+    },
+    {
+      "name": "privacyCrashTitle",
+      "value": "Ìròyìn ìjamba àpù"
+    },
+    {
+      "name": "privacyCrashBody",
+      "value": "Bí àpù náà bá jamba, a lè fi ìròyìn àṣìṣe láìsí orúkọ (irú ẹ̀rọ, ẹ̀dà ètò ẹ̀rọ, ẹ̀dà àpù àti àṣìṣe náà) ránṣẹ́ sí Sentry kí a lè tún un ṣe. Kò ní ibi tí o wà, àwọn ibi tí o fi pamọ́ tàbí àdírẹ́sì IP rẹ nínú rárá. O lè pa èyí nínú Ètò."
+    },
+    {
+      "name": "aboutHistory",
+      "value": "Ìpíndọ́gba ojú-ọjọ́: Open-Meteo historical weather API (ERA5)."
+    },
+    {
+      "name": "zoomIn",
+      "value": "Sún mọ́"
+    },
+    {
+      "name": "zoomOut",
+      "value": "Sún jìnnà"
+    },
+    {
+      "name": "settingsAppearance",
+      "value": "Ìrísí"
+    },
+    {
+      "name": "settingsUnits",
+      "value": "Ìwọ̀n"
+    },
+    {
+      "name": "settingsPrivacy",
+      "value": "Ìpamọ́"
+    },
+    {
+      "name": "cityRemoved",
+      "value": "A ti yọ %1$s kúrò"
+    },
+    {
+      "name": "undo",
+      "value": "Dá padà"
+    },
+    {
+      "name": "sunAndMoon",
+      "value": "Oòrùn àti òṣùpá"
+    },
+    {
+      "name": "daylight",
+      "value": "Ìmọ́lẹ̀ ọjọ́"
+    },
+    {
+      "name": "daylightDuration",
+      "value": "Wákàtí %1$s ìṣẹ́jú %2$s"
+    },
+    {
+      "name": "moonNew",
+      "value": "Òṣùpá tuntun"
+    },
+    {
+      "name": "moonWaxingCrescent",
+      "value": "Òṣùpá ń dàgbà (kékeré)"
+    },
+    {
+      "name": "moonFirstQuarter",
+      "value": "Ìdá mẹ́rin àkọ́kọ́"
+    },
+    {
+      "name": "moonWaxingGibbous",
+      "value": "Òṣùpá ń dàgbà (ńlá)"
+    },
+    {
+      "name": "moonFull",
+      "value": "Òṣùpá kíkún"
+    },
+    {
+      "name": "moonWaningGibbous",
+      "value": "Òṣùpá ń dínkù (ńlá)"
+    },
+    {
+      "name": "moonLastQuarter",
+      "value": "Ìdá mẹ́rin ìkẹyìn"
+    },
+    {
+      "name": "moonWaningCrescent",
+      "value": "Òṣùpá ń dínkù (kékeré)"
+    },
+    {
+      "name": "moonIllumination",
+      "value": "Ìmọ́lẹ̀ %1$s%%"
+    },
+    {
+      "name": "navTrips",
+      "value": "Ìrìn-àjò"
+    },
+    {
+      "name": "tripsEmptyTitle",
+      "value": "Kò tíì sí ìrìn-àjò"
+    },
+    {
+      "name": "tripsEmptyBody",
+      "value": "Ṣètò ìrìn-àjò kan láti rí ojú-ọjọ́ ní ibùdó kọ̀ọ̀kan, lójoojúmọ́."
+    },
+    {
+      "name": "planTrip",
+      "value": "Ṣètò ìrìn-àjò"
+    },
+    {
+      "name": "newTrip",
+      "value": "Ìrìn-àjò tuntun"
+    },
+    {
+      "name": "editTrip",
+      "value": "Ṣàtúnṣe ìrìn-àjò"
+    },
+    {
+      "name": "tripName",
+      "value": "Orúkọ ìrìn-àjò"
+    },
+    {
+      "name": "tripNameHint",
+      "value": "àpẹẹrẹ: Kérésìmesì ní Àbújá"
+    },
+    {
+      "name": "tripDefaultName",
+      "value": "Ìrìn-àjò sí %1$s"
+    },
+    {
+      "name": "tripStops",
+      "value": "Àwọn ibùdó"
+    },
+    {
+      "name": "addStop",
+      "value": "Ṣàfikún ibùdó"
+    },
+    {
+      "name": "removeStop",
+      "value": "Yọ ibùdó kúrò"
+    },
+    {
+      "name": "chooseDates",
+      "value": "Yan ọjọ́"
+    },
+    {
+      "name": "save",
+      "value": "Fi pamọ́"
+    },
+    {
+      "name": "deleteTrip",
+      "value": "Pa ìrìn-àjò rẹ́"
+    },
+    {
+      "name": "tripDeleted",
+      "value": "A ti pa ìrìn-àjò rẹ́"
+    },
+    {
+      "name": "tripProblemNoStops",
+      "value": "Ṣàfikún ó kéré tán ibùdó kan."
+    },
+    {
+      "name": "tripProblemOrder",
+      "value": "Ibùdó kọ̀ọ̀kan gbọ́dọ̀ bẹ̀rẹ̀ ní ọjọ́ tí èyí tó ṣáájú parí tàbí lẹ́yìn rẹ̀."
+    },
+    {
+      "name": "tripProblemTooLong",
+      "value": "Ìrìn-àjò kò lè ju ọjọ́ %1$s lọ."
+    },
+    {
+      "name": "tripStartsIn_zero",
+      "value": "Yóò bẹ̀rẹ̀ lónìí"
+    },
+    {
+      "name": "tripStartsIn_one",
+      "value": "Yóò bẹ̀rẹ̀ lọ́la"
+    },
+    {
+      "name": "tripStartsIn_other",
+      "value": "Yóò bẹ̀rẹ̀ ní ọjọ́ %1$s"
+    },
+    {
+      "name": "tripOngoing",
+      "value": "Ó ń lọ lọ́wọ́"
+    },
+    {
+      "name": "tripEnded",
+      "value": "Ó ti parí"
+    },
+    {
+      "name": "tripDayCount_zero",
+      "value": "Ọjọ́ %1$s"
+    },
+    {
+      "name": "tripDayCount_one",
+      "value": "Ọjọ́ 1"
+    },
+    {
+      "name": "tripDayCount_other",
+      "value": "Ọjọ́ %1$s"
+    },
+    {
+      "name": "travelDay",
+      "value": "Ọjọ́ ìrìn láti %1$s"
+    },
+    {
+      "name": "typicalWeather",
+      "value": "Bí ó ti máa ń rí ní ọjọ́ yìí"
+    },
+    {
+      "name": "typicalWeatherNote",
+      "value": "Àwọn ọjọ́ tó ju ọjọ́ %1$s lọ ń fi ojú-ọjọ́ tó wọ́pọ̀ fún ọjọ́ náà hàn (ìpíndọ́gba ọdún 20 sẹ́yìn). Àsọtẹ́lẹ̀ yóò rọ́pò rẹ̀ fúnra rẹ̀ bí ìrìn-àjò ṣe ń sún mọ́."
+    },
+    {
+      "name": "weatherUnknown",
+      "value": "Kò tíì sí dátà"
+    },
+    {
+      "name": "packingList",
+      "value": "Àkójọ ẹrù"
+    },
+    {
+      "name": "packingEmpty",
+      "value": "Kò sí nǹkan pàtàkì láti kó fún ojú-ọjọ́ yìí."
+    },
+    {
+      "name": "packUmbrella",
+      "value": "Agboòrùn"
+    },
+    {
+      "name": "packRainJacket",
+      "value": "Aṣọ òjò"
+    },
+    {
+      "name": "packSunscreen",
+      "value": "Ìpara ààbò oòrùn"
+    },
+    {
+      "name": "packSunglasses",
+      "value": "Gíláàsì oòrùn"
+    },
+    {
+      "name": "packHat",
+      "value": "Fìlà oòrùn"
+    },
+    {
+      "name": "packLightClothes",
+      "value": "Aṣọ fífúyẹ́"
+    },
+    {
+      "name": "packWaterBottle",
+      "value": "Ìgò omi"
+    },
+    {
+      "name": "packWarmLayer",
+      "value": "Súwẹ́tà tó ń mú ara gbóná"
+    },
+    {
+      "name": "packCoat",
+      "value": "Ẹ̀wù òtútù"
+    },
+    {
+      "name": "packGloves",
+      "value": "Ìbọ̀wọ́"
+    },
+    {
+      "name": "packWindbreaker",
+      "value": "Aṣọ ààbò afẹ́fẹ́"
+    },
+    {
+      "name": "packInsectRepellent",
+      "value": "Oògùn ẹ̀fọn"
+    },
+    {
+      "name": "shareTrip",
+      "value": "Pín"
+    },
+    {
+      "name": "tripReminder",
+      "value": "Rán mi létí ní ọjọ́ tó ṣáájú"
+    },
+    {
+      "name": "tripReminderDetail",
+      "value": "Ìwífún ní ìrọ̀lẹ́ ọjọ́ tó ṣáájú ìrìn-àjò, pẹ̀lú àsọtẹ́lẹ̀ fún ibùdó àkọ́kọ́."
+    },
+    {
+      "name": "tripReminderTitle",
+      "value": "Ìrìn-àjò rẹ sí %1$s bẹ̀rẹ̀ lọ́la"
+    },
+    {
+      "name": "tripReminderBodyFallback",
+      "value": "Wo àsọtẹ́lẹ̀ ojú-ọjọ́ kí o tó lọ."
+    },
+    {
+      "name": "tripOutlookRange",
+      "value": "%1$s sí %2$s"
+    },
+    {
+      "name": "tripRainyDays_zero",
+      "value": "A kò retí òjò"
+    },
+    {
+      "name": "tripRainyDays_one",
+      "value": "Òjò lè rọ̀ ní ọjọ́ 1"
+    },
+    {
+      "name": "tripRainyDays_other",
+      "value": "Òjò lè rọ̀ ní ọjọ́ %1$s"
+    },
+    {
+      "name": "shareForecastDay",
+      "value": "%1$s · %2$s: %3$s, %4$s sí %5$s, òjò %6$s%%"
+    },
+    {
+      "name": "shareTypicalDay",
+      "value": "%1$s · %2$s: ní gbogbo ìgbà %3$s sí %4$s"
+    },
+    {
+      "name": "sharedFromApp",
+      "value": "A pín in láti BWeather"
+    },
+    {
+      "name": "privacyTripsTitle",
+      "value": "Ìrìn-àjò"
+    },
+    {
+      "name": "privacyTripsBody",
+      "value": "Àwọn ìrìn-àjò tí o ṣètò wà lórí ẹ̀rọ yìí nìkan. Láti gba ojú-ọjọ́ wọn, a ń fi ìpoidojú àti ọjọ́ ibùdó kọ̀ọ̀kan ránṣẹ́ sí Open-Meteo."
+    },
+    {
+      "name": "card_description",
+      "value": "Ojú ọjọ́ lọ́wọ́lọ́wọ́ níbi tí o wà"
+    },
+    {
+      "name": "card_open_app",
+      "value": "Ṣí BWeather láti ṣètò"
+    },
+    {
+      "name": "notifyBackgroundNoteHarmony",
+      "value": "A máa ń ṣàyẹ̀wò ìkìlọ̀ lẹ́yìn wákàtí díẹ̀ nígbà tí ẹ̀rọ bá gbà, nítorí náà wọ́n lè dé pẹ́ díẹ̀."
+    }
+  ]
+}

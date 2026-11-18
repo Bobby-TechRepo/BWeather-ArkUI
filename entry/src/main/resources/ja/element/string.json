@@ -1,0 +1,1304 @@
+{
+  "string": [
+    {
+      "name": "appTitle",
+      "value": "BWeather"
+    },
+    {
+      "name": "navForecast",
+      "value": "予報"
+    },
+    {
+      "name": "navLocations",
+      "value": "地点"
+    },
+    {
+      "name": "navSettings",
+      "value": "設定"
+    },
+    {
+      "name": "addCity",
+      "value": "都市を追加"
+    },
+    {
+      "name": "searchHint",
+      "value": "都市を検索"
+    },
+    {
+      "name": "clearSearch",
+      "value": "検索をクリア"
+    },
+    {
+      "name": "close",
+      "value": "閉じる"
+    },
+    {
+      "name": "retry",
+      "value": "再試行"
+    },
+    {
+      "name": "keepTyping",
+      "value": "続けて入力してください…"
+    },
+    {
+      "name": "searchFailed",
+      "value": "検索できませんでした。インターネット接続を確認して、もう一度お試しください。"
+    },
+    {
+      "name": "noPlacesMatch",
+      "value": "「%1$s」に一致する地点はありません。"
+    },
+    {
+      "name": "welcomeTitle",
+      "value": "BWeather へようこそ"
+    },
+    {
+      "name": "welcomeSubtitle",
+      "value": "現在地と大切な場所の天気予報をお届けします。"
+    },
+    {
+      "name": "useMyLocation",
+      "value": "現在地を使用"
+    },
+    {
+      "name": "findingYou",
+      "value": "現在地を取得中…"
+    },
+    {
+      "name": "openSettings",
+      "value": "設定を開く"
+    },
+    {
+      "name": "continueWith",
+      "value": "%1$s で続ける"
+    },
+    {
+      "name": "approximateFromNetwork",
+      "value": "ネットワークに基づくおおよその位置"
+    },
+    {
+      "name": "searchForCity",
+      "value": "都市を検索"
+    },
+    {
+      "name": "locationPrivacyNote",
+      "value": "位置情報は天気予報の取得にのみ使用されます。"
+    },
+    {
+      "name": "locationServiceDisabled",
+      "value": "位置情報サービスがオフになっています。"
+    },
+    {
+      "name": "locationPermissionDenied",
+      "value": "位置情報の権限が許可されませんでした。"
+    },
+    {
+      "name": "locationPermissionBlocked",
+      "value": "位置情報の権限がブロックされています。設定で許可できます。"
+    },
+    {
+      "name": "locationUnavailable",
+      "value": "現在地を取得できませんでした。"
+    },
+    {
+      "name": "approximateBanner",
+      "value": "ネットワークに基づくおおよその位置を表示しています。"
+    },
+    {
+      "name": "usePrecise",
+      "value": "正確な位置を使用"
+    },
+    {
+      "name": "noPlacesTitle",
+      "value": "地点がまだありません"
+    },
+    {
+      "name": "noPlacesBody",
+      "value": "現在地を使用するか、都市を追加して天気予報を表示します。"
+    },
+    {
+      "name": "noSavedPlaces",
+      "value": "保存した地点はまだありません。+ をタップして都市を追加してください。"
+    },
+    {
+      "name": "yourLocation",
+      "value": "現在地"
+    },
+    {
+      "name": "approximateLocation",
+      "value": "おおよその位置"
+    },
+    {
+      "name": "removeCity",
+      "value": "%1$s を削除"
+    },
+    {
+      "name": "reorderHint",
+      "value": "都市を長押ししてドラッグすると並べ替えられます。"
+    },
+    {
+      "name": "forecastLoadFailed",
+      "value": "%1$s の天気予報を読み込めませんでした。"
+    },
+    {
+      "name": "forecastUnavailable",
+      "value": "天気予報を読み込めませんでした"
+    },
+    {
+      "name": "forecastErrorNetwork",
+      "value": "気象サービスに接続できませんでした。接続を確認して、もう一度お試しください。"
+    },
+    {
+      "name": "forecastErrorData",
+      "value": "気象サービスから読み取れないデータが届きました。しばらくしてからもう一度お試しください。"
+    },
+    {
+      "name": "couldNotRefresh",
+      "value": "更新できませんでした"
+    },
+    {
+      "name": "updatedAgo",
+      "value": "%1$sに更新"
+    },
+    {
+      "name": "ageJustNow",
+      "value": "たった今"
+    },
+    {
+      "name": "ageMinutes",
+      "value": "%1$s 分前"
+    },
+    {
+      "name": "ageHours",
+      "value": "%1$s 時間前"
+    },
+    {
+      "name": "ageDays_zero",
+      "value": "%1$s 日前"
+    },
+    {
+      "name": "ageDays_one",
+      "value": "1 日前"
+    },
+    {
+      "name": "ageDays_other",
+      "value": "%1$s 日前"
+    },
+    {
+      "name": "feelsLike",
+      "value": "体感 %1$s"
+    },
+    {
+      "name": "rainChance",
+      "value": "降水確率"
+    },
+    {
+      "name": "windWithDirection",
+      "value": "風 %1$s"
+    },
+    {
+      "name": "humidity",
+      "value": "湿度"
+    },
+    {
+      "name": "daily",
+      "value": "日別"
+    },
+    {
+      "name": "hourly",
+      "value": "時間別"
+    },
+    {
+      "name": "today",
+      "value": "今日"
+    },
+    {
+      "name": "now",
+      "value": "現在"
+    },
+    {
+      "name": "windDirection",
+      "value": "風向"
+    },
+    {
+      "name": "windGusts",
+      "value": "最大瞬間風速"
+    },
+    {
+      "name": "rainToday",
+      "value": "今日の降水量"
+    },
+    {
+      "name": "pressure",
+      "value": "気圧"
+    },
+    {
+      "name": "cloudCover",
+      "value": "雲量"
+    },
+    {
+      "name": "dewPoint",
+      "value": "露点"
+    },
+    {
+      "name": "sunrise",
+      "value": "日の出"
+    },
+    {
+      "name": "sunset",
+      "value": "日の入り"
+    },
+    {
+      "name": "semanticsCurrent",
+      "value": "%1$s 度、%2$s"
+    },
+    {
+      "name": "semanticsDay",
+      "value": "%1$s：%2$s、%3$s から %4$s"
+    },
+    {
+      "name": "semanticsRainChance",
+      "value": "降水確率 %1$s%%"
+    },
+    {
+      "name": "compassPoints",
+      "value": "北,北北東,北東,東北東,東,東南東,南東,南南東,南,南南西,南西,西南西,西,西北西,北西,北北西"
+    },
+    {
+      "name": "settingsGeneral",
+      "value": "一般"
+    },
+    {
+      "name": "settingsTheme",
+      "value": "テーマ"
+    },
+    {
+      "name": "themeAuto",
+      "value": "自動"
+    },
+    {
+      "name": "themeAutoHint",
+      "value": "日の出から日の入りまではライト、夜はダーク"
+    },
+    {
+      "name": "themeLight",
+      "value": "ライト"
+    },
+    {
+      "name": "themeDark",
+      "value": "ダーク"
+    },
+    {
+      "name": "settingsLanguage",
+      "value": "言語"
+    },
+    {
+      "name": "languageSystem",
+      "value": "システムの設定"
+    },
+    {
+      "name": "settingsTemperature",
+      "value": "気温"
+    },
+    {
+      "name": "unitCelsius",
+      "value": "摂氏 (°C)"
+    },
+    {
+      "name": "unitFahrenheit",
+      "value": "華氏 (°F)"
+    },
+    {
+      "name": "settingsWindSpeed",
+      "value": "風速"
+    },
+    {
+      "name": "unitKmh",
+      "value": "キロメートル毎時 (km/h)"
+    },
+    {
+      "name": "unitMph",
+      "value": "マイル毎時 (mph)"
+    },
+    {
+      "name": "unitMs",
+      "value": "メートル毎秒 (m/s)"
+    },
+    {
+      "name": "unitKnots",
+      "value": "ノット (kn)"
+    },
+    {
+      "name": "settingsPrecipitation",
+      "value": "降水量"
+    },
+    {
+      "name": "unitMm",
+      "value": "ミリメートル (mm)"
+    },
+    {
+      "name": "unitInch",
+      "value": "インチ (in)"
+    },
+    {
+      "name": "settingsAbout",
+      "value": "情報"
+    },
+    {
+      "name": "aboutApp",
+      "value": "BWeather について"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "プライバシーポリシー"
+    },
+    {
+      "name": "termsOfUse",
+      "value": "利用規約"
+    },
+    {
+      "name": "version",
+      "value": "バージョン %1$s"
+    },
+    {
+      "name": "aboutDescription",
+      "value": "BWeather は、現在地と保存した地点の現在の天気と予報を表示します。Bsoft Limited のために Nobel が開発・保守しています。"
+    },
+    {
+      "name": "aboutDataSources",
+      "value": "データ提供元"
+    },
+    {
+      "name": "aboutOpenMeteo",
+      "value": "天気と地点検索：Open-Meteo (open-meteo.com)、CC BY 4.0 ライセンス。"
+    },
+    {
+      "name": "aboutOsm",
+      "value": "地名：© OpenStreetMap contributors (Nominatim)、ODbL。"
+    },
+    {
+      "name": "aboutIpapi",
+      "value": "おおよその位置：ipapi.co。"
+    },
+    {
+      "name": "aboutIcons",
+      "value": "天気アイコン：Bas Milius による Meteocons (MIT)。"
+    },
+    {
+      "name": "privacyIntro",
+      "value": "BWeather にはアカウント、広告、アクセス解析はありません。このページでは、どのデータが端末の外に送信されるのか、その理由を説明します。"
+    },
+    {
+      "name": "privacyLocationTitle",
+      "value": "現在地"
+    },
+    {
+      "name": "privacyLocationBody",
+      "value": "許可した場合、アプリは端末の位置情報を読み取ります。座標は天気予報の取得のために Open-Meteo へ、地名の取得のために OpenStreetMap Nominatim へ送信されます。それ以外には送信されません。"
+    },
+    {
+      "name": "privacyApproximateTitle",
+      "value": "おおよその位置"
+    },
+    {
+      "name": "privacyApproximateBody",
+      "value": "正確な位置情報が使えない場合、アプリは ipapi.co に都市レベルのおおよその位置を問い合わせます。この要求に応答するため、ipapi.co はあなたの IP アドレスを確認します。"
+    },
+    {
+      "name": "privacySearchTitle",
+      "value": "都市の検索"
+    },
+    {
+      "name": "privacySearchBody",
+      "value": "都市検索に入力したテキストは、一致する地点を探すために Open-Meteo のジオコーディングサービスへ送信されます。"
+    },
+    {
+      "name": "privacyStorageTitle",
+      "value": "端末に保存されるデータ"
+    },
+    {
+      "name": "privacyStorageBody",
+      "value": "保存した都市、最新の予報、設定はこの端末にのみ保存されます。アプリをアンインストールすると削除されます。"
+    },
+    {
+      "name": "privacyContactTitle",
+      "value": "お問い合わせ"
+    },
+    {
+      "name": "privacyContactBody",
+      "value": "プライバシーに関するご質問は、アプリストアの掲載ページから Bsoft Limited にお問い合わせください。"
+    },
+    {
+      "name": "termsIntro",
+      "value": "BWeather を使用すると、これらの規約に同意したものとみなされます。"
+    },
+    {
+      "name": "termsAccuracyTitle",
+      "value": "予報の精度"
+    },
+    {
+      "name": "termsAccuracyBody",
+      "value": "天気予報は推定であり、外れることがあります。安全に関わる判断を BWeather に頼らず、国の気象機関が発表する公式の警報に従ってください。"
+    },
+    {
+      "name": "termsServiceTitle",
+      "value": "サービス"
+    },
+    {
+      "name": "termsServiceBody",
+      "value": "BWeather は「現状のまま」提供され、いかなる保証もありません。機能は変更されることがあり、サービスを利用できない場合があります。"
+    },
+    {
+      "name": "termsThirdPartyTitle",
+      "value": "第三者のデータ"
+    },
+    {
+      "name": "termsThirdPartyBody",
+      "value": "気象データは Open-Meteo、地名は OpenStreetMap から提供されています。これらのデータにはそれぞれの規約とライセンスが適用されます。"
+    },
+    {
+      "name": "legalLastUpdated",
+      "value": "最終更新日：%1$s"
+    },
+    {
+      "name": "wmo0",
+      "value": "快晴"
+    },
+    {
+      "name": "wmo1",
+      "value": "晴れ"
+    },
+    {
+      "name": "wmo2",
+      "value": "晴れ時々曇り"
+    },
+    {
+      "name": "wmo3",
+      "value": "曇り"
+    },
+    {
+      "name": "wmo45",
+      "value": "霧"
+    },
+    {
+      "name": "wmo48",
+      "value": "着氷性の霧"
+    },
+    {
+      "name": "wmo51",
+      "value": "弱い霧雨"
+    },
+    {
+      "name": "wmo53",
+      "value": "霧雨"
+    },
+    {
+      "name": "wmo55",
+      "value": "強い霧雨"
+    },
+    {
+      "name": "wmo56",
+      "value": "弱い着氷性の霧雨"
+    },
+    {
+      "name": "wmo57",
+      "value": "強い着氷性の霧雨"
+    },
+    {
+      "name": "wmo61",
+      "value": "弱い雨"
+    },
+    {
+      "name": "wmo63",
+      "value": "雨"
+    },
+    {
+      "name": "wmo65",
+      "value": "強い雨"
+    },
+    {
+      "name": "wmo66",
+      "value": "弱い着氷性の雨"
+    },
+    {
+      "name": "wmo67",
+      "value": "強い着氷性の雨"
+    },
+    {
+      "name": "wmo71",
+      "value": "弱い雪"
+    },
+    {
+      "name": "wmo73",
+      "value": "雪"
+    },
+    {
+      "name": "wmo75",
+      "value": "強い雪"
+    },
+    {
+      "name": "wmo77",
+      "value": "霧雪"
+    },
+    {
+      "name": "wmo80",
+      "value": "弱いにわか雨"
+    },
+    {
+      "name": "wmo81",
+      "value": "にわか雨"
+    },
+    {
+      "name": "wmo82",
+      "value": "激しいにわか雨"
+    },
+    {
+      "name": "wmo85",
+      "value": "弱いにわか雪"
+    },
+    {
+      "name": "wmo86",
+      "value": "強いにわか雪"
+    },
+    {
+      "name": "wmo95",
+      "value": "雷雨"
+    },
+    {
+      "name": "wmo96",
+      "value": "雷雨（弱いひょう）"
+    },
+    {
+      "name": "wmo99",
+      "value": "雷雨（強いひょう）"
+    },
+    {
+      "name": "wmoUnknown",
+      "value": "不明"
+    },
+    {
+      "name": "pageNotFound",
+      "value": "ページが見つかりません"
+    },
+    {
+      "name": "airQuality",
+      "value": "大気質"
+    },
+    {
+      "name": "airQualityIndex",
+      "value": "米国 AQI %1$s"
+    },
+    {
+      "name": "aqiGood",
+      "value": "良い"
+    },
+    {
+      "name": "aqiModerate",
+      "value": "普通"
+    },
+    {
+      "name": "aqiSensitive",
+      "value": "敏感な人には健康に悪い"
+    },
+    {
+      "name": "aqiUnhealthy",
+      "value": "健康に悪い"
+    },
+    {
+      "name": "aqiVeryUnhealthy",
+      "value": "非常に健康に悪い"
+    },
+    {
+      "name": "aqiHazardous",
+      "value": "危険"
+    },
+    {
+      "name": "pm25",
+      "value": "PM2.5"
+    },
+    {
+      "name": "pm10",
+      "value": "PM10"
+    },
+    {
+      "name": "dust",
+      "value": "黄砂・粉じん"
+    },
+    {
+      "name": "uvIndex",
+      "value": "UV インデックス"
+    },
+    {
+      "name": "uvLow",
+      "value": "弱い"
+    },
+    {
+      "name": "uvModerate",
+      "value": "中程度"
+    },
+    {
+      "name": "uvHigh",
+      "value": "強い"
+    },
+    {
+      "name": "uvVeryHigh",
+      "value": "非常に強い"
+    },
+    {
+      "name": "uvExtreme",
+      "value": "極端に強い"
+    },
+    {
+      "name": "pollen",
+      "value": "花粉"
+    },
+    {
+      "name": "pollenAlder",
+      "value": "ハンノキ"
+    },
+    {
+      "name": "pollenBirch",
+      "value": "シラカバ"
+    },
+    {
+      "name": "pollenGrass",
+      "value": "イネ科"
+    },
+    {
+      "name": "pollenMugwort",
+      "value": "ヨモギ"
+    },
+    {
+      "name": "pollenOlive",
+      "value": "オリーブ"
+    },
+    {
+      "name": "pollenRagweed",
+      "value": "ブタクサ"
+    },
+    {
+      "name": "harmattanDustHint",
+      "value": "粉じんが多いです。屋外ではマスクの着用をおすすめします。"
+    },
+    {
+      "name": "chart",
+      "value": "グラフ"
+    },
+    {
+      "name": "chartLegendTemperature",
+      "value": "気温"
+    },
+    {
+      "name": "chartLegendRain",
+      "value": "降水確率"
+    },
+    {
+      "name": "settingsNotifications",
+      "value": "通知"
+    },
+    {
+      "name": "notifyMorningBrief",
+      "value": "朝のお知らせ"
+    },
+    {
+      "name": "notifyMorningBriefDetail",
+      "value": "毎朝、現在地の今日の予報をお知らせします。"
+    },
+    {
+      "name": "notifyBriefTime",
+      "value": "時刻"
+    },
+    {
+      "name": "notifyRain",
+      "value": "雨のお知らせ"
+    },
+    {
+      "name": "notifyRainDetail",
+      "value": "2 時間以内に雨が降りそうなときにお知らせします。"
+    },
+    {
+      "name": "notifySevere",
+      "value": "荒天"
+    },
+    {
+      "name": "notifySevereDetail",
+      "value": "雷雨、非常に強い風、猛暑。"
+    },
+    {
+      "name": "notifyPermissionDenied",
+      "value": "端末の設定で BWeather の通知がオフになっています。"
+    },
+    {
+      "name": "notifyUnsupported",
+      "value": "通知は Android アプリで利用できます。"
+    },
+    {
+      "name": "notifyBackgroundNote",
+      "value": "お知らせの確認は約 1 時間ごとのため、少し遅れて届くことがあります。"
+    },
+    {
+      "name": "notifyChannelForecast",
+      "value": "天気予報"
+    },
+    {
+      "name": "notifyChannelAlerts",
+      "value": "気象のお知らせ"
+    },
+    {
+      "name": "briefTitle",
+      "value": "%1$s の今日の天気"
+    },
+    {
+      "name": "briefBody",
+      "value": "%1$s、%2$s〜%3$s。降水確率 %4$s%%。"
+    },
+    {
+      "name": "rainAlertTitle",
+      "value": "%1$s で雨の予報"
+    },
+    {
+      "name": "rainAlertBody",
+      "value": "%2$s ごろの降水確率は %1$s%% です。"
+    },
+    {
+      "name": "severeThunderTitle",
+      "value": "%1$s 付近で雷雨"
+    },
+    {
+      "name": "severeThunderBody",
+      "value": "%1$s ごろに雷雨が予想されます。できるだけ屋内にいてください。"
+    },
+    {
+      "name": "severeWindTitle",
+      "value": "%1$s で強風"
+    },
+    {
+      "name": "severeWindBody",
+      "value": "今日は最大 %1$s の突風が予想されます。"
+    },
+    {
+      "name": "severeHeatTitle",
+      "value": "%1$s で猛暑"
+    },
+    {
+      "name": "severeHeatBody",
+      "value": "今日は体感温度が %1$s になります。水分をとり、日中の日差しを避けてください。"
+    },
+    {
+      "name": "aboutCams",
+      "value": "大気質：コペルニクス大気監視サービスの情報を使用して生成（Open-Meteo 経由）。"
+    },
+    {
+      "name": "widgetRange",
+      "value": "最高 %1$s · 最低 %2$s"
+    },
+    {
+      "name": "widgetUpdated",
+      "value": "%1$s に更新"
+    },
+    {
+      "name": "tipsTitle",
+      "value": "今日のヒント"
+    },
+    {
+      "name": "tipUmbrella",
+      "value": "傘を持っていきましょう：降水確率 %1$s%%、%2$s ごろが最も降りやすいです。"
+    },
+    {
+      "name": "tipClothesHot",
+      "value": "軽くて通気性のよい服装で。"
+    },
+    {
+      "name": "tipClothesWarm",
+      "value": "T シャツで過ごせる陽気です。"
+    },
+    {
+      "name": "tipClothesMild",
+      "value": "薄手の上着を持っていきましょう。"
+    },
+    {
+      "name": "tipClothesCool",
+      "value": "暖かい上着を着ましょう。"
+    },
+    {
+      "name": "tipClothesCold",
+      "value": "しっかり防寒を。外は寒いです。"
+    },
+    {
+      "name": "tipSunscreen",
+      "value": "今日の紫外線は%1$sです。10:00〜16:00 は日焼け止めと帽子を使いましょう。"
+    },
+    {
+      "name": "tipHydrate",
+      "value": "体感温度は %1$s になります。こまめに水分をとりましょう。"
+    },
+    {
+      "name": "tipLaundryGood",
+      "value": "洗濯物の外干し日和です。"
+    },
+    {
+      "name": "tipLaundryBad",
+      "value": "洗濯物の外干しには向かない日です。"
+    },
+    {
+      "name": "tipBestOutdoorTime",
+      "value": "外出におすすめの時間：%1$s ごろ。"
+    },
+    {
+      "name": "tipAirQuality",
+      "value": "大気質が悪いです。屋外での長時間や激しい運動は控えましょう。"
+    },
+    {
+      "name": "tipMosquitoes",
+      "value": "暖かく湿った夜です。蚊が多そうなので虫よけや蚊帳を使いましょう。"
+    },
+    {
+      "name": "tipDriveFog",
+      "value": "運転に注意：%1$s ごろに霧が予想されます。"
+    },
+    {
+      "name": "tipDriveRain",
+      "value": "運転に注意：%1$s ごろに強い雨が予想されます。"
+    },
+    {
+      "name": "refresh",
+      "value": "更新"
+    },
+    {
+      "name": "settingsDisplay",
+      "value": "表示とデータ"
+    },
+    {
+      "name": "settingsAnimatedBackground",
+      "value": "アニメーション背景"
+    },
+    {
+      "name": "settingsAnimatedBackgroundDetail",
+      "value": "予報の背景に動く空を表示します。端末でアニメーションを減らす設定がオンのときは静止します。"
+    },
+    {
+      "name": "settingsMinuteRain",
+      "value": "分単位の雨"
+    },
+    {
+      "name": "settingsMinuteRainDetail",
+      "value": "今後 2 時間の雨を 15 分ごとに表示します。データ使用量が少し増えます。"
+    },
+    {
+      "name": "settingsCrashReports",
+      "value": "クラッシュレポートを送信"
+    },
+    {
+      "name": "settingsCrashReportsDetail",
+      "value": "不具合の修正に役立つ匿名のエラー情報です。位置情報や個人データは含まれません。"
+    },
+    {
+      "name": "nextTwoHours",
+      "value": "今後 2 時間"
+    },
+    {
+      "name": "rainStartingIn",
+      "value": "約 %1$s 分後に雨が降り始めます"
+    },
+    {
+      "name": "rainStoppingIn",
+      "value": "約 %1$s 分後に雨がやみます"
+    },
+    {
+      "name": "rainContinuing",
+      "value": "少なくとも今後 2 時間は雨が続きます"
+    },
+    {
+      "name": "noRainSoon",
+      "value": "今後 2 時間は雨の予報はありません"
+    },
+    {
+      "name": "tempAboutNormal",
+      "value": "平年並み"
+    },
+    {
+      "name": "tempWarmerThanUsual",
+      "value": "平年より %1$s° 高い"
+    },
+    {
+      "name": "tempCoolerThanUsual",
+      "value": "平年より %1$s° 低い"
+    },
+    {
+      "name": "tempNormalsSource",
+      "value": "今日の最高気温を、%1$s〜%2$s 年の同じ日の平均最高気温と比較しています。"
+    },
+    {
+      "name": "radar",
+      "value": "雨雲レーダー"
+    },
+    {
+      "name": "radarUnavailable",
+      "value": "現在レーダーを利用できません。"
+    },
+    {
+      "name": "radarNoCoverage",
+      "value": "レーダーは過去 2 時間を表示します。地域によっては観測範囲が限られるか、対象外です。"
+    },
+    {
+      "name": "play",
+      "value": "再生"
+    },
+    {
+      "name": "pause",
+      "value": "一時停止"
+    },
+    {
+      "name": "aboutRainViewer",
+      "value": "レーダー：気象データ提供 RainViewer、地図 © OpenStreetMap contributors。"
+    },
+    {
+      "name": "privacyRadarTitle",
+      "value": "レーダー地図"
+    },
+    {
+      "name": "privacyRadarBody",
+      "value": "レーダーを開くと、表示している範囲の地図タイルを OpenStreetMap から、レーダー画像を RainViewer からダウンロードします。一般的なウェブサイトと同様に、これらのサービスにはあなたの IP アドレスが見えます。"
+    },
+    {
+      "name": "privacyCrashTitle",
+      "value": "クラッシュレポート"
+    },
+    {
+      "name": "privacyCrashBody",
+      "value": "アプリがクラッシュした場合、修正のために匿名のエラーレポート（端末のモデル、OS のバージョン、アプリのバージョン、エラー内容）が Sentry に送信されることがあります。位置情報、保存した地点、IP アドレスが含まれることはありません。設定でオフにできます。"
+    },
+    {
+      "name": "aboutHistory",
+      "value": "気候の平均値：Open-Meteo 過去の気象データ API (ERA5)。"
+    },
+    {
+      "name": "zoomIn",
+      "value": "拡大"
+    },
+    {
+      "name": "zoomOut",
+      "value": "縮小"
+    },
+    {
+      "name": "settingsAppearance",
+      "value": "外観"
+    },
+    {
+      "name": "settingsUnits",
+      "value": "単位"
+    },
+    {
+      "name": "settingsPrivacy",
+      "value": "プライバシー"
+    },
+    {
+      "name": "cityRemoved",
+      "value": "%1$s を削除しました"
+    },
+    {
+      "name": "undo",
+      "value": "元に戻す"
+    },
+    {
+      "name": "sunAndMoon",
+      "value": "太陽と月"
+    },
+    {
+      "name": "daylight",
+      "value": "昼の長さ"
+    },
+    {
+      "name": "daylightDuration",
+      "value": "%1$s 時間 %2$s 分"
+    },
+    {
+      "name": "moonNew",
+      "value": "新月"
+    },
+    {
+      "name": "moonWaxingCrescent",
+      "value": "三日月"
+    },
+    {
+      "name": "moonFirstQuarter",
+      "value": "上弦の月"
+    },
+    {
+      "name": "moonWaxingGibbous",
+      "value": "十三夜月"
+    },
+    {
+      "name": "moonFull",
+      "value": "満月"
+    },
+    {
+      "name": "moonWaningGibbous",
+      "value": "寝待月"
+    },
+    {
+      "name": "moonLastQuarter",
+      "value": "下弦の月"
+    },
+    {
+      "name": "moonWaningCrescent",
+      "value": "有明月"
+    },
+    {
+      "name": "moonIllumination",
+      "value": "輝面比 %1$s%%"
+    },
+    {
+      "name": "navTrips",
+      "value": "旅行"
+    },
+    {
+      "name": "tripsEmptyTitle",
+      "value": "旅行はまだありません"
+    },
+    {
+      "name": "tripsEmptyBody",
+      "value": "旅行を計画すると、各立ち寄り先の天気を日ごとに確認できます。"
+    },
+    {
+      "name": "planTrip",
+      "value": "旅行を計画"
+    },
+    {
+      "name": "newTrip",
+      "value": "新しい旅行"
+    },
+    {
+      "name": "editTrip",
+      "value": "旅行を編集"
+    },
+    {
+      "name": "tripName",
+      "value": "旅行の名前"
+    },
+    {
+      "name": "tripNameHint",
+      "value": "例：アブジャでクリスマス"
+    },
+    {
+      "name": "tripDefaultName",
+      "value": "%1$s への旅行"
+    },
+    {
+      "name": "tripStops",
+      "value": "立ち寄り先"
+    },
+    {
+      "name": "addStop",
+      "value": "立ち寄り先を追加"
+    },
+    {
+      "name": "removeStop",
+      "value": "立ち寄り先を削除"
+    },
+    {
+      "name": "chooseDates",
+      "value": "日付を選択"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "deleteTrip",
+      "value": "旅行を削除"
+    },
+    {
+      "name": "tripDeleted",
+      "value": "旅行を削除しました"
+    },
+    {
+      "name": "tripProblemNoStops",
+      "value": "立ち寄り先を 1 つ以上追加してください。"
+    },
+    {
+      "name": "tripProblemOrder",
+      "value": "各立ち寄り先は、前の立ち寄り先が終わる日以降に始まる必要があります。"
+    },
+    {
+      "name": "tripProblemTooLong",
+      "value": "旅行の期間は最長 %1$s 日です。"
+    },
+    {
+      "name": "tripStartsIn_zero",
+      "value": "今日出発"
+    },
+    {
+      "name": "tripStartsIn_one",
+      "value": "明日出発"
+    },
+    {
+      "name": "tripStartsIn_other",
+      "value": "%1$s 日後に出発"
+    },
+    {
+      "name": "tripOngoing",
+      "value": "旅行中"
+    },
+    {
+      "name": "tripEnded",
+      "value": "終了"
+    },
+    {
+      "name": "tripDayCount_zero",
+      "value": "%1$s 日間"
+    },
+    {
+      "name": "tripDayCount_one",
+      "value": "1 日間"
+    },
+    {
+      "name": "tripDayCount_other",
+      "value": "%1$s 日間"
+    },
+    {
+      "name": "travelDay",
+      "value": "%1$s からの移動日"
+    },
+    {
+      "name": "typicalWeather",
+      "value": "例年の天気"
+    },
+    {
+      "name": "typicalWeatherNote",
+      "value": "%1$s 日以上先の日は、その日付の例年の天気（過去 20 年の平均）を表示します。旅行が近づくと自動的に天気予報に切り替わります。"
+    },
+    {
+      "name": "weatherUnknown",
+      "value": "データがまだありません"
+    },
+    {
+      "name": "packingList",
+      "value": "持ち物リスト"
+    },
+    {
+      "name": "packingEmpty",
+      "value": "この天気なら特別な持ち物は必要ありません。"
+    },
+    {
+      "name": "packUmbrella",
+      "value": "傘"
+    },
+    {
+      "name": "packRainJacket",
+      "value": "レインジャケット"
+    },
+    {
+      "name": "packSunscreen",
+      "value": "日焼け止め"
+    },
+    {
+      "name": "packSunglasses",
+      "value": "サングラス"
+    },
+    {
+      "name": "packHat",
+      "value": "日よけ帽子"
+    },
+    {
+      "name": "packLightClothes",
+      "value": "軽くて通気性のよい服"
+    },
+    {
+      "name": "packWaterBottle",
+      "value": "マイボトル"
+    },
+    {
+      "name": "packWarmLayer",
+      "value": "暖かいセーターやフリース"
+    },
+    {
+      "name": "packCoat",
+      "value": "冬用コート"
+    },
+    {
+      "name": "packGloves",
+      "value": "手袋"
+    },
+    {
+      "name": "packWindbreaker",
+      "value": "ウインドブレーカー"
+    },
+    {
+      "name": "packInsectRepellent",
+      "value": "虫よけ"
+    },
+    {
+      "name": "shareTrip",
+      "value": "共有"
+    },
+    {
+      "name": "tripReminder",
+      "value": "前日にお知らせ"
+    },
+    {
+      "name": "tripReminderDetail",
+      "value": "出発前日の夕方に、最初の立ち寄り先の天気予報をお知らせします。"
+    },
+    {
+      "name": "tripReminderTitle",
+      "value": "%1$s への旅行は明日からです"
+    },
+    {
+      "name": "tripReminderBodyFallback",
+      "value": "出発前に天気予報を確認しましょう。"
+    },
+    {
+      "name": "tripOutlookRange",
+      "value": "%1$s〜%2$s"
+    },
+    {
+      "name": "tripRainyDays_zero",
+      "value": "雨の予報なし"
+    },
+    {
+      "name": "tripRainyDays_one",
+      "value": "1 日は雨の可能性"
+    },
+    {
+      "name": "tripRainyDays_other",
+      "value": "%1$s 日は雨の可能性"
+    },
+    {
+      "name": "shareForecastDay",
+      "value": "%1$s · %2$s：%3$s、%4$s〜%5$s、降水確率 %6$s%%"
+    },
+    {
+      "name": "shareTypicalDay",
+      "value": "%1$s · %2$s：例年 %3$s〜%4$s"
+    },
+    {
+      "name": "sharedFromApp",
+      "value": "BWeather から共有"
+    },
+    {
+      "name": "privacyTripsTitle",
+      "value": "旅行"
+    },
+    {
+      "name": "privacyTripsBody",
+      "value": "計画した旅行はこの端末にのみ保存されます。天気を取得するため、各立ち寄り先の座標と日付が Open-Meteo に送信されます。"
+    },
+    {
+      "name": "card_description",
+      "value": "現在地の今の天気"
+    },
+    {
+      "name": "card_open_app",
+      "value": "BWeather を開いて設定してください"
+    },
+    {
+      "name": "notifyBackgroundNoteHarmony",
+      "value": "通知はシステムが許可するときに数時間ごとに確認されるため、少し遅れて届くことがあります。"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "現在地の天気予報を表示するために使用します。"
+    }
+  ]
+}

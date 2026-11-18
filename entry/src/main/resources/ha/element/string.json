@@ -1,0 +1,1300 @@
+{
+  "string": [
+    {
+      "name": "appTitle",
+      "value": "BWeather"
+    },
+    {
+      "name": "navForecast",
+      "value": "Hasashe"
+    },
+    {
+      "name": "navLocations",
+      "value": "Wurare"
+    },
+    {
+      "name": "navSettings",
+      "value": "Saituna"
+    },
+    {
+      "name": "addCity",
+      "value": "Ƙara birni"
+    },
+    {
+      "name": "searchHint",
+      "value": "Nemo birane"
+    },
+    {
+      "name": "clearSearch",
+      "value": "Share bincike"
+    },
+    {
+      "name": "close",
+      "value": "Rufe"
+    },
+    {
+      "name": "retry",
+      "value": "Sake gwadawa"
+    },
+    {
+      "name": "keepTyping",
+      "value": "Ci gaba da rubutu…"
+    },
+    {
+      "name": "searchFailed",
+      "value": "Bincike ya kasa. Duba haɗin intanet ɗinka sannan ka sake gwadawa."
+    },
+    {
+      "name": "noPlacesMatch",
+      "value": "Babu wurin da ya dace da \"%1$s\"."
+    },
+    {
+      "name": "welcomeTitle",
+      "value": "Barka da zuwa BWeather"
+    },
+    {
+      "name": "welcomeSubtitle",
+      "value": "Hasashen yanayi na inda kake da wuraren da kake damuwa da su."
+    },
+    {
+      "name": "useMyLocation",
+      "value": "Yi amfani da wurina"
+    },
+    {
+      "name": "findingYou",
+      "value": "Ana neman wurinka…"
+    },
+    {
+      "name": "openSettings",
+      "value": "Buɗe saituna"
+    },
+    {
+      "name": "continueWith",
+      "value": "Ci gaba da %1$s"
+    },
+    {
+      "name": "approximateFromNetwork",
+      "value": "Kimanin wuri, bisa ga hanyar sadarwarka"
+    },
+    {
+      "name": "searchForCity",
+      "value": "Nemo birni"
+    },
+    {
+      "name": "locationPrivacyNote",
+      "value": "Ana amfani da wurinka ne kawai don samo hasashen yanayi."
+    },
+    {
+      "name": "locationServiceDisabled",
+      "value": "An kashe sabis ɗin wuri."
+    },
+    {
+      "name": "locationPermissionDenied",
+      "value": "Ba a ba da izinin wuri ba."
+    },
+    {
+      "name": "locationPermissionBlocked",
+      "value": "An toshe izinin wuri. Za ka iya ba da izini a cikin Saituna."
+    },
+    {
+      "name": "locationUnavailable",
+      "value": "Ba mu iya gano wurinka a yanzu ba."
+    },
+    {
+      "name": "approximateBanner",
+      "value": "Ana nuna kimanin wuri bisa ga hanyar sadarwarka."
+    },
+    {
+      "name": "usePrecise",
+      "value": "Yi amfani da daidai"
+    },
+    {
+      "name": "noPlacesTitle",
+      "value": "Babu wurare tukuna"
+    },
+    {
+      "name": "noPlacesBody",
+      "value": "Yi amfani da wurinka ko ƙara birni don ganin hasashen yanayinsa."
+    },
+    {
+      "name": "noSavedPlaces",
+      "value": "Babu wuraren da aka adana tukuna. Matsa + don ƙara birni."
+    },
+    {
+      "name": "yourLocation",
+      "value": "Wurinka"
+    },
+    {
+      "name": "approximateLocation",
+      "value": "Kimanin wuri"
+    },
+    {
+      "name": "removeCity",
+      "value": "Cire %1$s"
+    },
+    {
+      "name": "reorderHint",
+      "value": "Danna ka riƙe birni sannan ka ja shi don sake tsara jerin."
+    },
+    {
+      "name": "forecastLoadFailed",
+      "value": "Ba a iya loda hasashen yanayi na %1$s ba."
+    },
+    {
+      "name": "forecastUnavailable",
+      "value": "Ba a iya loda hasashe ba"
+    },
+    {
+      "name": "forecastErrorNetwork",
+      "value": "Ba a iya isa ga sabis ɗin yanayi ba. Duba haɗinka sannan ka sake gwadawa."
+    },
+    {
+      "name": "forecastErrorData",
+      "value": "Sabis ɗin yanayi ya aiko da bayanan da ba mu iya karantawa ba. Da fatan za a sake gwadawa nan gaba."
+    },
+    {
+      "name": "couldNotRefresh",
+      "value": "Ba a iya sabuntawa ba"
+    },
+    {
+      "name": "updatedAgo",
+      "value": "An sabunta %1$s"
+    },
+    {
+      "name": "ageJustNow",
+      "value": "yanzu-yanzu"
+    },
+    {
+      "name": "ageMinutes",
+      "value": "minti %1$s da suka wuce"
+    },
+    {
+      "name": "ageHours",
+      "value": "awa %1$s da suka wuce"
+    },
+    {
+      "name": "ageDays_zero",
+      "value": "kwanaki %1$s da suka wuce"
+    },
+    {
+      "name": "ageDays_one",
+      "value": "kwana 1 da ya wuce"
+    },
+    {
+      "name": "ageDays_other",
+      "value": "kwanaki %1$s da suka wuce"
+    },
+    {
+      "name": "feelsLike",
+      "value": "Ana jin kamar %1$s"
+    },
+    {
+      "name": "rainChance",
+      "value": "Yiwuwar ruwan sama"
+    },
+    {
+      "name": "windWithDirection",
+      "value": "Iska %1$s"
+    },
+    {
+      "name": "humidity",
+      "value": "Danshi"
+    },
+    {
+      "name": "daily",
+      "value": "Kullum"
+    },
+    {
+      "name": "hourly",
+      "value": "Kowace awa"
+    },
+    {
+      "name": "today",
+      "value": "Yau"
+    },
+    {
+      "name": "now",
+      "value": "Yanzu"
+    },
+    {
+      "name": "windDirection",
+      "value": "Alƙiblar iska"
+    },
+    {
+      "name": "windGusts",
+      "value": "Guguwar iska"
+    },
+    {
+      "name": "rainToday",
+      "value": "Ruwan sama yau"
+    },
+    {
+      "name": "pressure",
+      "value": "Matsin iska"
+    },
+    {
+      "name": "cloudCover",
+      "value": "Rufewar gajimare"
+    },
+    {
+      "name": "dewPoint",
+      "value": "Matakin raɓa"
+    },
+    {
+      "name": "sunrise",
+      "value": "Fitowar rana"
+    },
+    {
+      "name": "sunset",
+      "value": "Faɗuwar rana"
+    },
+    {
+      "name": "semanticsCurrent",
+      "value": "Digiri %1$s, %2$s"
+    },
+    {
+      "name": "semanticsDay",
+      "value": "%1$s: %2$s, daga %3$s zuwa %4$s"
+    },
+    {
+      "name": "semanticsRainChance",
+      "value": "Yiwuwar ruwan sama %1$s%%"
+    },
+    {
+      "name": "compassPoints",
+      "value": "N,NNE,NE,ENE,E,ESE,SE,SSE,S,SSW,SW,WSW,W,WNW,NW,NNW"
+    },
+    {
+      "name": "settingsGeneral",
+      "value": "Gabaɗaya"
+    },
+    {
+      "name": "settingsTheme",
+      "value": "Jigo"
+    },
+    {
+      "name": "themeAuto",
+      "value": "Atomatik"
+    },
+    {
+      "name": "themeAutoHint",
+      "value": "Haske daga fitowar rana zuwa faɗuwarta, duhu da dare"
+    },
+    {
+      "name": "themeLight",
+      "value": "Haske"
+    },
+    {
+      "name": "themeDark",
+      "value": "Duhu"
+    },
+    {
+      "name": "settingsLanguage",
+      "value": "Harshe"
+    },
+    {
+      "name": "languageSystem",
+      "value": "Tsohon saitin na'ura"
+    },
+    {
+      "name": "settingsTemperature",
+      "value": "Zafin jiki"
+    },
+    {
+      "name": "unitCelsius",
+      "value": "Celsius (°C)"
+    },
+    {
+      "name": "unitFahrenheit",
+      "value": "Fahrenheit (°F)"
+    },
+    {
+      "name": "settingsWindSpeed",
+      "value": "Gudun iska"
+    },
+    {
+      "name": "unitKmh",
+      "value": "Kilomita a awa (km/h)"
+    },
+    {
+      "name": "unitMph",
+      "value": "Mil a awa (mph)"
+    },
+    {
+      "name": "unitMs",
+      "value": "Mita a daƙiƙa (m/s)"
+    },
+    {
+      "name": "unitKnots",
+      "value": "Knots (kn)"
+    },
+    {
+      "name": "settingsPrecipitation",
+      "value": "Ruwan sama"
+    },
+    {
+      "name": "unitMm",
+      "value": "Milimita (mm)"
+    },
+    {
+      "name": "unitInch",
+      "value": "Inci (in)"
+    },
+    {
+      "name": "settingsAbout",
+      "value": "Game da"
+    },
+    {
+      "name": "aboutApp",
+      "value": "Game da BWeather"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "Manufar sirri"
+    },
+    {
+      "name": "termsOfUse",
+      "value": "Sharuɗɗan amfani"
+    },
+    {
+      "name": "version",
+      "value": "Sigar %1$s"
+    },
+    {
+      "name": "aboutDescription",
+      "value": "BWeather yana nuna yanayin yanzu da hasashe na wurinka da wuraren da ka adana. Nobel ne ke haɓakawa da kula da shi don Bsoft Limited."
+    },
+    {
+      "name": "aboutDataSources",
+      "value": "Tushen bayanai"
+    },
+    {
+      "name": "aboutOpenMeteo",
+      "value": "Yanayi da binciken wurare: Open-Meteo (open-meteo.com), ƙarƙashin lasisin CC BY 4.0."
+    },
+    {
+      "name": "aboutOsm",
+      "value": "Sunayen wurare: © masu bayar da gudummawa na OpenStreetMap (Nominatim), ODbL."
+    },
+    {
+      "name": "aboutIpapi",
+      "value": "Kimanin wuri: ipapi.co."
+    },
+    {
+      "name": "aboutIcons",
+      "value": "Alamomin yanayi: Meteocons na Bas Milius (MIT)."
+    },
+    {
+      "name": "privacyIntro",
+      "value": "BWeather ba shi da asusu, ba tallace-tallace, kuma ba ya bin diddigin amfani. Wannan shafi yana bayyana bayanan da ke barin na'urarka da dalilin hakan."
+    },
+    {
+      "name": "privacyLocationTitle",
+      "value": "Wurinka"
+    },
+    {
+      "name": "privacyLocationBody",
+      "value": "Idan ka yarda, manhajar tana karanta wurin na'urarka. Ana aika wurin zuwa Open-Meteo don samun hasashe, da zuwa OpenStreetMap Nominatim don samun sunan wurin. Ba a aika su ko'ina ba."
+    },
+    {
+      "name": "privacyApproximateTitle",
+      "value": "Kimanin wuri"
+    },
+    {
+      "name": "privacyApproximateBody",
+      "value": "Idan babu daidaitaccen wuri, manhajar tana tambayar ipapi.co kimanin wuri a matakin birni. ipapi.co yana ganin adireshin IP ɗinka don amsa wannan buƙata."
+    },
+    {
+      "name": "privacySearchTitle",
+      "value": "Binciken birni"
+    },
+    {
+      "name": "privacySearchBody",
+      "value": "Ana aika rubutun da ka shigar a binciken birni zuwa sabis ɗin Open-Meteo don nemo wuraren da suka dace."
+    },
+    {
+      "name": "privacyStorageTitle",
+      "value": "Bayanan da aka adana a na'urarka"
+    },
+    {
+      "name": "privacyStorageBody",
+      "value": "Biranen da ka adana, sabbin hasashe da saitunanka ana adana su ne a wannan na'urar kaɗai. Cire manhajar yana share su."
+    },
+    {
+      "name": "privacyContactTitle",
+      "value": "Tuntuɓa"
+    },
+    {
+      "name": "privacyContactBody",
+      "value": "Kana da tambayoyi game da sirri? Tuntuɓi Bsoft Limited ta shafin manhajar a shagon manhajoji."
+    },
+    {
+      "name": "termsIntro",
+      "value": "Ta amfani da BWeather ka yarda da waɗannan sharuɗɗa."
+    },
+    {
+      "name": "termsAccuracyTitle",
+      "value": "Daidaiton hasashe"
+    },
+    {
+      "name": "termsAccuracyBody",
+      "value": "Hasashen yanayi ƙiyasi ne kuma yana iya kuskure. Kada ka dogara da BWeather don yanke shawara da ta shafi tsaro; bi gargaɗin hukuma daga hukumar yanayi ta ƙasarka."
+    },
+    {
+      "name": "termsServiceTitle",
+      "value": "Sabis ɗin"
+    },
+    {
+      "name": "termsServiceBody",
+      "value": "Ana bayar da BWeather \"kamar yadda yake\", ba tare da garanti ba. Fasaloli na iya canzawa, kuma sabis ɗin na iya rashin samuwa a wasu lokuta."
+    },
+    {
+      "name": "termsThirdPartyTitle",
+      "value": "Bayanan wasu kamfanoni"
+    },
+    {
+      "name": "termsThirdPartyBody",
+      "value": "Bayanan yanayi suna fitowa daga Open-Meteo, sunayen wurare kuma daga OpenStreetMap. Sharuɗɗansu da lasisinsu ne ke aiki a kan waɗannan bayanai."
+    },
+    {
+      "name": "legalLastUpdated",
+      "value": "Sabuntawa ta ƙarshe: %1$s"
+    },
+    {
+      "name": "wmo0",
+      "value": "Sararin sama a share"
+    },
+    {
+      "name": "wmo1",
+      "value": "Kusan a share"
+    },
+    {
+      "name": "wmo2",
+      "value": "Gajimare kaɗan"
+    },
+    {
+      "name": "wmo3",
+      "value": "Gajimare ya rufe"
+    },
+    {
+      "name": "wmo45",
+      "value": "Hazo"
+    },
+    {
+      "name": "wmo48",
+      "value": "Hazo mai ƙanƙara"
+    },
+    {
+      "name": "wmo51",
+      "value": "Yayyafi kaɗan"
+    },
+    {
+      "name": "wmo53",
+      "value": "Yayyafi matsakaici"
+    },
+    {
+      "name": "wmo55",
+      "value": "Yayyafi mai yawa"
+    },
+    {
+      "name": "wmo56",
+      "value": "Yayyafi mai daskarewa kaɗan"
+    },
+    {
+      "name": "wmo57",
+      "value": "Yayyafi mai daskarewa mai yawa"
+    },
+    {
+      "name": "wmo61",
+      "value": "Ruwan sama kaɗan"
+    },
+    {
+      "name": "wmo63",
+      "value": "Ruwan sama matsakaici"
+    },
+    {
+      "name": "wmo65",
+      "value": "Ruwan sama mai ƙarfi"
+    },
+    {
+      "name": "wmo66",
+      "value": "Ruwan sama mai daskarewa kaɗan"
+    },
+    {
+      "name": "wmo67",
+      "value": "Ruwan sama mai daskarewa mai ƙarfi"
+    },
+    {
+      "name": "wmo71",
+      "value": "Dusar ƙanƙara kaɗan"
+    },
+    {
+      "name": "wmo73",
+      "value": "Dusar ƙanƙara matsakaiciya"
+    },
+    {
+      "name": "wmo75",
+      "value": "Dusar ƙanƙara mai yawa"
+    },
+    {
+      "name": "wmo77",
+      "value": "Ƙwayoyin dusar ƙanƙara"
+    },
+    {
+      "name": "wmo80",
+      "value": "Ɗan ruwan sama na ɗan lokaci"
+    },
+    {
+      "name": "wmo81",
+      "value": "Ruwan sama na ɗan lokaci matsakaici"
+    },
+    {
+      "name": "wmo82",
+      "value": "Ruwan sama mai tsanani na ɗan lokaci"
+    },
+    {
+      "name": "wmo85",
+      "value": "Dusar ƙanƙara kaɗan na ɗan lokaci"
+    },
+    {
+      "name": "wmo86",
+      "value": "Dusar ƙanƙara mai yawa na ɗan lokaci"
+    },
+    {
+      "name": "wmo95",
+      "value": "Tsawa da walƙiya"
+    },
+    {
+      "name": "wmo96",
+      "value": "Tsawa tare da ƙanƙara kaɗan"
+    },
+    {
+      "name": "wmo99",
+      "value": "Tsawa tare da ƙanƙara mai yawa"
+    },
+    {
+      "name": "wmoUnknown",
+      "value": "Yanayin da ba a sani ba"
+    },
+    {
+      "name": "pageNotFound",
+      "value": "Ba a sami shafin ba"
+    },
+    {
+      "name": "airQuality",
+      "value": "Ingancin iska"
+    },
+    {
+      "name": "airQualityIndex",
+      "value": "US AQI %1$s"
+    },
+    {
+      "name": "aqiGood",
+      "value": "Mai kyau"
+    },
+    {
+      "name": "aqiModerate",
+      "value": "Matsakaici"
+    },
+    {
+      "name": "aqiSensitive",
+      "value": "Ba shi da kyau ga masu rauni"
+    },
+    {
+      "name": "aqiUnhealthy",
+      "value": "Ba shi da kyau ga lafiya"
+    },
+    {
+      "name": "aqiVeryUnhealthy",
+      "value": "Ba shi da kyau ko kaɗan"
+    },
+    {
+      "name": "aqiHazardous",
+      "value": "Mai haɗari"
+    },
+    {
+      "name": "pm25",
+      "value": "PM2.5"
+    },
+    {
+      "name": "pm10",
+      "value": "PM10"
+    },
+    {
+      "name": "dust",
+      "value": "Ƙura"
+    },
+    {
+      "name": "uvIndex",
+      "value": "Ma'aunin UV"
+    },
+    {
+      "name": "uvLow",
+      "value": "ƙasa"
+    },
+    {
+      "name": "uvModerate",
+      "value": "matsakaici"
+    },
+    {
+      "name": "uvHigh",
+      "value": "sama"
+    },
+    {
+      "name": "uvVeryHigh",
+      "value": "sama sosai"
+    },
+    {
+      "name": "uvExtreme",
+      "value": "mai tsanani"
+    },
+    {
+      "name": "pollen",
+      "value": "Furen fure (pollen)"
+    },
+    {
+      "name": "pollenAlder",
+      "value": "Alder"
+    },
+    {
+      "name": "pollenBirch",
+      "value": "Birch"
+    },
+    {
+      "name": "pollenGrass",
+      "value": "Ciyawa"
+    },
+    {
+      "name": "pollenMugwort",
+      "value": "Mugwort"
+    },
+    {
+      "name": "pollenOlive",
+      "value": "Zaitun"
+    },
+    {
+      "name": "pollenRagweed",
+      "value": "Ragweed"
+    },
+    {
+      "name": "harmattanDustHint",
+      "value": "Ƙura mai yawa (hunturu): ka yi la'akari da sanya takunkumi a waje."
+    },
+    {
+      "name": "chart",
+      "value": "Jadawali"
+    },
+    {
+      "name": "chartLegendTemperature",
+      "value": "Zafin jiki"
+    },
+    {
+      "name": "chartLegendRain",
+      "value": "Yiwuwar ruwan sama"
+    },
+    {
+      "name": "settingsNotifications",
+      "value": "Sanarwa"
+    },
+    {
+      "name": "notifyMorningBrief",
+      "value": "Bayanin safe"
+    },
+    {
+      "name": "notifyMorningBriefDetail",
+      "value": "Hasashen yau na wurinka kowace safiya."
+    },
+    {
+      "name": "notifyBriefTime",
+      "value": "Lokaci"
+    },
+    {
+      "name": "notifyRain",
+      "value": "Gargaɗin ruwan sama"
+    },
+    {
+      "name": "notifyRainDetail",
+      "value": "Idan da yiwuwar ruwan sama cikin awa 2 masu zuwa."
+    },
+    {
+      "name": "notifySevere",
+      "value": "Mummunan yanayi"
+    },
+    {
+      "name": "notifySevereDetail",
+      "value": "Tsawa, iska mai ƙarfi sosai ko zafi mai tsanani."
+    },
+    {
+      "name": "notifyPermissionDenied",
+      "value": "An kashe sanarwar BWeather a cikin saitunan na'urarka."
+    },
+    {
+      "name": "notifyUnsupported",
+      "value": "Sanarwa tana samuwa a manhajar Android."
+    },
+    {
+      "name": "notifyBackgroundNote",
+      "value": "Ana duba gargaɗi kusan sau ɗaya a kowace awa, don haka suna iya zuwa a makare kaɗan."
+    },
+    {
+      "name": "notifyChannelForecast",
+      "value": "Hasashe"
+    },
+    {
+      "name": "notifyChannelAlerts",
+      "value": "Gargaɗin yanayi"
+    },
+    {
+      "name": "briefTitle",
+      "value": "Yau a %1$s"
+    },
+    {
+      "name": "briefBody",
+      "value": "%1$s, daga %2$s zuwa %3$s. Yiwuwar ruwan sama %4$s%%."
+    },
+    {
+      "name": "rainAlertTitle",
+      "value": "Ana sa ran ruwan sama a %1$s"
+    },
+    {
+      "name": "rainAlertBody",
+      "value": "Yiwuwar ruwan sama %1$s%% a kusan %2$s."
+    },
+    {
+      "name": "severeThunderTitle",
+      "value": "Tsawa kusa da %1$s"
+    },
+    {
+      "name": "severeThunderBody",
+      "value": "Ana sa ran tsawa a kusan %1$s. Ka zauna a cikin gida idan za ka iya."
+    },
+    {
+      "name": "severeWindTitle",
+      "value": "Iska mai ƙarfi a %1$s"
+    },
+    {
+      "name": "severeWindBody",
+      "value": "Ana sa ran guguwar iska har zuwa %1$s yau."
+    },
+    {
+      "name": "severeHeatTitle",
+      "value": "Zafi mai tsanani a %1$s"
+    },
+    {
+      "name": "severeHeatBody",
+      "value": "Yau za a ji kamar %1$s. Sha ruwa kuma ka guji rana ta tsakar rana."
+    },
+    {
+      "name": "aboutCams",
+      "value": "Ingancin iska: an samar ta amfani da bayanan Copernicus Atmosphere Monitoring Service (ta hanyar Open-Meteo)."
+    },
+    {
+      "name": "widgetRange",
+      "value": "Mafi zafi %1$s · Mafi sanyi %2$s"
+    },
+    {
+      "name": "widgetUpdated",
+      "value": "An sabunta %1$s"
+    },
+    {
+      "name": "tipsTitle",
+      "value": "Shawarwarin yau"
+    },
+    {
+      "name": "tipUmbrella",
+      "value": "Ɗauki laima: yiwuwar ruwan sama %1$s%%, mafi yiwuwa a kusan %2$s."
+    },
+    {
+      "name": "tipClothesHot",
+      "value": "Sanya tufafi masu sauƙi da ke barin iska ta shiga."
+    },
+    {
+      "name": "tipClothesWarm",
+      "value": "Yanayin rigar T-shirt ne."
+    },
+    {
+      "name": "tipClothesMild",
+      "value": "Ɗauki jaket mai sauƙi."
+    },
+    {
+      "name": "tipClothesCool",
+      "value": "Sanya jaket mai ɗumi."
+    },
+    {
+      "name": "tipClothesCold",
+      "value": "Ka lulluɓe sosai: akwai sanyi a waje."
+    },
+    {
+      "name": "tipSunscreen",
+      "value": "UV yana %1$s yau: yi amfani da man kariya daga rana da hula tsakanin 10:00 da 16:00."
+    },
+    {
+      "name": "tipHydrate",
+      "value": "Za a ji kamar %1$s. Sha ruwa sosai."
+    },
+    {
+      "name": "tipLaundryGood",
+      "value": "Rana ce mai kyau don shanya wanki a waje."
+    },
+    {
+      "name": "tipLaundryBad",
+      "value": "Ba rana ce mai kyau ba don shanya wanki a waje."
+    },
+    {
+      "name": "tipBestOutdoorTime",
+      "value": "Lokaci mafi kyau don fita waje: kusan %1$s."
+    },
+    {
+      "name": "tipAirQuality",
+      "value": "Ingancin iska ba shi da kyau: rage dogon aiki ko motsa jiki mai ƙarfi a waje."
+    },
+    {
+      "name": "tipMosquitoes",
+      "value": "Maraice mai ɗumi da danshi: sauro na iya yawa, yi amfani da maganin sauro ko gidan sauro."
+    },
+    {
+      "name": "tipDriveFog",
+      "value": "Ka tuƙa a hankali: ana sa ran hazo a kusan %1$s."
+    },
+    {
+      "name": "tipDriveRain",
+      "value": "Ka tuƙa a hankali: ana sa ran ruwan sama mai ƙarfi a kusan %1$s."
+    },
+    {
+      "name": "refresh",
+      "value": "Sabunta"
+    },
+    {
+      "name": "settingsDisplay",
+      "value": "Nuni da bayanai"
+    },
+    {
+      "name": "settingsAnimatedBackground",
+      "value": "Bangon da ke motsi"
+    },
+    {
+      "name": "settingsAnimatedBackgroundDetail",
+      "value": "Sararin sama mai motsi a bayan hasashe. Yana tsayawa cak idan na'urarka an saita ta don rage motsi."
+    },
+    {
+      "name": "settingsMinuteRain",
+      "value": "Ruwan sama minti-minti"
+    },
+    {
+      "name": "settingsMinuteRainDetail",
+      "value": "Ruwan sama na awa 2 masu zuwa a matakan minti 15. Yana amfani da ɗan ƙarin bayanai."
+    },
+    {
+      "name": "settingsCrashReports",
+      "value": "Aika rahoton faɗuwar manhaja"
+    },
+    {
+      "name": "settingsCrashReportsDetail",
+      "value": "Bayanan kuskure ba tare da suna ba da ke taimakawa gyara matsaloli. Babu wuri ko bayanan sirri."
+    },
+    {
+      "name": "nextTwoHours",
+      "value": "Awa 2 masu zuwa"
+    },
+    {
+      "name": "rainStartingIn",
+      "value": "Ruwan sama zai fara cikin kusan minti %1$s"
+    },
+    {
+      "name": "rainStoppingIn",
+      "value": "Ruwan sama zai tsaya cikin kusan minti %1$s"
+    },
+    {
+      "name": "rainContinuing",
+      "value": "Ruwan sama aƙalla cikin awa 2 masu zuwa"
+    },
+    {
+      "name": "noRainSoon",
+      "value": "Ba a sa ran ruwan sama cikin awa 2 masu zuwa"
+    },
+    {
+      "name": "tempAboutNormal",
+      "value": "Kamar yadda aka saba a yau"
+    },
+    {
+      "name": "tempWarmerThanUsual",
+      "value": "Zafi ya fi yadda aka saba da %1$s°"
+    },
+    {
+      "name": "tempCoolerThanUsual",
+      "value": "Sanyi ya fi yadda aka saba da %1$s°"
+    },
+    {
+      "name": "tempNormalsSource",
+      "value": "Mafi zafin yau idan aka kwatanta da matsakaicin mafi zafi na wannan rana, %1$s–%2$s."
+    },
+    {
+      "name": "radar",
+      "value": "Radar ruwan sama"
+    },
+    {
+      "name": "radarUnavailable",
+      "value": "Radar ba ya samuwa a yanzu."
+    },
+    {
+      "name": "radarNoCoverage",
+      "value": "Radar yana nuna awa 2 da suka wuce. Wasu yankuna ba su da cikakken ɗaukar hoto."
+    },
+    {
+      "name": "play",
+      "value": "Kunna"
+    },
+    {
+      "name": "pause",
+      "value": "Dakata"
+    },
+    {
+      "name": "aboutRainViewer",
+      "value": "Radar: bayanan yanayi daga RainViewer; taswira © masu bayar da gudummawa na OpenStreetMap."
+    },
+    {
+      "name": "privacyRadarTitle",
+      "value": "Taswirar radar"
+    },
+    {
+      "name": "privacyRadarBody",
+      "value": "Buɗe radar yana sauke guntun taswira daga OpenStreetMap da hotunan radar daga RainViewer na yankin da kake kallo. Kamar kowane gidan yanar gizo, suna ganin adireshin IP ɗinka."
+    },
+    {
+      "name": "privacyCrashTitle",
+      "value": "Rahoton faɗuwar manhaja"
+    },
+    {
+      "name": "privacyCrashBody",
+      "value": "Idan manhajar ta faɗi, ana iya aika rahoton kuskure ba tare da suna ba (samfurin na'ura, sigar tsarin aiki, sigar manhaja da kuskuren) zuwa Sentry don mu gyara shi. Ba ya ƙunshe da wurinka, wuraren da ka adana ko adireshin IP ɗinka. Za ka iya kashe wannan a cikin Saituna."
+    },
+    {
+      "name": "aboutHistory",
+      "value": "Matsakaicin yanayi: Open-Meteo historical weather API (ERA5)."
+    },
+    {
+      "name": "zoomIn",
+      "value": "Ƙara girma"
+    },
+    {
+      "name": "zoomOut",
+      "value": "Rage girma"
+    },
+    {
+      "name": "settingsAppearance",
+      "value": "Kamanni"
+    },
+    {
+      "name": "settingsUnits",
+      "value": "Ma'auni"
+    },
+    {
+      "name": "settingsPrivacy",
+      "value": "Sirri"
+    },
+    {
+      "name": "cityRemoved",
+      "value": "An cire %1$s"
+    },
+    {
+      "name": "undo",
+      "value": "Soke"
+    },
+    {
+      "name": "sunAndMoon",
+      "value": "Rana da wata"
+    },
+    {
+      "name": "daylight",
+      "value": "Hasken rana"
+    },
+    {
+      "name": "daylightDuration",
+      "value": "Awa %1$s minti %2$s"
+    },
+    {
+      "name": "moonNew",
+      "value": "Sabon wata"
+    },
+    {
+      "name": "moonWaxingCrescent",
+      "value": "Jinjirin wata mai ƙaruwa"
+    },
+    {
+      "name": "moonFirstQuarter",
+      "value": "Rubu'in farko"
+    },
+    {
+      "name": "moonWaxingGibbous",
+      "value": "Wata mai ƙaruwa"
+    },
+    {
+      "name": "moonFull",
+      "value": "Cikakken wata"
+    },
+    {
+      "name": "moonWaningGibbous",
+      "value": "Wata mai raguwa"
+    },
+    {
+      "name": "moonLastQuarter",
+      "value": "Rubu'in ƙarshe"
+    },
+    {
+      "name": "moonWaningCrescent",
+      "value": "Jinjirin wata mai raguwa"
+    },
+    {
+      "name": "moonIllumination",
+      "value": "Haske %1$s%%"
+    },
+    {
+      "name": "navTrips",
+      "value": "Tafiye-tafiye"
+    },
+    {
+      "name": "tripsEmptyTitle",
+      "value": "Babu tafiya tukuna"
+    },
+    {
+      "name": "tripsEmptyBody",
+      "value": "Shirya tafiya don ganin yanayi a kowane wurin sauka, rana-rana."
+    },
+    {
+      "name": "planTrip",
+      "value": "Shirya tafiya"
+    },
+    {
+      "name": "newTrip",
+      "value": "Sabuwar tafiya"
+    },
+    {
+      "name": "editTrip",
+      "value": "Gyara tafiya"
+    },
+    {
+      "name": "tripName",
+      "value": "Sunan tafiya"
+    },
+    {
+      "name": "tripNameHint",
+      "value": "misali: Kirsimeti a Abuja"
+    },
+    {
+      "name": "tripDefaultName",
+      "value": "Tafiya zuwa %1$s"
+    },
+    {
+      "name": "tripStops",
+      "value": "Wuraren sauka"
+    },
+    {
+      "name": "addStop",
+      "value": "Ƙara wurin sauka"
+    },
+    {
+      "name": "removeStop",
+      "value": "Cire wurin sauka"
+    },
+    {
+      "name": "chooseDates",
+      "value": "Zaɓi kwanaki"
+    },
+    {
+      "name": "save",
+      "value": "Adana"
+    },
+    {
+      "name": "deleteTrip",
+      "value": "Share tafiya"
+    },
+    {
+      "name": "tripDeleted",
+      "value": "An share tafiya"
+    },
+    {
+      "name": "tripProblemNoStops",
+      "value": "Ƙara aƙalla wurin sauka ɗaya."
+    },
+    {
+      "name": "tripProblemOrder",
+      "value": "Kowane wurin sauka dole ya fara a ranar da na baya ya ƙare ko bayan haka."
+    },
+    {
+      "name": "tripProblemTooLong",
+      "value": "Tafiya ba za ta wuce kwanaki %1$s ba."
+    },
+    {
+      "name": "tripStartsIn_zero",
+      "value": "Za a fara yau"
+    },
+    {
+      "name": "tripStartsIn_one",
+      "value": "Za a fara gobe"
+    },
+    {
+      "name": "tripStartsIn_other",
+      "value": "Za a fara cikin kwanaki %1$s"
+    },
+    {
+      "name": "tripOngoing",
+      "value": "Ana ciki yanzu"
+    },
+    {
+      "name": "tripEnded",
+      "value": "Ta ƙare"
+    },
+    {
+      "name": "tripDayCount_zero",
+      "value": "Kwanaki %1$s"
+    },
+    {
+      "name": "tripDayCount_one",
+      "value": "Kwana 1"
+    },
+    {
+      "name": "tripDayCount_other",
+      "value": "Kwanaki %1$s"
+    },
+    {
+      "name": "travelDay",
+      "value": "Ranar tafiya daga %1$s"
+    },
+    {
+      "name": "typicalWeather",
+      "value": "Yadda aka saba a wannan rana"
+    },
+    {
+      "name": "typicalWeatherNote",
+      "value": "Ranakun da suka wuce kwanaki %1$s gaba suna nuna yanayin da aka saba na ranar (matsakaicin shekaru 20 da suka wuce). Hasashe zai maye gurbinsa kai tsaye yayin da tafiya ke matsowa."
+    },
+    {
+      "name": "weatherUnknown",
+      "value": "Babu bayanai tukuna"
+    },
+    {
+      "name": "packingList",
+      "value": "Jerin kaya"
+    },
+    {
+      "name": "packingEmpty",
+      "value": "Babu wani abu na musamman da za a ɗauka don wannan yanayi."
+    },
+    {
+      "name": "packUmbrella",
+      "value": "Laima"
+    },
+    {
+      "name": "packRainJacket",
+      "value": "Rigar ruwan sama"
+    },
+    {
+      "name": "packSunscreen",
+      "value": "Man kariya daga rana"
+    },
+    {
+      "name": "packSunglasses",
+      "value": "Tabarau na rana"
+    },
+    {
+      "name": "packHat",
+      "value": "Hular rana"
+    },
+    {
+      "name": "packLightClothes",
+      "value": "Tufafi masu sauƙi"
+    },
+    {
+      "name": "packWaterBottle",
+      "value": "Kwalbar ruwa"
+    },
+    {
+      "name": "packWarmLayer",
+      "value": "Suwaita mai ɗumi"
+    },
+    {
+      "name": "packCoat",
+      "value": "Babbar riga ta sanyi"
+    },
+    {
+      "name": "packGloves",
+      "value": "Safar hannu"
+    },
+    {
+      "name": "packWindbreaker",
+      "value": "Rigar kariya daga iska"
+    },
+    {
+      "name": "packInsectRepellent",
+      "value": "Maganin sauro"
+    },
+    {
+      "name": "shareTrip",
+      "value": "Raba"
+    },
+    {
+      "name": "tripReminder",
+      "value": "Tunatar da ni ranar da ta gabata"
+    },
+    {
+      "name": "tripReminderDetail",
+      "value": "Sanarwa a maraicen ranar kafin tafiya, tare da hasashen wurin sauka na farko."
+    },
+    {
+      "name": "tripReminderTitle",
+      "value": "Tafiyarka zuwa %1$s za ta fara gobe"
+    },
+    {
+      "name": "tripReminderBodyFallback",
+      "value": "Duba hasashen yanayi kafin ka tafi."
+    },
+    {
+      "name": "tripOutlookRange",
+      "value": "%1$s zuwa %2$s"
+    },
+    {
+      "name": "tripRainyDays_zero",
+      "value": "Ba a sa ran ruwan sama"
+    },
+    {
+      "name": "tripRainyDays_one",
+      "value": "Ana iya ruwan sama rana 1"
+    },
+    {
+      "name": "tripRainyDays_other",
+      "value": "Ana iya ruwan sama kwanaki %1$s"
+    },
+    {
+      "name": "shareForecastDay",
+      "value": "%1$s · %2$s: %3$s, %4$s zuwa %5$s, ruwan sama %6$s%%"
+    },
+    {
+      "name": "shareTypicalDay",
+      "value": "%1$s · %2$s: yawanci %3$s zuwa %4$s"
+    },
+    {
+      "name": "sharedFromApp",
+      "value": "An raba daga BWeather"
+    },
+    {
+      "name": "privacyTripsTitle",
+      "value": "Tafiye-tafiye"
+    },
+    {
+      "name": "privacyTripsBody",
+      "value": "Ana adana tafiye-tafiyen da ka shirya a wannan na'urar kaɗai. Don samun yanayinsu, ana aika wurare da kwanakin kowane wurin sauka zuwa Open-Meteo."
+    },
+    {
+      "name": "card_description",
+      "value": "Yanayin yanzu a inda kuke"
+    },
+    {
+      "name": "card_open_app",
+      "value": "Buɗe BWeather don saitawa"
+    },
+    {
+      "name": "notifyBackgroundNoteHarmony",
+      "value": "Ana duba faɗakarwa bayan 'yan sa'o'i idan tsarin ya ba da dama, don haka za su iya zuwa a makare kaɗan."
+    }
+  ]
+}

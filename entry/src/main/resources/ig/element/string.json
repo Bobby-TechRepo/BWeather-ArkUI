@@ -1,0 +1,1300 @@
+{
+  "string": [
+    {
+      "name": "appTitle",
+      "value": "BWeather"
+    },
+    {
+      "name": "navForecast",
+      "value": "Amụma"
+    },
+    {
+      "name": "navLocations",
+      "value": "Ebe"
+    },
+    {
+      "name": "navSettings",
+      "value": "Ntọala"
+    },
+    {
+      "name": "addCity",
+      "value": "Tinye obodo"
+    },
+    {
+      "name": "searchHint",
+      "value": "Chọọ obodo"
+    },
+    {
+      "name": "clearSearch",
+      "value": "Hichapụ ọchụchọ"
+    },
+    {
+      "name": "close",
+      "value": "Mechie"
+    },
+    {
+      "name": "retry",
+      "value": "Nwaa ọzọ"
+    },
+    {
+      "name": "keepTyping",
+      "value": "Gaa n'ihu na-ede…"
+    },
+    {
+      "name": "searchFailed",
+      "value": "Ọchụchọ adaghị. Lelee njikọ ịntanetị gị wee nwaa ọzọ."
+    },
+    {
+      "name": "noPlacesMatch",
+      "value": "Ọ dịghị ebe dabara na \"%1$s\"."
+    },
+    {
+      "name": "welcomeTitle",
+      "value": "Nnọọ na BWeather"
+    },
+    {
+      "name": "welcomeSubtitle",
+      "value": "Amụma ihu igwe maka ebe ị nọ na ebe ndị ị na-eche banyere ha."
+    },
+    {
+      "name": "useMyLocation",
+      "value": "Jiri ebe m nọ"
+    },
+    {
+      "name": "findingYou",
+      "value": "Na-achọ ebe ị nọ…"
+    },
+    {
+      "name": "openSettings",
+      "value": "Mepee ntọala"
+    },
+    {
+      "name": "continueWith",
+      "value": "Gaa n'ihu na %1$s"
+    },
+    {
+      "name": "approximateFromNetwork",
+      "value": "Ihe dị nso, dabere na netwọk gị"
+    },
+    {
+      "name": "searchForCity",
+      "value": "Chọọ obodo"
+    },
+    {
+      "name": "locationPrivacyNote",
+      "value": "A na-eji ebe ị nọ naanị iji nweta amụma ihu igwe."
+    },
+    {
+      "name": "locationServiceDisabled",
+      "value": "Agbanyụọla ọrụ ọnọdụ."
+    },
+    {
+      "name": "locationPermissionDenied",
+      "value": "E nyeghị ikike ọnọdụ."
+    },
+    {
+      "name": "locationPermissionBlocked",
+      "value": "Egbochiri ikike ọnọdụ. Ị nwere ike ikwe ya na Ntọala."
+    },
+    {
+      "name": "locationUnavailable",
+      "value": "Anyị enweghị ike ịchọta ebe ị nọ ugbu a."
+    },
+    {
+      "name": "approximateBanner",
+      "value": "Na-egosi ebe dị nso dabere na netwọk gị."
+    },
+    {
+      "name": "usePrecise",
+      "value": "Jiri nke ziri ezi"
+    },
+    {
+      "name": "noPlacesTitle",
+      "value": "Enweghị ebe ọ bụla ka"
+    },
+    {
+      "name": "noPlacesBody",
+      "value": "Jiri ebe ị nọ ma ọ bụ tinye obodo iji hụ amụma ya."
+    },
+    {
+      "name": "noSavedPlaces",
+      "value": "Enweghị ebe echekwara ka. Pịa + iji tinye obodo."
+    },
+    {
+      "name": "yourLocation",
+      "value": "Ebe ị nọ"
+    },
+    {
+      "name": "approximateLocation",
+      "value": "Ebe dị nso"
+    },
+    {
+      "name": "removeCity",
+      "value": "Wepụ %1$s"
+    },
+    {
+      "name": "reorderHint",
+      "value": "Pịa obodo ogologo oge wee dọkpụrụ ya iji hazie usoro."
+    },
+    {
+      "name": "forecastLoadFailed",
+      "value": "Enweghị ike ibudata amụma maka %1$s."
+    },
+    {
+      "name": "forecastUnavailable",
+      "value": "Enweghị ike ibudata amụma"
+    },
+    {
+      "name": "forecastErrorNetwork",
+      "value": "Enweghị ike iru ọrụ ihu igwe. Lelee njikọ gị wee nwaa ọzọ."
+    },
+    {
+      "name": "forecastErrorData",
+      "value": "Ọrụ ihu igwe zitere data anyị na-enweghị ike ịgụ. Biko nwaa ọzọ ma emechaa."
+    },
+    {
+      "name": "couldNotRefresh",
+      "value": "Enweghị ike imelite"
+    },
+    {
+      "name": "updatedAgo",
+      "value": "Emelitere %1$s"
+    },
+    {
+      "name": "ageJustNow",
+      "value": "ugbu a"
+    },
+    {
+      "name": "ageMinutes",
+      "value": "nkeji %1$s gara aga"
+    },
+    {
+      "name": "ageHours",
+      "value": "awa %1$s gara aga"
+    },
+    {
+      "name": "ageDays_zero",
+      "value": "ụbọchị %1$s gara aga"
+    },
+    {
+      "name": "ageDays_one",
+      "value": "ụbọchị 1 gara aga"
+    },
+    {
+      "name": "ageDays_other",
+      "value": "ụbọchị %1$s gara aga"
+    },
+    {
+      "name": "feelsLike",
+      "value": "Ọ dị ka %1$s"
+    },
+    {
+      "name": "rainChance",
+      "value": "Ohere mmiri ozuzo"
+    },
+    {
+      "name": "windWithDirection",
+      "value": "Ikuku %1$s"
+    },
+    {
+      "name": "humidity",
+      "value": "Iru mmiri"
+    },
+    {
+      "name": "daily",
+      "value": "Kwa ụbọchị"
+    },
+    {
+      "name": "hourly",
+      "value": "Kwa awa"
+    },
+    {
+      "name": "today",
+      "value": "Taa"
+    },
+    {
+      "name": "now",
+      "value": "Ugbu a"
+    },
+    {
+      "name": "windDirection",
+      "value": "Ụzọ ikuku"
+    },
+    {
+      "name": "windGusts",
+      "value": "Ike ikuku"
+    },
+    {
+      "name": "rainToday",
+      "value": "Mmiri ozuzo taa"
+    },
+    {
+      "name": "pressure",
+      "value": "Nrụgide ikuku"
+    },
+    {
+      "name": "cloudCover",
+      "value": "Igwe ojii kpuchiri"
+    },
+    {
+      "name": "dewPoint",
+      "value": "Ọkwa igirigi"
+    },
+    {
+      "name": "sunrise",
+      "value": "Ọwụwa anyanwụ"
+    },
+    {
+      "name": "sunset",
+      "value": "Ọdịda anyanwụ"
+    },
+    {
+      "name": "semanticsCurrent",
+      "value": "Ogo %1$s, %2$s"
+    },
+    {
+      "name": "semanticsDay",
+      "value": "%1$s: %2$s, site na %3$s ruo %4$s"
+    },
+    {
+      "name": "semanticsRainChance",
+      "value": "Ohere mmiri ozuzo %1$s%%"
+    },
+    {
+      "name": "compassPoints",
+      "value": "N,NNE,NE,ENE,E,ESE,SE,SSE,S,SSW,SW,WSW,W,WNW,NW,NNW"
+    },
+    {
+      "name": "settingsGeneral",
+      "value": "Izugbe"
+    },
+    {
+      "name": "settingsTheme",
+      "value": "Isiokwu"
+    },
+    {
+      "name": "themeAuto",
+      "value": "Akpaaka"
+    },
+    {
+      "name": "themeAutoHint",
+      "value": "Ìhè site n'ọwụwa anyanwụ ruo ọdịda ya, ọchịchịrị n'abalị"
+    },
+    {
+      "name": "themeLight",
+      "value": "Ìhè"
+    },
+    {
+      "name": "themeDark",
+      "value": "Ọchịchịrị"
+    },
+    {
+      "name": "settingsLanguage",
+      "value": "Asụsụ"
+    },
+    {
+      "name": "languageSystem",
+      "value": "Nke ngwaọrụ"
+    },
+    {
+      "name": "settingsTemperature",
+      "value": "Okpomọkụ"
+    },
+    {
+      "name": "unitCelsius",
+      "value": "Celsius (°C)"
+    },
+    {
+      "name": "unitFahrenheit",
+      "value": "Fahrenheit (°F)"
+    },
+    {
+      "name": "settingsWindSpeed",
+      "value": "Ọsọ ikuku"
+    },
+    {
+      "name": "unitKmh",
+      "value": "Kilomita kwa awa (km/h)"
+    },
+    {
+      "name": "unitMph",
+      "value": "Maịl kwa awa (mph)"
+    },
+    {
+      "name": "unitMs",
+      "value": "Mita kwa sekọnd (m/s)"
+    },
+    {
+      "name": "unitKnots",
+      "value": "Knots (kn)"
+    },
+    {
+      "name": "settingsPrecipitation",
+      "value": "Mmiri ozuzo"
+    },
+    {
+      "name": "unitMm",
+      "value": "Milimita (mm)"
+    },
+    {
+      "name": "unitInch",
+      "value": "Inch (in)"
+    },
+    {
+      "name": "settingsAbout",
+      "value": "Banyere"
+    },
+    {
+      "name": "aboutApp",
+      "value": "Banyere BWeather"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "Iwu nzuzo"
+    },
+    {
+      "name": "termsOfUse",
+      "value": "Usoro ojiji"
+    },
+    {
+      "name": "version",
+      "value": "Ụdị %1$s"
+    },
+    {
+      "name": "aboutDescription",
+      "value": "BWeather na-egosi ihu igwe ugbu a na amụma maka ebe ị nọ na ebe ndị ị chekwara. Nobel na-emepụta ma na-elekọta ya maka Bsoft Limited."
+    },
+    {
+      "name": "aboutDataSources",
+      "value": "Isi mmalite data"
+    },
+    {
+      "name": "aboutOpenMeteo",
+      "value": "Ihu igwe na ọchụchọ ebe: Open-Meteo (open-meteo.com), n'okpuru ikikere CC BY 4.0."
+    },
+    {
+      "name": "aboutOsm",
+      "value": "Aha ebe: © ndị na-enye aka na OpenStreetMap (Nominatim), ODbL."
+    },
+    {
+      "name": "aboutIpapi",
+      "value": "Ebe dị nso: ipapi.co."
+    },
+    {
+      "name": "aboutIcons",
+      "value": "Akara ihu igwe: Meteocons nke Bas Milius (MIT)."
+    },
+    {
+      "name": "privacyIntro",
+      "value": "BWeather enweghị akaụntụ, enweghị mgbasa ozi, ọ naghịkwa enyocha ojiji. Peeji a na-akọwa data na-ahapụ ngwaọrụ gị na ihe kpatara ya."
+    },
+    {
+      "name": "privacyLocationTitle",
+      "value": "Ebe ị nọ"
+    },
+    {
+      "name": "privacyLocationBody",
+      "value": "Ọ bụrụ na i kwere, ngwa ahụ na-agụ ebe ngwaọrụ gị dị. A na-eziga nhazi ya na Open-Meteo iji nweta amụma, na OpenStreetMap Nominatim iji nweta aha ebe ahụ. A naghị eziga ha ebe ọzọ."
+    },
+    {
+      "name": "privacyApproximateTitle",
+      "value": "Ebe dị nso"
+    },
+    {
+      "name": "privacyApproximateBody",
+      "value": "Mgbe ebe ziri ezi adịghị, ngwa ahụ na-ajụ ipapi.co maka ebe dị nso n'ọkwa obodo. ipapi.co na-ahụ adreesị IP gị iji zaa arịrịọ a."
+    },
+    {
+      "name": "privacySearchTitle",
+      "value": "Ọchụchọ obodo"
+    },
+    {
+      "name": "privacySearchBody",
+      "value": "A na-eziga ederede ị pịnyere n'ọchụchọ obodo na ọrụ geocoding nke Open-Meteo iji chọta ebe dabara."
+    },
+    {
+      "name": "privacyStorageTitle",
+      "value": "Data echekwara na ngwaọrụ gị"
+    },
+    {
+      "name": "privacyStorageBody",
+      "value": "Obodo ndị ị chekwara, amụma ọhụrụ na ntọala gị dị naanị na ngwaọrụ a. Iwepu ngwa ahụ na-ehichapụ ha."
+    },
+    {
+      "name": "privacyContactTitle",
+      "value": "Kpọtụrụ"
+    },
+    {
+      "name": "privacyContactBody",
+      "value": "Ị nwere ajụjụ gbasara nzuzo? Kpọtụrụ Bsoft Limited site na peeji ngwa ahụ n'ụlọ ahịa ngwa."
+    },
+    {
+      "name": "termsIntro",
+      "value": "Site n'iji BWeather, ị kwenyere na usoro ndị a."
+    },
+    {
+      "name": "termsAccuracyTitle",
+      "value": "Izi ezi nke amụma"
+    },
+    {
+      "name": "termsAccuracyBody",
+      "value": "Amụma bụ atụmatụ, ha nwekwara ike ịdị njọ. Ejila BWeather mee mkpebi metụtara nchekwa; soro ịdọ aka ná ntị gọọmentị sitere n'ọrụ ihu igwe nke mba gị."
+    },
+    {
+      "name": "termsServiceTitle",
+      "value": "Ọrụ ahụ"
+    },
+    {
+      "name": "termsServiceBody",
+      "value": "A na-enye BWeather \"dịka ọ dị\", na-enweghị nkwa ọ bụla. Atụmatụ nwere ike ịgbanwe, ọrụ ahụ nwekwara ike ọ gaghị adị mgbe ụfọdụ."
+    },
+    {
+      "name": "termsThirdPartyTitle",
+      "value": "Data nke ndị ọzọ"
+    },
+    {
+      "name": "termsThirdPartyBody",
+      "value": "Data ihu igwe si na Open-Meteo, aha ebe si na OpenStreetMap. Usoro na ikikere nke ha na-emetụta data ahụ."
+    },
+    {
+      "name": "legalLastUpdated",
+      "value": "Emelitere ikpeazụ: %1$s"
+    },
+    {
+      "name": "wmo0",
+      "value": "Mbara igwe doro anya"
+    },
+    {
+      "name": "wmo1",
+      "value": "Ọ dị ọcha nke ukwuu"
+    },
+    {
+      "name": "wmo2",
+      "value": "Igwe ojii ụfọdụ"
+    },
+    {
+      "name": "wmo3",
+      "value": "Igwe ojii kpuchiri"
+    },
+    {
+      "name": "wmo45",
+      "value": "Alụlụ"
+    },
+    {
+      "name": "wmo48",
+      "value": "Alụlụ nwere ice"
+    },
+    {
+      "name": "wmo51",
+      "value": "Obere mmiri ozuzo nta"
+    },
+    {
+      "name": "wmo53",
+      "value": "Mmiri ozuzo nta"
+    },
+    {
+      "name": "wmo55",
+      "value": "Mmiri ozuzo nta siri ike"
+    },
+    {
+      "name": "wmo56",
+      "value": "Obere mmiri ozuzo nta na-ajụ oyi"
+    },
+    {
+      "name": "wmo57",
+      "value": "Mmiri ozuzo nta na-ajụ oyi siri ike"
+    },
+    {
+      "name": "wmo61",
+      "value": "Obere mmiri ozuzo"
+    },
+    {
+      "name": "wmo63",
+      "value": "Mmiri ozuzo nkịtị"
+    },
+    {
+      "name": "wmo65",
+      "value": "Mmiri ozuzo siri ike"
+    },
+    {
+      "name": "wmo66",
+      "value": "Obere mmiri ozuzo na-ajụ oyi"
+    },
+    {
+      "name": "wmo67",
+      "value": "Mmiri ozuzo na-ajụ oyi siri ike"
+    },
+    {
+      "name": "wmo71",
+      "value": "Obere snow"
+    },
+    {
+      "name": "wmo73",
+      "value": "Snow nkịtị"
+    },
+    {
+      "name": "wmo75",
+      "value": "Snow siri ike"
+    },
+    {
+      "name": "wmo77",
+      "value": "Mkpụrụ snow"
+    },
+    {
+      "name": "wmo80",
+      "value": "Obere mmiri ozuzo na-agafe agafe"
+    },
+    {
+      "name": "wmo81",
+      "value": "Mmiri ozuzo na-agafe agafe"
+    },
+    {
+      "name": "wmo82",
+      "value": "Mmiri ozuzo na-agafe agafe siri ike"
+    },
+    {
+      "name": "wmo85",
+      "value": "Obere snow na-agafe agafe"
+    },
+    {
+      "name": "wmo86",
+      "value": "Snow na-agafe agafe siri ike"
+    },
+    {
+      "name": "wmo95",
+      "value": "Égbè eluigwe"
+    },
+    {
+      "name": "wmo96",
+      "value": "Égbè eluigwe na obere akụmmiri"
+    },
+    {
+      "name": "wmo99",
+      "value": "Égbè eluigwe na akụmmiri siri ike"
+    },
+    {
+      "name": "wmoUnknown",
+      "value": "Ọnọdụ amaghị"
+    },
+    {
+      "name": "pageNotFound",
+      "value": "Ahụghị peeji ahụ"
+    },
+    {
+      "name": "airQuality",
+      "value": "Ịdị mma ikuku"
+    },
+    {
+      "name": "airQualityIndex",
+      "value": "US AQI %1$s"
+    },
+    {
+      "name": "aqiGood",
+      "value": "Ọ dị mma"
+    },
+    {
+      "name": "aqiModerate",
+      "value": "Nkịtị"
+    },
+    {
+      "name": "aqiSensitive",
+      "value": "Ọ dịghị mma maka ndị na-adịghị ike"
+    },
+    {
+      "name": "aqiUnhealthy",
+      "value": "Ọ dịghị mma maka ahụ ike"
+    },
+    {
+      "name": "aqiVeryUnhealthy",
+      "value": "Ọ dịghị mma ma ọlị"
+    },
+    {
+      "name": "aqiHazardous",
+      "value": "Ọ dị ize ndụ"
+    },
+    {
+      "name": "pm25",
+      "value": "PM2.5"
+    },
+    {
+      "name": "pm10",
+      "value": "PM10"
+    },
+    {
+      "name": "dust",
+      "value": "Ájá"
+    },
+    {
+      "name": "uvIndex",
+      "value": "Ọkwa UV"
+    },
+    {
+      "name": "uvLow",
+      "value": "dị ala"
+    },
+    {
+      "name": "uvModerate",
+      "value": "nkịtị"
+    },
+    {
+      "name": "uvHigh",
+      "value": "dị elu"
+    },
+    {
+      "name": "uvVeryHigh",
+      "value": "dị elu nke ukwuu"
+    },
+    {
+      "name": "uvExtreme",
+      "value": "karịrị akarị"
+    },
+    {
+      "name": "pollen",
+      "value": "Ntụ okooko osisi"
+    },
+    {
+      "name": "pollenAlder",
+      "value": "Alder"
+    },
+    {
+      "name": "pollenBirch",
+      "value": "Birch"
+    },
+    {
+      "name": "pollenGrass",
+      "value": "Ahịhịa"
+    },
+    {
+      "name": "pollenMugwort",
+      "value": "Mugwort"
+    },
+    {
+      "name": "pollenOlive",
+      "value": "Olive"
+    },
+    {
+      "name": "pollenRagweed",
+      "value": "Ragweed"
+    },
+    {
+      "name": "harmattanDustHint",
+      "value": "Ájá dị ukwuu (ụgụrụ): tụlee iyi ihe mkpuchi ihu n'èzí."
+    },
+    {
+      "name": "chart",
+      "value": "Eserese"
+    },
+    {
+      "name": "chartLegendTemperature",
+      "value": "Okpomọkụ"
+    },
+    {
+      "name": "chartLegendRain",
+      "value": "Ohere mmiri ozuzo"
+    },
+    {
+      "name": "settingsNotifications",
+      "value": "Ọkwa"
+    },
+    {
+      "name": "notifyMorningBrief",
+      "value": "Nchịkọta ụtụtụ"
+    },
+    {
+      "name": "notifyMorningBriefDetail",
+      "value": "Amụma taa maka ebe ị nọ kwa ụtụtụ."
+    },
+    {
+      "name": "notifyBriefTime",
+      "value": "Oge"
+    },
+    {
+      "name": "notifyRain",
+      "value": "Ọkwa mmiri ozuzo"
+    },
+    {
+      "name": "notifyRainDetail",
+      "value": "Mgbe mmiri nwere ike izo n'ime awa 2 na-abịa."
+    },
+    {
+      "name": "notifySevere",
+      "value": "Ihu igwe siri ike"
+    },
+    {
+      "name": "notifySevereDetail",
+      "value": "Égbè eluigwe, ikuku siri ike nke ukwuu ma ọ bụ okpomọkụ karịrị akarị."
+    },
+    {
+      "name": "notifyPermissionDenied",
+      "value": "Agbanyụọla ọkwa BWeather na ntọala ngwaọrụ gị."
+    },
+    {
+      "name": "notifyUnsupported",
+      "value": "Ọkwa dị na ngwa Android."
+    },
+    {
+      "name": "notifyBackgroundNote",
+      "value": "A na-enyocha ọkwa ihe dị ka otu ugboro kwa awa, ya mere ha nwere ike ịbịa ntakịrị n'azụ."
+    },
+    {
+      "name": "notifyChannelForecast",
+      "value": "Amụma"
+    },
+    {
+      "name": "notifyChannelAlerts",
+      "value": "Ọkwa ihu igwe"
+    },
+    {
+      "name": "briefTitle",
+      "value": "Taa na %1$s"
+    },
+    {
+      "name": "briefBody",
+      "value": "%1$s, site na %2$s ruo %3$s. Ohere mmiri ozuzo %4$s%%."
+    },
+    {
+      "name": "rainAlertTitle",
+      "value": "A na-atụ anya mmiri ozuzo na %1$s"
+    },
+    {
+      "name": "rainAlertBody",
+      "value": "Ohere mmiri ozuzo %1$s%% gburugburu %2$s."
+    },
+    {
+      "name": "severeThunderTitle",
+      "value": "Égbè eluigwe nso %1$s"
+    },
+    {
+      "name": "severeThunderBody",
+      "value": "A na-atụ anya égbè eluigwe gburugburu %1$s. Nọrọ n'ime ụlọ ma ọ bụrụ na ị nwere ike."
+    },
+    {
+      "name": "severeWindTitle",
+      "value": "Ikuku siri ike na %1$s"
+    },
+    {
+      "name": "severeWindBody",
+      "value": "A na-atụ anya ike ikuku ruru %1$s taa."
+    },
+    {
+      "name": "severeHeatTitle",
+      "value": "Okpomọkụ karịrị akarị na %1$s"
+    },
+    {
+      "name": "severeHeatBody",
+      "value": "Ọ ga-adị ka %1$s taa. Ṅụọ mmiri ma zere anwụ ehihie."
+    },
+    {
+      "name": "aboutCams",
+      "value": "Ịdị mma ikuku: emepụtara site n'iji ozi Copernicus Atmosphere Monitoring Service (site na Open-Meteo)."
+    },
+    {
+      "name": "widgetRange",
+      "value": "Elu %1$s · Ala %2$s"
+    },
+    {
+      "name": "widgetUpdated",
+      "value": "Emelitere %1$s"
+    },
+    {
+      "name": "tipsTitle",
+      "value": "Ndụmọdụ taa"
+    },
+    {
+      "name": "tipUmbrella",
+      "value": "Were nche anwụ: ohere mmiri ozuzo %1$s%%, o nwere ike ịbụ gburugburu %2$s."
+    },
+    {
+      "name": "tipClothesHot",
+      "value": "Yiri uwe dị mfe nke ikuku na-abanye."
+    },
+    {
+      "name": "tipClothesWarm",
+      "value": "Ọ bụ oge T-shirt."
+    },
+    {
+      "name": "tipClothesMild",
+      "value": "Were jaket dị mfe."
+    },
+    {
+      "name": "tipClothesCool",
+      "value": "Yiri jaket na-ekpo ọkụ."
+    },
+    {
+      "name": "tipClothesCold",
+      "value": "Kpuchie onwe gị nke ọma: oyi dị n'èzí."
+    },
+    {
+      "name": "tipSunscreen",
+      "value": "UV %1$s taa: jiri ude nchekwa anwụ na okpu n'etiti 10:00 na 16:00."
+    },
+    {
+      "name": "tipHydrate",
+      "value": "Ọ ga-adị ka %1$s. Ṅụọ mmiri nke ukwuu."
+    },
+    {
+      "name": "tipLaundryGood",
+      "value": "Ụbọchị ọma iji kpọọ akwa n'èzí."
+    },
+    {
+      "name": "tipLaundryBad",
+      "value": "Ọ bụghị ụbọchị ọma iji kpọọ akwa n'èzí."
+    },
+    {
+      "name": "tipBestOutdoorTime",
+      "value": "Oge kacha mma ịnọ n'èzí: gburugburu %1$s."
+    },
+    {
+      "name": "tipAirQuality",
+      "value": "Ikuku adịghị mma: belata ọrụ ogologo ma ọ bụ mmega ahụ siri ike n'èzí."
+    },
+    {
+      "name": "tipMosquitoes",
+      "value": "Mgbede na-ekpo ọkụ ma nwee iru mmiri: anwụnta nwere ike ịdị ọtụtụ, jiri ọgwụ anwụnta ma ọ bụ ụgbụ."
+    },
+    {
+      "name": "tipDriveFog",
+      "value": "Kwọọ ụgbọ ala nke ọma: a na-atụ anya alụlụ gburugburu %1$s."
+    },
+    {
+      "name": "tipDriveRain",
+      "value": "Kwọọ ụgbọ ala nke ọma: a na-atụ anya mmiri ozuzo siri ike gburugburu %1$s."
+    },
+    {
+      "name": "refresh",
+      "value": "Melite"
+    },
+    {
+      "name": "settingsDisplay",
+      "value": "Ngosipụta na data"
+    },
+    {
+      "name": "settingsAnimatedBackground",
+      "value": "Azụ na-akpụ akpụ"
+    },
+    {
+      "name": "settingsAnimatedBackgroundDetail",
+      "value": "Mbara igwe na-akpụ akpụ n'azụ amụma. Ọ na-anọ jụụ mgbe ngwaọrụ gị belatara mmegharị."
+    },
+    {
+      "name": "settingsMinuteRain",
+      "value": "Mmiri ozuzo nkeji na nkeji"
+    },
+    {
+      "name": "settingsMinuteRainDetail",
+      "value": "Mmiri ozuzo nke awa 2 na-abịa na nkeji 15 ọ bụla. Ọ na-eji data ntakịrị karịa."
+    },
+    {
+      "name": "settingsCrashReports",
+      "value": "Zipu akụkọ nsogbu ngwa"
+    },
+    {
+      "name": "settingsCrashReportsDetail",
+      "value": "Nkọwa njehie na-enweghị aha na-enyere aka idozi nsogbu. Enweghị ebe ị nọ ma ọ bụ data nkeonwe."
+    },
+    {
+      "name": "nextTwoHours",
+      "value": "Awa 2 na-abịa"
+    },
+    {
+      "name": "rainStartingIn",
+      "value": "Mmiri ga-amalite izo n'ihe dị ka nkeji %1$s"
+    },
+    {
+      "name": "rainStoppingIn",
+      "value": "Mmiri ga-akwụsị n'ihe dị ka nkeji %1$s"
+    },
+    {
+      "name": "rainContinuing",
+      "value": "Mmiri ozuzo ma ọ dịkarịa ala awa 2 na-abịa"
+    },
+    {
+      "name": "noRainSoon",
+      "value": "A naghị atụ anya mmiri ozuzo n'ime awa 2 na-abịa"
+    },
+    {
+      "name": "tempAboutNormal",
+      "value": "Dịka ọ na-adịkarị taa"
+    },
+    {
+      "name": "tempWarmerThanUsual",
+      "value": "Ọ na-ekpo ọkụ karịa ka ọ na-adịkarị ji %1$s°"
+    },
+    {
+      "name": "tempCoolerThanUsual",
+      "value": "Ọ dị jụụ karịa ka ọ na-adịkarị ji %1$s°"
+    },
+    {
+      "name": "tempNormalsSource",
+      "value": "Okpomọkụ kachasị elu taa e jiri tụnyere nkezi okpomọkụ kachasị elu nke ụbọchị a, %1$s–%2$s."
+    },
+    {
+      "name": "radar",
+      "value": "Radar mmiri ozuzo"
+    },
+    {
+      "name": "radarUnavailable",
+      "value": "Radar adịghị ugbu a."
+    },
+    {
+      "name": "radarNoCoverage",
+      "value": "Radar na-egosi awa 2 gara aga. Mpaghara ụfọdụ enweghị mkpuchi zuru ezu."
+    },
+    {
+      "name": "play",
+      "value": "Kpọọ"
+    },
+    {
+      "name": "pause",
+      "value": "Kwụsịtụ"
+    },
+    {
+      "name": "aboutRainViewer",
+      "value": "Radar: data ihu igwe sitere na RainViewer; maapụ © ndị na-enye aka na OpenStreetMap."
+    },
+    {
+      "name": "privacyRadarTitle",
+      "value": "Maapụ radar"
+    },
+    {
+      "name": "privacyRadarBody",
+      "value": "Imepe radar na-ebudata akụkụ maapụ site na OpenStreetMap na foto radar site na RainViewer maka mpaghara ị na-ele. Dịka weebụsaịtị ọ bụla, ha na-ahụ adreesị IP gị."
+    },
+    {
+      "name": "privacyCrashTitle",
+      "value": "Akụkọ nsogbu ngwa"
+    },
+    {
+      "name": "privacyCrashBody",
+      "value": "Ọ bụrụ na ngwa ahụ akwụsị na mberede, a nwere ike iziga akụkọ njehie na-enweghị aha (ụdị ngwaọrụ, ụdị sistemụ, ụdị ngwa na njehie ahụ) na Sentry ka anyị wee dozie ya. Ọ dịghị mgbe ọ na-agụnye ebe ị nọ, ebe ndị ị chekwara ma ọ bụ adreesị IP gị. Ị nwere ike gbanyụọ nke a na Ntọala."
+    },
+    {
+      "name": "aboutHistory",
+      "value": "Nkezi ihu igwe: Open-Meteo historical weather API (ERA5)."
+    },
+    {
+      "name": "zoomIn",
+      "value": "Mee ka ọ buo ibu"
+    },
+    {
+      "name": "zoomOut",
+      "value": "Mee ka ọ dị obere"
+    },
+    {
+      "name": "settingsAppearance",
+      "value": "Ọdịdị"
+    },
+    {
+      "name": "settingsUnits",
+      "value": "Nha"
+    },
+    {
+      "name": "settingsPrivacy",
+      "value": "Nzuzo"
+    },
+    {
+      "name": "cityRemoved",
+      "value": "Ewepụrụ %1$s"
+    },
+    {
+      "name": "undo",
+      "value": "Megharịa"
+    },
+    {
+      "name": "sunAndMoon",
+      "value": "Anyanwụ na ọnwa"
+    },
+    {
+      "name": "daylight",
+      "value": "Ìhè ụbọchị"
+    },
+    {
+      "name": "daylightDuration",
+      "value": "Awa %1$s nkeji %2$s"
+    },
+    {
+      "name": "moonNew",
+      "value": "Ọnwa ọhụrụ"
+    },
+    {
+      "name": "moonWaxingCrescent",
+      "value": "Ọnwa na-eto (obere)"
+    },
+    {
+      "name": "moonFirstQuarter",
+      "value": "Nkeji anọ mbụ"
+    },
+    {
+      "name": "moonWaxingGibbous",
+      "value": "Ọnwa na-eto (ukwu)"
+    },
+    {
+      "name": "moonFull",
+      "value": "Ọnwa zuru oke"
+    },
+    {
+      "name": "moonWaningGibbous",
+      "value": "Ọnwa na-ebelata (ukwu)"
+    },
+    {
+      "name": "moonLastQuarter",
+      "value": "Nkeji anọ ikpeazụ"
+    },
+    {
+      "name": "moonWaningCrescent",
+      "value": "Ọnwa na-ebelata (obere)"
+    },
+    {
+      "name": "moonIllumination",
+      "value": "Ìhè %1$s%%"
+    },
+    {
+      "name": "navTrips",
+      "value": "Njem"
+    },
+    {
+      "name": "tripsEmptyTitle",
+      "value": "Enweghị njem ka"
+    },
+    {
+      "name": "tripsEmptyBody",
+      "value": "Hazie njem iji hụ ihu igwe na ebe ọ bụla ị ga-akwụsị, ụbọchị ọ bụla."
+    },
+    {
+      "name": "planTrip",
+      "value": "Hazie njem"
+    },
+    {
+      "name": "newTrip",
+      "value": "Njem ọhụrụ"
+    },
+    {
+      "name": "editTrip",
+      "value": "Dezie njem"
+    },
+    {
+      "name": "tripName",
+      "value": "Aha njem"
+    },
+    {
+      "name": "tripNameHint",
+      "value": "dịka: Ekeresimesi na Abuja"
+    },
+    {
+      "name": "tripDefaultName",
+      "value": "Njem gaa %1$s"
+    },
+    {
+      "name": "tripStops",
+      "value": "Ebe nkwụsị"
+    },
+    {
+      "name": "addStop",
+      "value": "Tinye ebe nkwụsị"
+    },
+    {
+      "name": "removeStop",
+      "value": "Wepụ ebe nkwụsị"
+    },
+    {
+      "name": "chooseDates",
+      "value": "Họrọ ụbọchị"
+    },
+    {
+      "name": "save",
+      "value": "Chekwaa"
+    },
+    {
+      "name": "deleteTrip",
+      "value": "Hichapụ njem"
+    },
+    {
+      "name": "tripDeleted",
+      "value": "Ehichapụla njem"
+    },
+    {
+      "name": "tripProblemNoStops",
+      "value": "Tinye ma ọ dịkarịa ala otu ebe nkwụsị."
+    },
+    {
+      "name": "tripProblemOrder",
+      "value": "Ebe nkwụsị ọ bụla ga-amalite n'ụbọchị nke gara aga kwụsịrị ma ọ bụ mgbe nke ahụ gasịrị."
+    },
+    {
+      "name": "tripProblemTooLong",
+      "value": "Njem enweghị ike ịka ụbọchị %1$s."
+    },
+    {
+      "name": "tripStartsIn_zero",
+      "value": "Ọ na-amalite taa"
+    },
+    {
+      "name": "tripStartsIn_one",
+      "value": "Ọ na-amalite echi"
+    },
+    {
+      "name": "tripStartsIn_other",
+      "value": "Ọ na-amalite n'ime ụbọchị %1$s"
+    },
+    {
+      "name": "tripOngoing",
+      "value": "Ọ na-aga ugbu a"
+    },
+    {
+      "name": "tripEnded",
+      "value": "Ọ gwụla"
+    },
+    {
+      "name": "tripDayCount_zero",
+      "value": "Ụbọchị %1$s"
+    },
+    {
+      "name": "tripDayCount_one",
+      "value": "Ụbọchị 1"
+    },
+    {
+      "name": "tripDayCount_other",
+      "value": "Ụbọchị %1$s"
+    },
+    {
+      "name": "travelDay",
+      "value": "Ụbọchị njem site na %1$s"
+    },
+    {
+      "name": "typicalWeather",
+      "value": "Dịka ọ na-adịkarị n'ụbọchị a"
+    },
+    {
+      "name": "typicalWeatherNote",
+      "value": "Ụbọchị karịrị ụbọchị %1$s n'ihu na-egosi ihu igwe a na-ahụkarị n'ụbọchị ahụ (nkezi afọ 20 gara aga). Amụma ga-anọchi ya na-akpaghị aka ka njem na-abịaru nso."
+    },
+    {
+      "name": "weatherUnknown",
+      "value": "Enweghị data ka"
+    },
+    {
+      "name": "packingList",
+      "value": "Ndepụta ihe ị ga-eburu"
+    },
+    {
+      "name": "packingEmpty",
+      "value": "Ọ dịghị ihe pụrụ iche ị ga-eburu maka ihu igwe a."
+    },
+    {
+      "name": "packUmbrella",
+      "value": "Nche anwụ"
+    },
+    {
+      "name": "packRainJacket",
+      "value": "Uwe mmiri ozuzo"
+    },
+    {
+      "name": "packSunscreen",
+      "value": "Ude nchekwa anwụ"
+    },
+    {
+      "name": "packSunglasses",
+      "value": "Ugogbe anya anwụ"
+    },
+    {
+      "name": "packHat",
+      "value": "Okpu anwụ"
+    },
+    {
+      "name": "packLightClothes",
+      "value": "Uwe dị mfe"
+    },
+    {
+      "name": "packWaterBottle",
+      "value": "Karama mmiri"
+    },
+    {
+      "name": "packWarmLayer",
+      "value": "Sweta na-ekpo ọkụ"
+    },
+    {
+      "name": "packCoat",
+      "value": "Uwe oyi"
+    },
+    {
+      "name": "packGloves",
+      "value": "Uwe aka"
+    },
+    {
+      "name": "packWindbreaker",
+      "value": "Uwe nchekwa ikuku"
+    },
+    {
+      "name": "packInsectRepellent",
+      "value": "Ọgwụ anwụnta"
+    },
+    {
+      "name": "shareTrip",
+      "value": "Kesaa"
+    },
+    {
+      "name": "tripReminder",
+      "value": "Chetara m ụbọchị tupu ya"
+    },
+    {
+      "name": "tripReminderDetail",
+      "value": "Ọkwa na mgbede tupu ị pụọ, ya na amụma maka ebe nkwụsị mbụ gị."
+    },
+    {
+      "name": "tripReminderTitle",
+      "value": "Njem gị gaa %1$s na-amalite echi"
+    },
+    {
+      "name": "tripReminderBodyFallback",
+      "value": "Lelee amụma ihu igwe tupu ị pụọ."
+    },
+    {
+      "name": "tripOutlookRange",
+      "value": "%1$s ruo %2$s"
+    },
+    {
+      "name": "tripRainyDays_zero",
+      "value": "A naghị atụ anya mmiri ozuzo"
+    },
+    {
+      "name": "tripRainyDays_one",
+      "value": "Mmiri nwere ike izo ụbọchị 1"
+    },
+    {
+      "name": "tripRainyDays_other",
+      "value": "Mmiri nwere ike izo ụbọchị %1$s"
+    },
+    {
+      "name": "shareForecastDay",
+      "value": "%1$s · %2$s: %3$s, %4$s ruo %5$s, mmiri ozuzo %6$s%%"
+    },
+    {
+      "name": "shareTypicalDay",
+      "value": "%1$s · %2$s: na-adịkarị %3$s ruo %4$s"
+    },
+    {
+      "name": "sharedFromApp",
+      "value": "Ekesara site na BWeather"
+    },
+    {
+      "name": "privacyTripsTitle",
+      "value": "Njem"
+    },
+    {
+      "name": "privacyTripsBody",
+      "value": "A na-echekwa njem ndị ị haziri naanị na ngwaọrụ a. Iji nweta ihu igwe ha, a na-eziga nhazi na ụbọchị nke ebe nkwụsị ọ bụla na Open-Meteo."
+    },
+    {
+      "name": "card_description",
+      "value": "Ihu igwe ugbu a ebe ị nọ"
+    },
+    {
+      "name": "card_open_app",
+      "value": "Mepee BWeather ka ịhazi ya"
+    },
+    {
+      "name": "notifyBackgroundNoteHarmony",
+      "value": "A na-enyocha ọkwa ka awa ole na ole gachara mgbe usoro kwere, ya mere ha nwere ike ịbịa obere oge."
+    }
+  ]
+}

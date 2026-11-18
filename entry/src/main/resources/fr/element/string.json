@@ -1,0 +1,1304 @@
+{
+  "string": [
+    {
+      "name": "appTitle",
+      "value": "BWeather"
+    },
+    {
+      "name": "navForecast",
+      "value": "Prévisions"
+    },
+    {
+      "name": "navLocations",
+      "value": "Lieux"
+    },
+    {
+      "name": "navSettings",
+      "value": "Paramètres"
+    },
+    {
+      "name": "addCity",
+      "value": "Ajouter une ville"
+    },
+    {
+      "name": "searchHint",
+      "value": "Rechercher une ville"
+    },
+    {
+      "name": "clearSearch",
+      "value": "Effacer la recherche"
+    },
+    {
+      "name": "close",
+      "value": "Fermer"
+    },
+    {
+      "name": "retry",
+      "value": "Réessayer"
+    },
+    {
+      "name": "keepTyping",
+      "value": "Continuez à taper…"
+    },
+    {
+      "name": "searchFailed",
+      "value": "La recherche a échoué. Vérifiez votre connexion Internet et réessayez."
+    },
+    {
+      "name": "noPlacesMatch",
+      "value": "Aucun lieu ne correspond à « %1$s »."
+    },
+    {
+      "name": "welcomeTitle",
+      "value": "Bienvenue sur BWeather"
+    },
+    {
+      "name": "welcomeSubtitle",
+      "value": "Les prévisions là où vous êtes et pour les lieux qui comptent pour vous."
+    },
+    {
+      "name": "useMyLocation",
+      "value": "Utiliser ma position"
+    },
+    {
+      "name": "findingYou",
+      "value": "Recherche de votre position…"
+    },
+    {
+      "name": "openSettings",
+      "value": "Ouvrir les paramètres"
+    },
+    {
+      "name": "continueWith",
+      "value": "Continuer avec %1$s"
+    },
+    {
+      "name": "approximateFromNetwork",
+      "value": "Approximative, d'après votre réseau"
+    },
+    {
+      "name": "searchForCity",
+      "value": "Rechercher une ville"
+    },
+    {
+      "name": "locationPrivacyNote",
+      "value": "Votre position sert uniquement à obtenir les prévisions."
+    },
+    {
+      "name": "locationServiceDisabled",
+      "value": "Les services de localisation sont désactivés."
+    },
+    {
+      "name": "locationPermissionDenied",
+      "value": "L'autorisation de localisation n'a pas été accordée."
+    },
+    {
+      "name": "locationPermissionBlocked",
+      "value": "L'autorisation de localisation est bloquée. Vous pouvez l'activer dans les Paramètres."
+    },
+    {
+      "name": "locationUnavailable",
+      "value": "Impossible de trouver votre position pour le moment."
+    },
+    {
+      "name": "approximateBanner",
+      "value": "Position approximative affichée, d'après votre réseau."
+    },
+    {
+      "name": "usePrecise",
+      "value": "Position précise"
+    },
+    {
+      "name": "noPlacesTitle",
+      "value": "Aucun lieu pour l'instant"
+    },
+    {
+      "name": "noPlacesBody",
+      "value": "Utilisez votre position ou ajoutez une ville pour voir ses prévisions."
+    },
+    {
+      "name": "noSavedPlaces",
+      "value": "Aucun lieu enregistré. Touchez + pour ajouter une ville."
+    },
+    {
+      "name": "yourLocation",
+      "value": "Votre position"
+    },
+    {
+      "name": "approximateLocation",
+      "value": "Position approximative"
+    },
+    {
+      "name": "removeCity",
+      "value": "Retirer %1$s"
+    },
+    {
+      "name": "reorderHint",
+      "value": "Appuyez longuement et faites glisser une ville pour la déplacer."
+    },
+    {
+      "name": "forecastLoadFailed",
+      "value": "Impossible de charger les prévisions pour %1$s."
+    },
+    {
+      "name": "forecastUnavailable",
+      "value": "Prévisions indisponibles"
+    },
+    {
+      "name": "forecastErrorNetwork",
+      "value": "Impossible de joindre le service météo. Vérifiez votre connexion et réessayez."
+    },
+    {
+      "name": "forecastErrorData",
+      "value": "Le service météo a renvoyé des données illisibles. Réessayez plus tard."
+    },
+    {
+      "name": "couldNotRefresh",
+      "value": "Actualisation impossible"
+    },
+    {
+      "name": "updatedAgo",
+      "value": "Mis à jour %1$s"
+    },
+    {
+      "name": "ageJustNow",
+      "value": "à l'instant"
+    },
+    {
+      "name": "ageMinutes",
+      "value": "il y a %1$s min"
+    },
+    {
+      "name": "ageHours",
+      "value": "il y a %1$s h"
+    },
+    {
+      "name": "ageDays_zero",
+      "value": "il y a %1$s jours"
+    },
+    {
+      "name": "ageDays_one",
+      "value": "il y a 1 jour"
+    },
+    {
+      "name": "ageDays_other",
+      "value": "il y a %1$s jours"
+    },
+    {
+      "name": "feelsLike",
+      "value": "Ressenti %1$s"
+    },
+    {
+      "name": "rainChance",
+      "value": "Risque de pluie"
+    },
+    {
+      "name": "windWithDirection",
+      "value": "Vent %1$s"
+    },
+    {
+      "name": "humidity",
+      "value": "Humidité"
+    },
+    {
+      "name": "daily",
+      "value": "Par jour"
+    },
+    {
+      "name": "hourly",
+      "value": "Par heure"
+    },
+    {
+      "name": "today",
+      "value": "Aujourd'hui"
+    },
+    {
+      "name": "now",
+      "value": "Maintenant"
+    },
+    {
+      "name": "windDirection",
+      "value": "Direction du vent"
+    },
+    {
+      "name": "windGusts",
+      "value": "Rafales"
+    },
+    {
+      "name": "rainToday",
+      "value": "Pluie aujourd'hui"
+    },
+    {
+      "name": "pressure",
+      "value": "Pression"
+    },
+    {
+      "name": "cloudCover",
+      "value": "Couverture nuageuse"
+    },
+    {
+      "name": "dewPoint",
+      "value": "Point de rosée"
+    },
+    {
+      "name": "sunrise",
+      "value": "Lever du soleil"
+    },
+    {
+      "name": "sunset",
+      "value": "Coucher du soleil"
+    },
+    {
+      "name": "semanticsCurrent",
+      "value": "%1$s degrés, %2$s"
+    },
+    {
+      "name": "semanticsDay",
+      "value": "%1$s : %2$s, de %3$s à %4$s"
+    },
+    {
+      "name": "semanticsRainChance",
+      "value": "%1$s %% de risque de pluie"
+    },
+    {
+      "name": "compassPoints",
+      "value": "N,NNE,NE,ENE,E,ESE,SE,SSE,S,SSO,SO,OSO,O,ONO,NO,NNO"
+    },
+    {
+      "name": "settingsGeneral",
+      "value": "Général"
+    },
+    {
+      "name": "settingsTheme",
+      "value": "Thème"
+    },
+    {
+      "name": "themeAuto",
+      "value": "Automatique"
+    },
+    {
+      "name": "themeAutoHint",
+      "value": "Clair du lever au coucher du soleil, sombre la nuit"
+    },
+    {
+      "name": "themeLight",
+      "value": "Clair"
+    },
+    {
+      "name": "themeDark",
+      "value": "Sombre"
+    },
+    {
+      "name": "settingsLanguage",
+      "value": "Langue"
+    },
+    {
+      "name": "languageSystem",
+      "value": "Langue du système"
+    },
+    {
+      "name": "settingsTemperature",
+      "value": "Température"
+    },
+    {
+      "name": "unitCelsius",
+      "value": "Celsius (°C)"
+    },
+    {
+      "name": "unitFahrenheit",
+      "value": "Fahrenheit (°F)"
+    },
+    {
+      "name": "settingsWindSpeed",
+      "value": "Vitesse du vent"
+    },
+    {
+      "name": "unitKmh",
+      "value": "Kilomètres par heure (km/h)"
+    },
+    {
+      "name": "unitMph",
+      "value": "Miles par heure (mph)"
+    },
+    {
+      "name": "unitMs",
+      "value": "Mètres par seconde (m/s)"
+    },
+    {
+      "name": "unitKnots",
+      "value": "Nœuds (kn)"
+    },
+    {
+      "name": "settingsPrecipitation",
+      "value": "Précipitations"
+    },
+    {
+      "name": "unitMm",
+      "value": "Millimètres (mm)"
+    },
+    {
+      "name": "unitInch",
+      "value": "Pouces (in)"
+    },
+    {
+      "name": "settingsAbout",
+      "value": "À propos"
+    },
+    {
+      "name": "aboutApp",
+      "value": "À propos de BWeather"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "Politique de confidentialité"
+    },
+    {
+      "name": "termsOfUse",
+      "value": "Conditions d'utilisation"
+    },
+    {
+      "name": "version",
+      "value": "Version %1$s"
+    },
+    {
+      "name": "aboutDescription",
+      "value": "BWeather affiche la météo actuelle et les prévisions pour votre position et les lieux que vous enregistrez. Elle est développée et maintenue par Nobel pour Bsoft Limited."
+    },
+    {
+      "name": "aboutDataSources",
+      "value": "Sources des données"
+    },
+    {
+      "name": "aboutOpenMeteo",
+      "value": "Météo et recherche de lieux : Open-Meteo (open-meteo.com), sous licence CC BY 4.0."
+    },
+    {
+      "name": "aboutOsm",
+      "value": "Noms de lieux : © contributeurs OpenStreetMap (Nominatim), ODbL."
+    },
+    {
+      "name": "aboutIpapi",
+      "value": "Position approximative : ipapi.co."
+    },
+    {
+      "name": "aboutIcons",
+      "value": "Icônes météo : Meteocons de Bas Milius (MIT)."
+    },
+    {
+      "name": "privacyIntro",
+      "value": "BWeather n'a ni compte, ni publicité, ni outil d'analyse. Cette page explique quelles données quittent votre appareil et pourquoi."
+    },
+    {
+      "name": "privacyLocationTitle",
+      "value": "Votre position"
+    },
+    {
+      "name": "privacyLocationBody",
+      "value": "Si vous l'autorisez, l'application lit la position de votre appareil. Les coordonnées sont envoyées à Open-Meteo pour obtenir les prévisions et à OpenStreetMap Nominatim pour obtenir le nom du lieu. Elles ne sont envoyées nulle part ailleurs."
+    },
+    {
+      "name": "privacyApproximateTitle",
+      "value": "Position approximative"
+    },
+    {
+      "name": "privacyApproximateBody",
+      "value": "Lorsque la position précise n'est pas disponible, l'application demande à ipapi.co une position approximative au niveau de la ville. ipapi.co voit votre adresse IP pour répondre à cette demande."
+    },
+    {
+      "name": "privacySearchTitle",
+      "value": "Recherche de villes"
+    },
+    {
+      "name": "privacySearchBody",
+      "value": "Le texte saisi dans la recherche de villes est envoyé au service de géocodage d'Open-Meteo pour trouver les lieux correspondants."
+    },
+    {
+      "name": "privacyStorageTitle",
+      "value": "Données stockées sur votre appareil"
+    },
+    {
+      "name": "privacyStorageBody",
+      "value": "Vos villes enregistrées, les dernières prévisions et vos paramètres sont stockés uniquement sur cet appareil. Désinstaller l'application les supprime."
+    },
+    {
+      "name": "privacyContactTitle",
+      "value": "Contact"
+    },
+    {
+      "name": "privacyContactBody",
+      "value": "Des questions sur la confidentialité ? Contactez Bsoft Limited via la fiche de l'application dans la boutique."
+    },
+    {
+      "name": "termsIntro",
+      "value": "En utilisant BWeather, vous acceptez ces conditions."
+    },
+    {
+      "name": "termsAccuracyTitle",
+      "value": "Précision des prévisions"
+    },
+    {
+      "name": "termsAccuracyBody",
+      "value": "Les prévisions sont des estimations et peuvent être erronées. Ne vous fiez pas à BWeather pour des décisions où la sécurité est en jeu ; suivez les alertes officielles de votre service météorologique national."
+    },
+    {
+      "name": "termsServiceTitle",
+      "value": "Le service"
+    },
+    {
+      "name": "termsServiceBody",
+      "value": "BWeather est fourni « tel quel », sans garantie. Les fonctionnalités peuvent évoluer et le service peut être parfois indisponible."
+    },
+    {
+      "name": "termsThirdPartyTitle",
+      "value": "Données de tiers"
+    },
+    {
+      "name": "termsThirdPartyBody",
+      "value": "Les données météo proviennent d'Open-Meteo et les noms de lieux d'OpenStreetMap. Leurs propres conditions et licences s'appliquent à ces données."
+    },
+    {
+      "name": "legalLastUpdated",
+      "value": "Dernière mise à jour : %1$s"
+    },
+    {
+      "name": "wmo0",
+      "value": "Ciel dégagé"
+    },
+    {
+      "name": "wmo1",
+      "value": "Plutôt dégagé"
+    },
+    {
+      "name": "wmo2",
+      "value": "Partiellement nuageux"
+    },
+    {
+      "name": "wmo3",
+      "value": "Couvert"
+    },
+    {
+      "name": "wmo45",
+      "value": "Brouillard"
+    },
+    {
+      "name": "wmo48",
+      "value": "Brouillard givrant"
+    },
+    {
+      "name": "wmo51",
+      "value": "Bruine légère"
+    },
+    {
+      "name": "wmo53",
+      "value": "Bruine modérée"
+    },
+    {
+      "name": "wmo55",
+      "value": "Bruine dense"
+    },
+    {
+      "name": "wmo56",
+      "value": "Bruine verglaçante légère"
+    },
+    {
+      "name": "wmo57",
+      "value": "Bruine verglaçante dense"
+    },
+    {
+      "name": "wmo61",
+      "value": "Pluie faible"
+    },
+    {
+      "name": "wmo63",
+      "value": "Pluie modérée"
+    },
+    {
+      "name": "wmo65",
+      "value": "Forte pluie"
+    },
+    {
+      "name": "wmo66",
+      "value": "Pluie verglaçante faible"
+    },
+    {
+      "name": "wmo67",
+      "value": "Forte pluie verglaçante"
+    },
+    {
+      "name": "wmo71",
+      "value": "Faibles chutes de neige"
+    },
+    {
+      "name": "wmo73",
+      "value": "Chutes de neige modérées"
+    },
+    {
+      "name": "wmo75",
+      "value": "Fortes chutes de neige"
+    },
+    {
+      "name": "wmo77",
+      "value": "Neige en grains"
+    },
+    {
+      "name": "wmo80",
+      "value": "Averses de pluie faibles"
+    },
+    {
+      "name": "wmo81",
+      "value": "Averses de pluie modérées"
+    },
+    {
+      "name": "wmo82",
+      "value": "Averses de pluie violentes"
+    },
+    {
+      "name": "wmo85",
+      "value": "Averses de neige faibles"
+    },
+    {
+      "name": "wmo86",
+      "value": "Fortes averses de neige"
+    },
+    {
+      "name": "wmo95",
+      "value": "Orage"
+    },
+    {
+      "name": "wmo96",
+      "value": "Orage avec grêle faible"
+    },
+    {
+      "name": "wmo99",
+      "value": "Orage avec forte grêle"
+    },
+    {
+      "name": "wmoUnknown",
+      "value": "Conditions inconnues"
+    },
+    {
+      "name": "pageNotFound",
+      "value": "Page introuvable"
+    },
+    {
+      "name": "airQuality",
+      "value": "Qualité de l'air"
+    },
+    {
+      "name": "airQualityIndex",
+      "value": "IQA (US) %1$s"
+    },
+    {
+      "name": "aqiGood",
+      "value": "Bonne"
+    },
+    {
+      "name": "aqiModerate",
+      "value": "Moyenne"
+    },
+    {
+      "name": "aqiSensitive",
+      "value": "Mauvaise pour les personnes sensibles"
+    },
+    {
+      "name": "aqiUnhealthy",
+      "value": "Mauvaise"
+    },
+    {
+      "name": "aqiVeryUnhealthy",
+      "value": "Très mauvaise"
+    },
+    {
+      "name": "aqiHazardous",
+      "value": "Dangereuse"
+    },
+    {
+      "name": "pm25",
+      "value": "PM2,5"
+    },
+    {
+      "name": "pm10",
+      "value": "PM10"
+    },
+    {
+      "name": "dust",
+      "value": "Poussière"
+    },
+    {
+      "name": "uvIndex",
+      "value": "Indice UV"
+    },
+    {
+      "name": "uvLow",
+      "value": "Faible"
+    },
+    {
+      "name": "uvModerate",
+      "value": "Modéré"
+    },
+    {
+      "name": "uvHigh",
+      "value": "Élevé"
+    },
+    {
+      "name": "uvVeryHigh",
+      "value": "Très élevé"
+    },
+    {
+      "name": "uvExtreme",
+      "value": "Extrême"
+    },
+    {
+      "name": "pollen",
+      "value": "Pollen"
+    },
+    {
+      "name": "pollenAlder",
+      "value": "Aulne"
+    },
+    {
+      "name": "pollenBirch",
+      "value": "Bouleau"
+    },
+    {
+      "name": "pollenGrass",
+      "value": "Graminées"
+    },
+    {
+      "name": "pollenMugwort",
+      "value": "Armoise"
+    },
+    {
+      "name": "pollenOlive",
+      "value": "Olivier"
+    },
+    {
+      "name": "pollenRagweed",
+      "value": "Ambroisie"
+    },
+    {
+      "name": "harmattanDustHint",
+      "value": "Beaucoup de poussière : pensez à un masque à l'extérieur."
+    },
+    {
+      "name": "chart",
+      "value": "Graphique"
+    },
+    {
+      "name": "chartLegendTemperature",
+      "value": "Température"
+    },
+    {
+      "name": "chartLegendRain",
+      "value": "Risque de pluie"
+    },
+    {
+      "name": "settingsNotifications",
+      "value": "Notifications"
+    },
+    {
+      "name": "notifyMorningBrief",
+      "value": "Résumé du matin"
+    },
+    {
+      "name": "notifyMorningBriefDetail",
+      "value": "Les prévisions du jour pour votre position chaque matin."
+    },
+    {
+      "name": "notifyBriefTime",
+      "value": "Heure"
+    },
+    {
+      "name": "notifyRain",
+      "value": "Alertes pluie"
+    },
+    {
+      "name": "notifyRainDetail",
+      "value": "Quand de la pluie est probable dans les 2 prochaines heures."
+    },
+    {
+      "name": "notifySevere",
+      "value": "Météo dangereuse"
+    },
+    {
+      "name": "notifySevereDetail",
+      "value": "Orages, vents très forts ou chaleur extrême."
+    },
+    {
+      "name": "notifyPermissionDenied",
+      "value": "Les notifications de BWeather sont désactivées dans les paramètres de l'appareil."
+    },
+    {
+      "name": "notifyUnsupported",
+      "value": "Les notifications sont disponibles dans l'application Android."
+    },
+    {
+      "name": "notifyBackgroundNote",
+      "value": "Les alertes sont vérifiées environ une fois par heure et peuvent donc arriver avec un peu de retard."
+    },
+    {
+      "name": "notifyChannelForecast",
+      "value": "Prévisions"
+    },
+    {
+      "name": "notifyChannelAlerts",
+      "value": "Alertes météo"
+    },
+    {
+      "name": "briefTitle",
+      "value": "Aujourd'hui à %1$s"
+    },
+    {
+      "name": "briefBody",
+      "value": "%1$s, de %2$s à %3$s. Risque de pluie %4$s %%."
+    },
+    {
+      "name": "rainAlertTitle",
+      "value": "Pluie prévue à %1$s"
+    },
+    {
+      "name": "rainAlertBody",
+      "value": "%1$s %% de risque de pluie vers %2$s."
+    },
+    {
+      "name": "severeThunderTitle",
+      "value": "Orages près de %1$s"
+    },
+    {
+      "name": "severeThunderBody",
+      "value": "Des orages sont prévus vers %1$s. Restez à l'intérieur si possible."
+    },
+    {
+      "name": "severeWindTitle",
+      "value": "Vents forts à %1$s"
+    },
+    {
+      "name": "severeWindBody",
+      "value": "Rafales jusqu'à %1$s prévues aujourd'hui."
+    },
+    {
+      "name": "severeHeatTitle",
+      "value": "Chaleur extrême à %1$s"
+    },
+    {
+      "name": "severeHeatBody",
+      "value": "Le ressenti atteindra %1$s aujourd'hui. Buvez de l'eau et évitez le soleil de midi."
+    },
+    {
+      "name": "aboutCams",
+      "value": "Qualité de l'air : générée à partir d'informations du service Copernicus de surveillance de l'atmosphère (via Open-Meteo)."
+    },
+    {
+      "name": "widgetRange",
+      "value": "Max %1$s · Min %2$s"
+    },
+    {
+      "name": "widgetUpdated",
+      "value": "Mis à jour à %1$s"
+    },
+    {
+      "name": "tipsTitle",
+      "value": "Conseils du jour"
+    },
+    {
+      "name": "tipUmbrella",
+      "value": "Prenez un parapluie : %1$s %% de risque de pluie, surtout vers %2$s."
+    },
+    {
+      "name": "tipClothesHot",
+      "value": "Portez des vêtements légers et respirants."
+    },
+    {
+      "name": "tipClothesWarm",
+      "value": "Un t-shirt suffira."
+    },
+    {
+      "name": "tipClothesMild",
+      "value": "Prenez une veste légère."
+    },
+    {
+      "name": "tipClothesCool",
+      "value": "Portez une veste chaude."
+    },
+    {
+      "name": "tipClothesCold",
+      "value": "Couvrez-vous bien : il fait froid."
+    },
+    {
+      "name": "tipSunscreen",
+      "value": "UV %1$s aujourd'hui : crème solaire et chapeau entre 10 h et 16 h."
+    },
+    {
+      "name": "tipHydrate",
+      "value": "Le ressenti atteindra %1$s. Buvez beaucoup d'eau."
+    },
+    {
+      "name": "tipLaundryGood",
+      "value": "Bonne journée pour faire sécher le linge dehors."
+    },
+    {
+      "name": "tipLaundryBad",
+      "value": "Pas idéal pour faire sécher le linge dehors."
+    },
+    {
+      "name": "tipBestOutdoorTime",
+      "value": "Meilleur moment pour sortir : vers %1$s."
+    },
+    {
+      "name": "tipAirQuality",
+      "value": "Qualité de l'air médiocre : limitez les efforts longs ou intenses à l'extérieur."
+    },
+    {
+      "name": "tipMosquitoes",
+      "value": "Soirée chaude et humide : moustiques probables, utilisez un répulsif ou une moustiquaire."
+    },
+    {
+      "name": "tipDriveFog",
+      "value": "Prudence au volant : brouillard prévu vers %1$s."
+    },
+    {
+      "name": "tipDriveRain",
+      "value": "Prudence au volant : fortes pluies prévues vers %1$s."
+    },
+    {
+      "name": "refresh",
+      "value": "Actualiser"
+    },
+    {
+      "name": "settingsDisplay",
+      "value": "Affichage et données"
+    },
+    {
+      "name": "settingsAnimatedBackground",
+      "value": "Arrière-plans animés"
+    },
+    {
+      "name": "settingsAnimatedBackgroundDetail",
+      "value": "Un ciel animé derrière les prévisions. Reste immobile si votre appareil limite les animations."
+    },
+    {
+      "name": "settingsMinuteRain",
+      "value": "Pluie minute par minute"
+    },
+    {
+      "name": "settingsMinuteRainDetail",
+      "value": "La pluie des 2 prochaines heures par tranches de 15 minutes. Consomme un peu plus de données."
+    },
+    {
+      "name": "settingsCrashReports",
+      "value": "Envoyer les rapports de plantage"
+    },
+    {
+      "name": "settingsCrashReportsDetail",
+      "value": "Des détails d'erreur anonymes qui aident à corriger les bugs. Aucune position ni donnée personnelle."
+    },
+    {
+      "name": "nextTwoHours",
+      "value": "2 prochaines heures"
+    },
+    {
+      "name": "rainStartingIn",
+      "value": "Pluie dans environ %1$s min"
+    },
+    {
+      "name": "rainStoppingIn",
+      "value": "Fin de la pluie dans environ %1$s min"
+    },
+    {
+      "name": "rainContinuing",
+      "value": "Pluie pendant au moins les 2 prochaines heures"
+    },
+    {
+      "name": "noRainSoon",
+      "value": "Pas de pluie prévue dans les 2 prochaines heures"
+    },
+    {
+      "name": "tempAboutNormal",
+      "value": "Normal pour la saison"
+    },
+    {
+      "name": "tempWarmerThanUsual",
+      "value": "%1$s° de plus que la normale"
+    },
+    {
+      "name": "tempCoolerThanUsual",
+      "value": "%1$s° de moins que la normale"
+    },
+    {
+      "name": "tempNormalsSource",
+      "value": "Maximale du jour comparée à la maximale moyenne à cette date, %1$s–%2$s."
+    },
+    {
+      "name": "radar",
+      "value": "Radar de pluie"
+    },
+    {
+      "name": "radarUnavailable",
+      "value": "Le radar n'est pas disponible pour le moment."
+    },
+    {
+      "name": "radarNoCoverage",
+      "value": "Le radar couvre les 2 dernières heures. Certaines régions sont peu ou pas couvertes."
+    },
+    {
+      "name": "play",
+      "value": "Lecture"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "aboutRainViewer",
+      "value": "Radar : données météo de RainViewer ; carte © les contributeurs d'OpenStreetMap."
+    },
+    {
+      "name": "privacyRadarTitle",
+      "value": "Carte radar"
+    },
+    {
+      "name": "privacyRadarBody",
+      "value": "L'ouverture du radar télécharge des tuiles de carte depuis OpenStreetMap et des images radar depuis RainViewer pour la zone affichée. Comme tout site web, ils voient votre adresse IP."
+    },
+    {
+      "name": "privacyCrashTitle",
+      "value": "Rapports de plantage"
+    },
+    {
+      "name": "privacyCrashBody",
+      "value": "Si l'application plante, un rapport d'erreur anonyme (modèle de l'appareil, version du système, version de l'application et l'erreur) peut être envoyé à Sentry pour que nous puissions corriger le problème. Il ne contient jamais votre position, vos lieux enregistrés ni votre adresse IP. Vous pouvez le désactiver dans les Paramètres."
+    },
+    {
+      "name": "aboutHistory",
+      "value": "Moyennes climatiques : API météo historique d'Open-Meteo (ERA5)."
+    },
+    {
+      "name": "zoomIn",
+      "value": "Zoom avant"
+    },
+    {
+      "name": "zoomOut",
+      "value": "Zoom arrière"
+    },
+    {
+      "name": "settingsAppearance",
+      "value": "Apparence"
+    },
+    {
+      "name": "settingsUnits",
+      "value": "Unités"
+    },
+    {
+      "name": "settingsPrivacy",
+      "value": "Confidentialité"
+    },
+    {
+      "name": "cityRemoved",
+      "value": "Lieu supprimé : %1$s"
+    },
+    {
+      "name": "undo",
+      "value": "Annuler"
+    },
+    {
+      "name": "sunAndMoon",
+      "value": "Soleil et lune"
+    },
+    {
+      "name": "daylight",
+      "value": "Durée du jour"
+    },
+    {
+      "name": "daylightDuration",
+      "value": "%1$s h %2$s min"
+    },
+    {
+      "name": "moonNew",
+      "value": "Nouvelle lune"
+    },
+    {
+      "name": "moonWaxingCrescent",
+      "value": "Premier croissant"
+    },
+    {
+      "name": "moonFirstQuarter",
+      "value": "Premier quartier"
+    },
+    {
+      "name": "moonWaxingGibbous",
+      "value": "Gibbeuse croissante"
+    },
+    {
+      "name": "moonFull",
+      "value": "Pleine lune"
+    },
+    {
+      "name": "moonWaningGibbous",
+      "value": "Gibbeuse décroissante"
+    },
+    {
+      "name": "moonLastQuarter",
+      "value": "Dernier quartier"
+    },
+    {
+      "name": "moonWaningCrescent",
+      "value": "Dernier croissant"
+    },
+    {
+      "name": "moonIllumination",
+      "value": "Éclairée à %1$s %%"
+    },
+    {
+      "name": "navTrips",
+      "value": "Voyages"
+    },
+    {
+      "name": "tripsEmptyTitle",
+      "value": "Aucun voyage pour l'instant"
+    },
+    {
+      "name": "tripsEmptyBody",
+      "value": "Planifiez un voyage pour voir la météo à chaque étape, jour par jour."
+    },
+    {
+      "name": "planTrip",
+      "value": "Planifier un voyage"
+    },
+    {
+      "name": "newTrip",
+      "value": "Nouveau voyage"
+    },
+    {
+      "name": "editTrip",
+      "value": "Modifier le voyage"
+    },
+    {
+      "name": "tripName",
+      "value": "Nom du voyage"
+    },
+    {
+      "name": "tripNameHint",
+      "value": "p. ex. Noël à Abuja"
+    },
+    {
+      "name": "tripDefaultName",
+      "value": "Voyage à %1$s"
+    },
+    {
+      "name": "tripStops",
+      "value": "Étapes"
+    },
+    {
+      "name": "addStop",
+      "value": "Ajouter une étape"
+    },
+    {
+      "name": "removeStop",
+      "value": "Retirer l'étape"
+    },
+    {
+      "name": "chooseDates",
+      "value": "Choisir les dates"
+    },
+    {
+      "name": "save",
+      "value": "Enregistrer"
+    },
+    {
+      "name": "deleteTrip",
+      "value": "Supprimer le voyage"
+    },
+    {
+      "name": "tripDeleted",
+      "value": "Voyage supprimé"
+    },
+    {
+      "name": "tripProblemNoStops",
+      "value": "Ajoutez au moins une étape."
+    },
+    {
+      "name": "tripProblemOrder",
+      "value": "Chaque étape doit commencer le jour où la précédente se termine ou après."
+    },
+    {
+      "name": "tripProblemTooLong",
+      "value": "Un voyage peut durer au plus %1$s jours."
+    },
+    {
+      "name": "tripStartsIn_zero",
+      "value": "Commence aujourd'hui"
+    },
+    {
+      "name": "tripStartsIn_one",
+      "value": "Commence demain"
+    },
+    {
+      "name": "tripStartsIn_other",
+      "value": "Commence dans %1$s jours"
+    },
+    {
+      "name": "tripOngoing",
+      "value": "En cours"
+    },
+    {
+      "name": "tripEnded",
+      "value": "Terminé"
+    },
+    {
+      "name": "tripDayCount_zero",
+      "value": "%1$s jours"
+    },
+    {
+      "name": "tripDayCount_one",
+      "value": "1 jour"
+    },
+    {
+      "name": "tripDayCount_other",
+      "value": "%1$s jours"
+    },
+    {
+      "name": "travelDay",
+      "value": "Jour de trajet depuis %1$s"
+    },
+    {
+      "name": "typicalWeather",
+      "value": "Habituel pour la date"
+    },
+    {
+      "name": "typicalWeatherNote",
+      "value": "Les jours à plus de %1$s jours affichent la météo habituelle pour la date (moyenne des 20 dernières années). Les prévisions la remplacent automatiquement à l'approche du voyage."
+    },
+    {
+      "name": "weatherUnknown",
+      "value": "Pas encore de données"
+    },
+    {
+      "name": "packingList",
+      "value": "Liste de bagages"
+    },
+    {
+      "name": "packingEmpty",
+      "value": "Rien de particulier à emporter pour cette météo."
+    },
+    {
+      "name": "packUmbrella",
+      "value": "Parapluie"
+    },
+    {
+      "name": "packRainJacket",
+      "value": "Veste de pluie"
+    },
+    {
+      "name": "packSunscreen",
+      "value": "Crème solaire"
+    },
+    {
+      "name": "packSunglasses",
+      "value": "Lunettes de soleil"
+    },
+    {
+      "name": "packHat",
+      "value": "Chapeau de soleil"
+    },
+    {
+      "name": "packLightClothes",
+      "value": "Vêtements légers et respirants"
+    },
+    {
+      "name": "packWaterBottle",
+      "value": "Gourde réutilisable"
+    },
+    {
+      "name": "packWarmLayer",
+      "value": "Pull chaud ou polaire"
+    },
+    {
+      "name": "packCoat",
+      "value": "Manteau d'hiver"
+    },
+    {
+      "name": "packGloves",
+      "value": "Gants"
+    },
+    {
+      "name": "packWindbreaker",
+      "value": "Coupe-vent"
+    },
+    {
+      "name": "packInsectRepellent",
+      "value": "Anti-moustiques"
+    },
+    {
+      "name": "shareTrip",
+      "value": "Partager"
+    },
+    {
+      "name": "tripReminder",
+      "value": "Me le rappeler la veille"
+    },
+    {
+      "name": "tripReminderDetail",
+      "value": "Une notification la veille du départ, avec les prévisions pour votre première étape."
+    },
+    {
+      "name": "tripReminderTitle",
+      "value": "Votre voyage à %1$s commence demain"
+    },
+    {
+      "name": "tripReminderBodyFallback",
+      "value": "Consultez les prévisions avant de partir."
+    },
+    {
+      "name": "tripOutlookRange",
+      "value": "%1$s à %2$s"
+    },
+    {
+      "name": "tripRainyDays_zero",
+      "value": "Pas de pluie prévue"
+    },
+    {
+      "name": "tripRainyDays_one",
+      "value": "Pluie probable 1 jour"
+    },
+    {
+      "name": "tripRainyDays_other",
+      "value": "Pluie probable %1$s jours"
+    },
+    {
+      "name": "shareForecastDay",
+      "value": "%1$s · %2$s : %3$s, %4$s à %5$s, pluie %6$s %%"
+    },
+    {
+      "name": "shareTypicalDay",
+      "value": "%1$s · %2$s : habituellement %3$s à %4$s"
+    },
+    {
+      "name": "sharedFromApp",
+      "value": "Partagé depuis BWeather"
+    },
+    {
+      "name": "privacyTripsTitle",
+      "value": "Voyages"
+    },
+    {
+      "name": "privacyTripsBody",
+      "value": "Les voyages que vous planifiez sont stockés uniquement sur cet appareil. Pour obtenir leur météo, les coordonnées et les dates de chaque étape sont envoyées à Open-Meteo."
+    },
+    {
+      "name": "card_description",
+      "value": "La météo actuelle là où vous êtes"
+    },
+    {
+      "name": "card_open_app",
+      "value": "Ouvrez BWeather pour commencer"
+    },
+    {
+      "name": "notifyBackgroundNoteHarmony",
+      "value": "Les alertes sont vérifiées toutes les quelques heures, quand le système le permet : elles peuvent arriver un peu en retard."
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "Sert à afficher les prévisions de l'endroit où vous êtes."
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+{
+  "string": [
+    {
+      "name": "appTitle",
+      "value": "BWeather"
+    },
+    {
+      "name": "navForecast",
+      "value": "预报"
+    },
+    {
+      "name": "navLocations",
+      "value": "地点"
+    },
+    {
+      "name": "navSettings",
+      "value": "设置"
+    },
+    {
+      "name": "addCity",
+      "value": "添加城市"
+    },
+    {
+      "name": "searchHint",
+      "value": "搜索城市"
+    },
+    {
+      "name": "clearSearch",
+      "value": "清除搜索"
+    },
+    {
+      "name": "close",
+      "value": "关闭"
+    },
+    {
+      "name": "retry",
+      "value": "重试"
+    },
+    {
+      "name": "keepTyping",
+      "value": "请继续输入…"
+    },
+    {
+      "name": "searchFailed",
+      "value": "搜索失败。请检查网络连接后重试。"
+    },
+    {
+      "name": "noPlacesMatch",
+      "value": "没有与“%1$s”匹配的地点。"
+    },
+    {
+      "name": "welcomeTitle",
+      "value": "欢迎使用 BWeather"
+    },
+    {
+      "name": "welcomeSubtitle",
+      "value": "查看你所在位置和关注地点的天气预报。"
+    },
+    {
+      "name": "useMyLocation",
+      "value": "使用我的位置"
+    },
+    {
+      "name": "findingYou",
+      "value": "正在定位…"
+    },
+    {
+      "name": "openSettings",
+      "value": "打开设置"
+    },
+    {
+      "name": "continueWith",
+      "value": "继续使用%1$s"
+    },
+    {
+      "name": "approximateFromNetwork",
+      "value": "大致位置，基于你的网络"
+    },
+    {
+      "name": "searchForCity",
+      "value": "搜索城市"
+    },
+    {
+      "name": "locationPrivacyNote",
+      "value": "你的位置仅用于获取天气预报。"
+    },
+    {
+      "name": "locationServiceDisabled",
+      "value": "定位服务已关闭。"
+    },
+    {
+      "name": "locationPermissionDenied",
+      "value": "未授予位置权限。"
+    },
+    {
+      "name": "locationPermissionBlocked",
+      "value": "位置权限已被阻止。你可以在设置中允许。"
+    },
+    {
+      "name": "locationUnavailable",
+      "value": "暂时无法获取你的位置。"
+    },
+    {
+      "name": "approximateBanner",
+      "value": "正在显示基于网络的大致位置。"
+    },
+    {
+      "name": "usePrecise",
+      "value": "使用精确位置"
+    },
+    {
+      "name": "noPlacesTitle",
+      "value": "还没有地点"
+    },
+    {
+      "name": "noPlacesBody",
+      "value": "使用你的位置或添加城市来查看天气预报。"
+    },
+    {
+      "name": "noSavedPlaces",
+      "value": "还没有保存的地点。点按 + 添加城市。"
+    },
+    {
+      "name": "yourLocation",
+      "value": "你的位置"
+    },
+    {
+      "name": "approximateLocation",
+      "value": "大致位置"
+    },
+    {
+      "name": "removeCity",
+      "value": "移除%1$s"
+    },
+    {
+      "name": "reorderHint",
+      "value": "长按并拖动城市可调整顺序。"
+    },
+    {
+      "name": "forecastLoadFailed",
+      "value": "无法加载%1$s的天气预报。"
+    },
+    {
+      "name": "forecastUnavailable",
+      "value": "无法加载天气预报"
+    },
+    {
+      "name": "forecastErrorNetwork",
+      "value": "无法连接天气服务。请检查网络连接后重试。"
+    },
+    {
+      "name": "forecastErrorData",
+      "value": "天气服务返回了无法读取的数据。请稍后重试。"
+    },
+    {
+      "name": "couldNotRefresh",
+      "value": "无法刷新"
+    },
+    {
+      "name": "updatedAgo",
+      "value": "%1$s更新"
+    },
+    {
+      "name": "ageJustNow",
+      "value": "刚刚"
+    },
+    {
+      "name": "ageMinutes",
+      "value": "%1$s 分钟前"
+    },
+    {
+      "name": "ageHours",
+      "value": "%1$s 小时前"
+    },
+    {
+      "name": "ageDays_zero",
+      "value": "%1$s 天前"
+    },
+    {
+      "name": "ageDays_one",
+      "value": "1 天前"
+    },
+    {
+      "name": "ageDays_other",
+      "value": "%1$s 天前"
+    },
+    {
+      "name": "feelsLike",
+      "value": "体感 %1$s"
+    },
+    {
+      "name": "rainChance",
+      "value": "降雨概率"
+    },
+    {
+      "name": "windWithDirection",
+      "value": "%1$s风"
+    },
+    {
+      "name": "humidity",
+      "value": "湿度"
+    },
+    {
+      "name": "daily",
+      "value": "每日"
+    },
+    {
+      "name": "hourly",
+      "value": "逐小时"
+    },
+    {
+      "name": "today",
+      "value": "今天"
+    },
+    {
+      "name": "now",
+      "value": "现在"
+    },
+    {
+      "name": "windDirection",
+      "value": "风向"
+    },
+    {
+      "name": "windGusts",
+      "value": "阵风"
+    },
+    {
+      "name": "rainToday",
+      "value": "今日降雨"
+    },
+    {
+      "name": "pressure",
+      "value": "气压"
+    },
+    {
+      "name": "cloudCover",
+      "value": "云量"
+    },
+    {
+      "name": "dewPoint",
+      "value": "露点"
+    },
+    {
+      "name": "sunrise",
+      "value": "日出"
+    },
+    {
+      "name": "sunset",
+      "value": "日落"
+    },
+    {
+      "name": "semanticsCurrent",
+      "value": "%1$s 度，%2$s"
+    },
+    {
+      "name": "semanticsDay",
+      "value": "%1$s：%2$s，%3$s 至 %4$s"
+    },
+    {
+      "name": "semanticsRainChance",
+      "value": "降雨概率 %1$s%%"
+    },
+    {
+      "name": "compassPoints",
+      "value": "北,东北偏北,东北,东北偏东,东,东南偏东,东南,东南偏南,南,西南偏南,西南,西南偏西,西,西北偏西,西北,西北偏北"
+    },
+    {
+      "name": "settingsGeneral",
+      "value": "常规"
+    },
+    {
+      "name": "settingsTheme",
+      "value": "主题"
+    },
+    {
+      "name": "themeAuto",
+      "value": "自动"
+    },
+    {
+      "name": "themeAutoHint",
+      "value": "日出到日落为浅色，夜间为深色"
+    },
+    {
+      "name": "themeLight",
+      "value": "浅色"
+    },
+    {
+      "name": "themeDark",
+      "value": "深色"
+    },
+    {
+      "name": "settingsLanguage",
+      "value": "语言"
+    },
+    {
+      "name": "languageSystem",
+      "value": "跟随系统"
+    },
+    {
+      "name": "settingsTemperature",
+      "value": "温度"
+    },
+    {
+      "name": "unitCelsius",
+      "value": "摄氏度 (°C)"
+    },
+    {
+      "name": "unitFahrenheit",
+      "value": "华氏度 (°F)"
+    },
+    {
+      "name": "settingsWindSpeed",
+      "value": "风速"
+    },
+    {
+      "name": "unitKmh",
+      "value": "千米/小时 (km/h)"
+    },
+    {
+      "name": "unitMph",
+      "value": "英里/小时 (mph)"
+    },
+    {
+      "name": "unitMs",
+      "value": "米/秒 (m/s)"
+    },
+    {
+      "name": "unitKnots",
+      "value": "节 (kn)"
+    },
+    {
+      "name": "settingsPrecipitation",
+      "value": "降水量"
+    },
+    {
+      "name": "unitMm",
+      "value": "毫米 (mm)"
+    },
+    {
+      "name": "unitInch",
+      "value": "英寸 (in)"
+    },
+    {
+      "name": "settingsAbout",
+      "value": "关于"
+    },
+    {
+      "name": "aboutApp",
+      "value": "关于 BWeather"
+    },
+    {
+      "name": "privacyPolicy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "termsOfUse",
+      "value": "使用条款"
+    },
+    {
+      "name": "version",
+      "value": "版本 %1$s"
+    },
+    {
+      "name": "aboutDescription",
+      "value": "BWeather 显示你所在位置和已保存地点的当前天气与预报。由 Nobel 为 Bsoft Limited 开发和维护。"
+    },
+    {
+      "name": "aboutDataSources",
+      "value": "数据来源"
+    },
+    {
+      "name": "aboutOpenMeteo",
+      "value": "天气与地点搜索：Open-Meteo (open-meteo.com)，采用 CC BY 4.0 许可。"
+    },
+    {
+      "name": "aboutOsm",
+      "value": "地名：© OpenStreetMap 贡献者 (Nominatim)，ODbL。"
+    },
+    {
+      "name": "aboutIpapi",
+      "value": "大致位置：ipapi.co。"
+    },
+    {
+      "name": "aboutIcons",
+      "value": "天气图标：Bas Milius 的 Meteocons (MIT)。"
+    },
+    {
+      "name": "privacyIntro",
+      "value": "BWeather 没有账户、没有广告，也没有分析统计。本页说明哪些数据会离开你的设备以及原因。"
+    },
+    {
+      "name": "privacyLocationTitle",
+      "value": "你的位置"
+    },
+    {
+      "name": "privacyLocationBody",
+      "value": "如果你允许，应用会读取设备的位置。坐标会发送给 Open-Meteo 以获取天气预报，并发送给 OpenStreetMap Nominatim 以获取地名。不会发送到其他任何地方。"
+    },
+    {
+      "name": "privacyApproximateTitle",
+      "value": "大致位置"
+    },
+    {
+      "name": "privacyApproximateBody",
+      "value": "当无法获取精确位置时，应用会向 ipapi.co 请求城市级别的大致位置。ipapi.co 需要看到你的 IP 地址才能响应此请求。"
+    },
+    {
+      "name": "privacySearchTitle",
+      "value": "城市搜索"
+    },
+    {
+      "name": "privacySearchBody",
+      "value": "你在城市搜索中输入的文字会发送到 Open-Meteo 的地理编码服务，以查找匹配的地点。"
+    },
+    {
+      "name": "privacyStorageTitle",
+      "value": "存储在设备上的数据"
+    },
+    {
+      "name": "privacyStorageBody",
+      "value": "你保存的城市、最新的天气预报和设置仅存储在此设备上。卸载应用会将其删除。"
+    },
+    {
+      "name": "privacyContactTitle",
+      "value": "联系方式"
+    },
+    {
+      "name": "privacyContactBody",
+      "value": "有隐私方面的问题？请通过应用商店页面联系 Bsoft Limited。"
+    },
+    {
+      "name": "termsIntro",
+      "value": "使用 BWeather 即表示你同意这些条款。"
+    },
+    {
+      "name": "termsAccuracyTitle",
+      "value": "预报准确性"
+    },
+    {
+      "name": "termsAccuracyBody",
+      "value": "天气预报是估计值，可能会出错。涉及安全的决定请勿依赖 BWeather；请遵循本国气象部门发布的官方预警。"
+    },
+    {
+      "name": "termsServiceTitle",
+      "value": "服务"
+    },
+    {
+      "name": "termsServiceBody",
+      "value": "BWeather 按“现状”提供，不作任何保证。功能可能会变化，服务有时可能无法使用。"
+    },
+    {
+      "name": "termsThirdPartyTitle",
+      "value": "第三方数据"
+    },
+    {
+      "name": "termsThirdPartyBody",
+      "value": "天气数据来自 Open-Meteo，地名来自 OpenStreetMap。这些数据适用其各自的条款和许可。"
+    },
+    {
+      "name": "legalLastUpdated",
+      "value": "最后更新：%1$s"
+    },
+    {
+      "name": "wmo0",
+      "value": "晴朗"
+    },
+    {
+      "name": "wmo1",
+      "value": "大致晴朗"
+    },
+    {
+      "name": "wmo2",
+      "value": "局部多云"
+    },
+    {
+      "name": "wmo3",
+      "value": "阴天"
+    },
+    {
+      "name": "wmo45",
+      "value": "雾"
+    },
+    {
+      "name": "wmo48",
+      "value": "雾凇"
+    },
+    {
+      "name": "wmo51",
+      "value": "小毛毛雨"
+    },
+    {
+      "name": "wmo53",
+      "value": "中毛毛雨"
+    },
+    {
+      "name": "wmo55",
+      "value": "大毛毛雨"
+    },
+    {
+      "name": "wmo56",
+      "value": "轻度冻毛毛雨"
+    },
+    {
+      "name": "wmo57",
+      "value": "重度冻毛毛雨"
+    },
+    {
+      "name": "wmo61",
+      "value": "小雨"
+    },
+    {
+      "name": "wmo63",
+      "value": "中雨"
+    },
+    {
+      "name": "wmo65",
+      "value": "大雨"
+    },
+    {
+      "name": "wmo66",
+      "value": "小冻雨"
+    },
+    {
+      "name": "wmo67",
+      "value": "大冻雨"
+    },
+    {
+      "name": "wmo71",
+      "value": "小雪"
+    },
+    {
+      "name": "wmo73",
+      "value": "中雪"
+    },
+    {
+      "name": "wmo75",
+      "value": "大雪"
+    },
+    {
+      "name": "wmo77",
+      "value": "米雪"
+    },
+    {
+      "name": "wmo80",
+      "value": "小阵雨"
+    },
+    {
+      "name": "wmo81",
+      "value": "中阵雨"
+    },
+    {
+      "name": "wmo82",
+      "value": "强阵雨"
+    },
+    {
+      "name": "wmo85",
+      "value": "小阵雪"
+    },
+    {
+      "name": "wmo86",
+      "value": "大阵雪"
+    },
+    {
+      "name": "wmo95",
+      "value": "雷暴"
+    },
+    {
+      "name": "wmo96",
+      "value": "雷暴伴小冰雹"
+    },
+    {
+      "name": "wmo99",
+      "value": "雷暴伴大冰雹"
+    },
+    {
+      "name": "wmoUnknown",
+      "value": "未知天气"
+    },
+    {
+      "name": "pageNotFound",
+      "value": "找不到页面"
+    },
+    {
+      "name": "airQuality",
+      "value": "空气质量"
+    },
+    {
+      "name": "airQualityIndex",
+      "value": "美国 AQI %1$s"
+    },
+    {
+      "name": "aqiGood",
+      "value": "良好"
+    },
+    {
+      "name": "aqiModerate",
+      "value": "中等"
+    },
+    {
+      "name": "aqiSensitive",
+      "value": "对敏感人群不健康"
+    },
+    {
+      "name": "aqiUnhealthy",
+      "value": "不健康"
+    },
+    {
+      "name": "aqiVeryUnhealthy",
+      "value": "非常不健康"
+    },
+    {
+      "name": "aqiHazardous",
+      "value": "危险"
+    },
+    {
+      "name": "pm25",
+      "value": "PM2.5"
+    },
+    {
+      "name": "pm10",
+      "value": "PM10"
+    },
+    {
+      "name": "dust",
+      "value": "沙尘"
+    },
+    {
+      "name": "uvIndex",
+      "value": "紫外线指数"
+    },
+    {
+      "name": "uvLow",
+      "value": "低"
+    },
+    {
+      "name": "uvModerate",
+      "value": "中等"
+    },
+    {
+      "name": "uvHigh",
+      "value": "高"
+    },
+    {
+      "name": "uvVeryHigh",
+      "value": "很高"
+    },
+    {
+      "name": "uvExtreme",
+      "value": "极高"
+    },
+    {
+      "name": "pollen",
+      "value": "花粉"
+    },
+    {
+      "name": "pollenAlder",
+      "value": "桤木"
+    },
+    {
+      "name": "pollenBirch",
+      "value": "桦树"
+    },
+    {
+      "name": "pollenGrass",
+      "value": "禾草"
+    },
+    {
+      "name": "pollenMugwort",
+      "value": "艾蒿"
+    },
+    {
+      "name": "pollenOlive",
+      "value": "橄榄"
+    },
+    {
+      "name": "pollenRagweed",
+      "value": "豚草"
+    },
+    {
+      "name": "harmattanDustHint",
+      "value": "沙尘浓度高：外出时建议戴口罩。"
+    },
+    {
+      "name": "chart",
+      "value": "图表"
+    },
+    {
+      "name": "chartLegendTemperature",
+      "value": "温度"
+    },
+    {
+      "name": "chartLegendRain",
+      "value": "降雨概率"
+    },
+    {
+      "name": "settingsNotifications",
+      "value": "通知"
+    },
+    {
+      "name": "notifyMorningBrief",
+      "value": "早间简报"
+    },
+    {
+      "name": "notifyMorningBriefDetail",
+      "value": "每天早上推送你所在位置的今日预报。"
+    },
+    {
+      "name": "notifyBriefTime",
+      "value": "时间"
+    },
+    {
+      "name": "notifyRain",
+      "value": "降雨提醒"
+    },
+    {
+      "name": "notifyRainDetail",
+      "value": "未来 2 小时内可能下雨时提醒。"
+    },
+    {
+      "name": "notifySevere",
+      "value": "恶劣天气"
+    },
+    {
+      "name": "notifySevereDetail",
+      "value": "雷暴、强风或极端高温。"
+    },
+    {
+      "name": "notifyPermissionDenied",
+      "value": "BWeather 的通知已在设备设置中关闭。"
+    },
+    {
+      "name": "notifyUnsupported",
+      "value": "通知功能仅在 Android 应用中提供。"
+    },
+    {
+      "name": "notifyBackgroundNote",
+      "value": "提醒大约每小时检查一次，因此可能会稍有延迟。"
+    },
+    {
+      "name": "notifyChannelForecast",
+      "value": "天气预报"
+    },
+    {
+      "name": "notifyChannelAlerts",
+      "value": "天气提醒"
+    },
+    {
+      "name": "briefTitle",
+      "value": "%1$s今日天气"
+    },
+    {
+      "name": "briefBody",
+      "value": "%1$s，%2$s 至 %3$s。降雨概率 %4$s%%。"
+    },
+    {
+      "name": "rainAlertTitle",
+      "value": "%1$s预计有雨"
+    },
+    {
+      "name": "rainAlertBody",
+      "value": "%2$s前后降雨概率 %1$s%%。"
+    },
+    {
+      "name": "severeThunderTitle",
+      "value": "%1$s附近有雷暴"
+    },
+    {
+      "name": "severeThunderBody",
+      "value": "预计 %1$s前后有雷暴。请尽量留在室内。"
+    },
+    {
+      "name": "severeWindTitle",
+      "value": "%1$s有强风"
+    },
+    {
+      "name": "severeWindBody",
+      "value": "今天预计阵风最高可达 %1$s。"
+    },
+    {
+      "name": "severeHeatTitle",
+      "value": "%1$s极端高温"
+    },
+    {
+      "name": "severeHeatBody",
+      "value": "今天体感温度将达 %1$s。请多喝水，避开正午阳光。"
+    },
+    {
+      "name": "aboutCams",
+      "value": "空气质量：使用哥白尼大气监测服务的信息生成（通过 Open-Meteo）。"
+    },
+    {
+      "name": "widgetRange",
+      "value": "最高 %1$s · 最低 %2$s"
+    },
+    {
+      "name": "widgetUpdated",
+      "value": "%1$s 更新"
+    },
+    {
+      "name": "tipsTitle",
+      "value": "今日提示"
+    },
+    {
+      "name": "tipUmbrella",
+      "value": "记得带伞：降雨概率 %1$s%%，最可能在 %2$s前后。"
+    },
+    {
+      "name": "tipClothesHot",
+      "value": "穿轻薄透气的衣服。"
+    },
+    {
+      "name": "tipClothesWarm",
+      "value": "适合穿 T 恤。"
+    },
+    {
+      "name": "tipClothesMild",
+      "value": "带一件薄外套。"
+    },
+    {
+      "name": "tipClothesCool",
+      "value": "穿一件保暖外套。"
+    },
+    {
+      "name": "tipClothesCold",
+      "value": "外面很冷，注意保暖。"
+    },
+    {
+      "name": "tipSunscreen",
+      "value": "今天紫外线%1$s：10:00 至 16:00 之间请涂防晒霜并戴帽子。"
+    },
+    {
+      "name": "tipHydrate",
+      "value": "体感温度将达 %1$s。请多喝水。"
+    },
+    {
+      "name": "tipLaundryGood",
+      "value": "今天适合在户外晾衣服。"
+    },
+    {
+      "name": "tipLaundryBad",
+      "value": "今天不适合在户外晾衣服。"
+    },
+    {
+      "name": "tipBestOutdoorTime",
+      "value": "最适合户外活动的时间：%1$s前后。"
+    },
+    {
+      "name": "tipAirQuality",
+      "value": "空气质量差：减少长时间或高强度的户外活动。"
+    },
+    {
+      "name": "tipMosquitoes",
+      "value": "傍晚温暖潮湿：蚊子可能较多，请使用驱蚊剂或蚊帐。"
+    },
+    {
+      "name": "tipDriveFog",
+      "value": "小心驾驶：预计 %1$s前后有雾。"
+    },
+    {
+      "name": "tipDriveRain",
+      "value": "小心驾驶：预计 %1$s前后有大雨。"
+    },
+    {
+      "name": "refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "settingsDisplay",
+      "value": "显示与数据"
+    },
+    {
+      "name": "settingsAnimatedBackground",
+      "value": "动态背景"
+    },
+    {
+      "name": "settingsAnimatedBackgroundDetail",
+      "value": "在预报后面显示动态天空。设备开启减少动态效果时保持静止。"
+    },
+    {
+      "name": "settingsMinuteRain",
+      "value": "分钟级降雨"
+    },
+    {
+      "name": "settingsMinuteRainDetail",
+      "value": "以 15 分钟为间隔显示未来 2 小时的降雨。会略微多用一些数据。"
+    },
+    {
+      "name": "settingsCrashReports",
+      "value": "发送崩溃报告"
+    },
+    {
+      "name": "settingsCrashReportsDetail",
+      "value": "匿名错误信息，帮助修复问题。不含位置或个人数据。"
+    },
+    {
+      "name": "nextTwoHours",
+      "value": "未来 2 小时"
+    },
+    {
+      "name": "rainStartingIn",
+      "value": "约 %1$s 分钟后开始下雨"
+    },
+    {
+      "name": "rainStoppingIn",
+      "value": "约 %1$s 分钟后雨停"
+    },
+    {
+      "name": "rainContinuing",
+      "value": "未来至少 2 小时持续降雨"
+    },
+    {
+      "name": "noRainSoon",
+      "value": "未来 2 小时预计无雨"
+    },
+    {
+      "name": "tempAboutNormal",
+      "value": "与往年同期持平"
+    },
+    {
+      "name": "tempWarmerThanUsual",
+      "value": "比往年同期高 %1$s°"
+    },
+    {
+      "name": "tempCoolerThanUsual",
+      "value": "比往年同期低 %1$s°"
+    },
+    {
+      "name": "tempNormalsSource",
+      "value": "今日最高气温与 %1$s–%2$s 年同日平均最高气温的比较。"
+    },
+    {
+      "name": "radar",
+      "value": "降雨雷达"
+    },
+    {
+      "name": "radarUnavailable",
+      "value": "雷达暂时不可用。"
+    },
+    {
+      "name": "radarNoCoverage",
+      "value": "雷达显示过去 2 小时。部分地区覆盖较少或没有覆盖。"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "aboutRainViewer",
+      "value": "雷达：天气数据由 RainViewer 提供；地图 © OpenStreetMap 贡献者。"
+    },
+    {
+      "name": "privacyRadarTitle",
+      "value": "雷达地图"
+    },
+    {
+      "name": "privacyRadarBody",
+      "value": "打开雷达时，会从 OpenStreetMap 下载你所查看区域的地图图块，并从 RainViewer 下载雷达图像。与任何网站一样，它们会看到你的 IP 地址。"
+    },
+    {
+      "name": "privacyCrashTitle",
+      "value": "崩溃报告"
+    },
+    {
+      "name": "privacyCrashBody",
+      "value": "如果应用崩溃，可能会向 Sentry 发送一份匿名错误报告（设备型号、系统版本、应用版本和错误信息），以便我们修复问题。报告绝不包含你的位置、保存的地点或 IP 地址。你可以在设置中关闭此功能。"
+    },
+    {
+      "name": "aboutHistory",
+      "value": "气候平均值：Open-Meteo 历史天气 API (ERA5)。"
+    },
+    {
+      "name": "zoomIn",
+      "value": "放大"
+    },
+    {
+      "name": "zoomOut",
+      "value": "缩小"
+    },
+    {
+      "name": "settingsAppearance",
+      "value": "外观"
+    },
+    {
+      "name": "settingsUnits",
+      "value": "单位"
+    },
+    {
+      "name": "settingsPrivacy",
+      "value": "隐私"
+    },
+    {
+      "name": "cityRemoved",
+      "value": "已移除%1$s"
+    },
+    {
+      "name": "undo",
+      "value": "撤销"
+    },
+    {
+      "name": "sunAndMoon",
+      "value": "日月"
+    },
+    {
+      "name": "daylight",
+      "value": "白昼时长"
+    },
+    {
+      "name": "daylightDuration",
+      "value": "%1$s 小时 %2$s 分钟"
+    },
+    {
+      "name": "moonNew",
+      "value": "新月"
+    },
+    {
+      "name": "moonWaxingCrescent",
+      "value": "蛾眉月"
+    },
+    {
+      "name": "moonFirstQuarter",
+      "value": "上弦月"
+    },
+    {
+      "name": "moonWaxingGibbous",
+      "value": "盈凸月"
+    },
+    {
+      "name": "moonFull",
+      "value": "满月"
+    },
+    {
+      "name": "moonWaningGibbous",
+      "value": "亏凸月"
+    },
+    {
+      "name": "moonLastQuarter",
+      "value": "下弦月"
+    },
+    {
+      "name": "moonWaningCrescent",
+      "value": "残月"
+    },
+    {
+      "name": "moonIllumination",
+      "value": "亮度 %1$s%%"
+    },
+    {
+      "name": "navTrips",
+      "value": "行程"
+    },
+    {
+      "name": "tripsEmptyTitle",
+      "value": "还没有行程"
+    },
+    {
+      "name": "tripsEmptyBody",
+      "value": "规划行程，逐日查看每一站的天气。"
+    },
+    {
+      "name": "planTrip",
+      "value": "规划行程"
+    },
+    {
+      "name": "newTrip",
+      "value": "新建行程"
+    },
+    {
+      "name": "editTrip",
+      "value": "编辑行程"
+    },
+    {
+      "name": "tripName",
+      "value": "行程名称"
+    },
+    {
+      "name": "tripNameHint",
+      "value": "例如：阿布贾过圣诞"
+    },
+    {
+      "name": "tripDefaultName",
+      "value": "%1$s之旅"
+    },
+    {
+      "name": "tripStops",
+      "value": "站点"
+    },
+    {
+      "name": "addStop",
+      "value": "添加站点"
+    },
+    {
+      "name": "removeStop",
+      "value": "移除站点"
+    },
+    {
+      "name": "chooseDates",
+      "value": "选择日期"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "deleteTrip",
+      "value": "删除行程"
+    },
+    {
+      "name": "tripDeleted",
+      "value": "已删除行程"
+    },
+    {
+      "name": "tripProblemNoStops",
+      "value": "请至少添加一个站点。"
+    },
+    {
+      "name": "tripProblemOrder",
+      "value": "每一站的开始日期不能早于上一站的结束日期。"
+    },
+    {
+      "name": "tripProblemTooLong",
+      "value": "行程最长 %1$s 天。"
+    },
+    {
+      "name": "tripStartsIn_zero",
+      "value": "今天出发"
+    },
+    {
+      "name": "tripStartsIn_one",
+      "value": "明天出发"
+    },
+    {
+      "name": "tripStartsIn_other",
+      "value": "%1$s 天后出发"
+    },
+    {
+      "name": "tripOngoing",
+      "value": "进行中"
+    },
+    {
+      "name": "tripEnded",
+      "value": "已结束"
+    },
+    {
+      "name": "tripDayCount_zero",
+      "value": "%1$s 天"
+    },
+    {
+      "name": "tripDayCount_one",
+      "value": "1 天"
+    },
+    {
+      "name": "tripDayCount_other",
+      "value": "%1$s 天"
+    },
+    {
+      "name": "travelDay",
+      "value": "从%1$s出发的旅行日"
+    },
+    {
+      "name": "typicalWeather",
+      "value": "往年同期天气"
+    },
+    {
+      "name": "typicalWeatherNote",
+      "value": "%1$s 天以后的日子显示往年同期天气（过去 20 年平均值）。行程临近时会自动换成天气预报。"
+    },
+    {
+      "name": "weatherUnknown",
+      "value": "暂无数据"
+    },
+    {
+      "name": "packingList",
+      "value": "行李清单"
+    },
+    {
+      "name": "packingEmpty",
+      "value": "这样的天气无需特别准备。"
+    },
+    {
+      "name": "packUmbrella",
+      "value": "雨伞"
+    },
+    {
+      "name": "packRainJacket",
+      "value": "雨衣"
+    },
+    {
+      "name": "packSunscreen",
+      "value": "防晒霜"
+    },
+    {
+      "name": "packSunglasses",
+      "value": "太阳镜"
+    },
+    {
+      "name": "packHat",
+      "value": "遮阳帽"
+    },
+    {
+      "name": "packLightClothes",
+      "value": "轻薄透气的衣服"
+    },
+    {
+      "name": "packWaterBottle",
+      "value": "可重复使用的水瓶"
+    },
+    {
+      "name": "packWarmLayer",
+      "value": "保暖毛衣或抓绒衣"
+    },
+    {
+      "name": "packCoat",
+      "value": "冬季外套"
+    },
+    {
+      "name": "packGloves",
+      "value": "手套"
+    },
+    {
+      "name": "packWindbreaker",
+      "value": "防风外套"
+    },
+    {
+      "name": "packInsectRepellent",
+      "value": "驱蚊剂"
+    },
+    {
+      "name": "shareTrip",
+      "value": "分享"
+    },
+    {
+      "name": "tripReminder",
+      "value": "出发前一天提醒我"
+    },
+    {
+      "name": "tripReminderDetail",
+      "value": "出发前一天傍晚发送通知，附上第一站的天气预报。"
+    },
+    {
+      "name": "tripReminderTitle",
+      "value": "您的%1$s之旅明天开始"
+    },
+    {
+      "name": "tripReminderBodyFallback",
+      "value": "出发前请查看天气预报。"
+    },
+    {
+      "name": "tripOutlookRange",
+      "value": "%1$s 至 %2$s"
+    },
+    {
+      "name": "tripRainyDays_zero",
+      "value": "预计无雨"
+    },
+    {
+      "name": "tripRainyDays_one",
+      "value": "1 天可能下雨"
+    },
+    {
+      "name": "tripRainyDays_other",
+      "value": "%1$s 天可能下雨"
+    },
+    {
+      "name": "shareForecastDay",
+      "value": "%1$s · %2$s：%3$s，%4$s 至 %5$s，降雨概率 %6$s%%"
+    },
+    {
+      "name": "shareTypicalDay",
+      "value": "%1$s · %2$s：往年 %3$s 至 %4$s"
+    },
+    {
+      "name": "sharedFromApp",
+      "value": "分享自 BWeather"
+    },
+    {
+      "name": "privacyTripsTitle",
+      "value": "行程"
+    },
+    {
+      "name": "privacyTripsBody",
+      "value": "您规划的行程仅存储在此设备上。为获取天气，每一站的坐标和日期会发送给 Open-Meteo。"
+    },
+    {
+      "name": "card_description",
+      "value": "您所在位置的当前天气"
+    },
+    {
+      "name": "card_open_app",
+      "value": "打开 BWeather 进行设置"
+    },
+    {
+      "name": "notifyBackgroundNoteHarmony",
+      "value": "系统允许时，每隔几小时检查一次提醒，因此可能会稍有延迟。"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "用于显示您所在位置的天气预报。"
+    }
+  ]
+}
